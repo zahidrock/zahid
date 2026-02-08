@@ -36,7 +36,11 @@ http://210.4.72.204/hls-live/livepkgr/_definst_/liveevent/livestream3.m3u8
 https://stream.shariarsuvo.com/hls_live2/channela1.m3u8
 #EXTINF:-1 group-title="Bangladeshi 🇧🇩" tvg-id="ChannelS.bd" tvg-logo="",Channel S
 https://app.ncare.live/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI/chsukoff.stream/playlist.m3u8
-#EXTINF:-1 group-title="Bangladeshi 🇧🇩" tvg-id="DesheBideshe" tvg-logo="",DesheBideshe
+#EXTINF:-1 tvg-id="" tvg-name="Mirazofficial" tvg-logo="" group-title="LIVE TV", Asian tv
+https://app24.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMFDDEHGcfRgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcEdsEfeDeKiNkVN3PTOmdFsaWRtaW51aiPhnPTI2/asian-test-sample-ok-d.stream/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Mirazofficial" tvg-logo="" group-title="LIVE TV", Channels S
+https://app24.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMFDDEHGcfRgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcEdsEfeDeKiNkVN3PTOmdFsaWRtaW51aiPhnPTI2/channels.stream/playlist.m3u8
+#EXTINF:-1 group-title="Bangladeshi 🇧🇩" tvg-id="DesheBideshe" tvg-logo="",Deshe Bideshe
 https://dbcanada.sonarbanglatv.com/deshebideshe/dbtv/index.m3u8
 #EXTINF:-1 group-title="Bangladeshi 🇧🇩" tvg-id="GTVHD.bd" tvg-logo="",GAZI TV HD
 https://app24.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMFDDEHGcfRgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcEdsEfeDeKiNkVN3PTOmdFsaWRtaW51aiPhnPTI2/gazibdz.stream/tracks-v1a1/mono.m3u8
@@ -58,12 +62,6 @@ https://cloudfrontnet.vercel.app/tplay/playout/209617/master.m3u8
 ########################## Indian Bangla CHANNELS ##########################
 #EXTINF:-1 group-title="Indian Bangla" tvg-id="akashaat.in" tvg-logo="",Akash Aath
 https://cdn-4.pishow.tv/live/969/master.m3u8
-#EXTINF:-1 group-title="Indian Bangla" tvg-id="JankharTV.in" tvg-logo="",Jankhar TV
-https://dbcanada.sonarbanglatv.com/jhankartv/jtv/index.m3u8
-#EXTINF:-1 group-title="Indian Bangla" tvg-id="dhoommusic.bd" tvg-logo="",DHOOM MUSIC
-https://cdn-1.pishow.tv/live/1456/master.m3u8
-#EXTINF:-1 group-title="Indian Bangla" tvg-id="starjalsha.in" tvg-logo="",STAR JALSHA HD
-https://yupptvcatchupire.yuppcdn.net/preview/starjalsha/1800.m3u8
 #EXTINF:-1 group-title="Indian Bangla" tvg-id="zeebangla.in" tvg-logo="",Zee Bangla HD
 https://tvsen1.aynaott.com/PNEb3v2q6GBk/index.m3u8
 #EXTINF:-1 group-title="Indian Bangla" tvg-logo="",Star Jalsha HD
@@ -116,21 +114,5 @@ https://moviesphereuk-samsunguk.amagi.tv/playlist.m3u8
 ########################## English Music ##########################
 #EXTINF:-1 group-title="Music" tvg-id="oMusic" tvg-logo="",O Music
 https://cloudfrontnet.vercel.app/tplay/playout/209901/master.m3u8
-
-########################## Sports Channels ##########################
-#EXTINF:-1 tvg-logo="" group-title="Sports",PTV Sports
-https://d4.merichunidya.com:1686/hls/ptvpk.m3u8?md5=fHJWH3fC8Lri71EpFDciZA&expires=1770534783
-#EXTVLCOPT:http-referrer=https://profamouslife.com/
-#EXTVLCOPT:http-origin=https://profamouslife.com
-#EXTINF:-1 tvg-logo="" group-title="Sports",Willow HD
-https://d1.merichunidya.com:1686/hls/willowusa.m3u8?md5=6efsSGM7MD3nFFyptXKqqg&expires=1770534783
-#EXTVLCOPT:http-referrer=https://profamouslife.com/
-#EXTVLCOPT:http-origin=https://profamouslife.com
-#EXTINF:-1 tvg-logo="" group-title="Sports",Willow HD 2
-https://d4.merichunidya.com:1686/hls/willowextra.m3u8?md5=XWqrLDt8W1jLs_i4UCGsnw&expires=1770534783
-#EXTVLCOPT:http-referrer=https://profamouslife.com/
-#EXTVLCOPT:http-origin=https://profamouslife.com
-#EXTINF:-1 tvg-logo="" group-title="Sports",Sky Sports Cricket
-https://d4.merichunidya.com:1686/hls/skyscric.m3u8?md5=_YNkMcyw8NwAt0VDVlvFpQ&expires=1770534784
 #EXTVLCOPT:http-referrer=https://profamouslife.com/
 #EXTVLCOPT:http-origin=https://profamouslife.com
