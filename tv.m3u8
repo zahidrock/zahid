@@ -58,6 +58,39 @@ https://app24.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMFDDEHGcfRgzQ6NTAgdEoaeFzbF9
 https://dzkyvlfyge.erbvr.com/PeaceTvBangla/tracks-v3a1/mono.m3u8
 #EXTINF:-1 group-title="Religious" tvg-id="BanglaWaz.bd" tvg-logo="",BanglaWaz
 https://cloudfrontnet.vercel.app/tplay/playout/209617/master.m3u8
+#EXTINF:0,MYTV HD
+#EXTVLCOPT:network-caching=1000
+http://103.229.254.25:7001/play/a05z/index.m3u8
+#EXTINF:0,Mohona TV
+#EXTVLCOPT:network-caching=1000
+http://103.229.254.25:7001/play/a05t/index.m3u8
+#EXTINF:0,NEXUS TV
+#EXTVLCOPT:network-caching=1000
+http://103.229.254.25:7001/play/a05m/index.m3u8
+#EXTINF:0,Maasranga TV HD
+#EXTVLCOPT:network-caching=1000
+http://103.229.254.25:7001/play/a05q/index.m3u8
+#EXTINF:0,BijoyTV
+#EXTVLCOPT:network-caching=1000
+http://103.229.254.25:7001/play/a066/index.m3u8
+#EXTINF:11,CHANNEL NINE BD
+#EXTVLCOPT:network-caching=1000
+http://103.229.254.25:7001/play/a05j/index.m3u8
+#EXTINF:0,CINEMA HALL
+#EXTVLCOPT:network-caching=1000
+http://103.229.254.25:7001/play/a0es/index.m3u8
+#EXTINF:0,GLOBAL TV HD
+#EXTVLCOPT:network-caching=1000
+http://103.229.254.25:7001/play/a05o/index.m3u8
+#EXTINF:0,Gazi Tv HD
+#EXTVLCOPT:network-caching=1000
+http://103.229.254.25:7001/play/a06t/index.m3u8
+#EXTINF:0,Color Bangla Cinema
+#EXTVLCOPT:network-caching=1000
+http://103.229.254.25:7001/play/a078/index.m3u8
+#EXTINF:0,Jalsha Movies HD
+#EXTVLCOPT:network-caching=1000
+http://103.229.254.25:7001/play/a0dt/index.m3u8
 
 ########################## Indian Bangla CHANNELS ##########################
 #EXTINF:-1 group-title="Indian Bangla" tvg-id="akashaat.in" tvg-logo="",Akash Aath
@@ -74,8 +107,12 @@ https://tvsen3.aynaott.com/u3LkNQ7UHhFX/index.m3u8
 https://cloudfrontnet.vercel.app/tplay/playout/209611/master.m3u8
 #EXTINF:-1 group-title="Kids" tvg-id="MotuPatlu" tvg-logo="",Motu Patlu
 https://live20.bozztv.com/giatvplayout7/giatv-209622/index.m3u8
-#EXTINF:-1 group-title="Kids" tvg-id="Hooray Kids" tvg-logo="",Hooray Kids
-https://cc-hcf2o1ghsvvdu.akamaized.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-hcf2o1ghsvvdu/OTM/OTM_HoorayKids-SCTE_SAMSUNG/playlist.m3u8
+#EXTINF:0,NICK
+#EXTVLCOPT:network-caching=1000
+http://103.229.254.25:7001/play/a07b/index.m3u8
+#EXTINF:0,Pogo
+#EXTVLCOPT:network-caching=1000
+http://103.229.254.25:7001/play/a0dh/index.m3u8
 
 ########################## Infotainment Channels ##########################
 #EXTINF:-1 tvg-logo="" group-title="Infotainment Channels",Discovery Channel
@@ -89,11 +126,25 @@ https://amg00841-aenetworksukane-mysterytv-samsunguk-mggb7.amagi.tv/ts-eu-w1-n2/
 #EXTINF:-1 group-title="Infotainment Channels" tvg-id="WildEarth" tvg-logo="",Wild Earth
 https://wildearth-plex.amagi.tv/masterR1080p.m3u8
 
-########################## English Movies ##########################
-#EXTINF:-1 group-title="English Movies" tvg-id="USBD1200007FE" tvg-logo="",OuterSphere
-https://d3o593mz1glx8d.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-1ca6ra6358f5t/OuterSphere_US.m3u8
-#EXTINF:-1 tvg-id="e061189b-415d-4241-b0ab-7077924c6775" tvg-logo="" group-title="English Movies",MovieSphere
-https://moviesphereuk-samsunguk.amagi.tv/playlist.m3u8
+########################## Movies ##########################
+#EXTINF:0,MAX Movie
+#EXTVLCOPT:network-caching=1000
+http://103.229.254.25:7001/play/a0et/index.m3u8
+#EXTINF:0,PIX HD
+#EXTVLCOPT:network-caching=1000
+http://103.229.254.25:7001/play/a0ed/index.m3u8
+#EXTINF:0,STAR Movies HD
+#EXTVLCOPT:network-caching=1000
+http://103.229.254.25:7001/play/a02w/index.m3u8
+#EXTINF:0,STAR Movies Select HD
+#EXTVLCOPT:network-caching=1000
+http://103.229.254.25:7001/play/a02v/index.m3u8
+#EXTINF:0,Star Bangla
+#EXTVLCOPT:network-caching=1000
+http://103.229.254.25:7001/play/a0eo/index.m3u8
+#EXTINF:0,Star Gold Select HD
+#EXTVLCOPT:network-caching=1000
+http://103.229.254.25:7001/play/a032/index.m3u8
 
 ########################## Sports Channels ##########################
 #EXTINF:-1 tvg-name="StarSports 2 HD" group-title="Sports",StarSports 2 HD
