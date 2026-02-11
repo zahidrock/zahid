@@ -14,6 +14,9 @@ https://owrcovcrpy.gpcdn.net/bpk-tv/1703/output/1703-audio_113332_eng=113200-vid
 https://owrcovcrpy.gpcdn.net/bpk-tv/1702/output/1702-audio_113322_eng=113200-video=1692000.m3u8
 #EXTINF:-1 group-title="Bangladeshi 🇧🇩" tvg-logo=" ",Independent TV
 https://owrcovcrpy.gpcdn.net/bpk-tv/1704/output/1704-audio_113342_eng=113200-video=1692000.m3u8
+#EXTINF:0,News 24 HD
+#EXTVLCOPT:network-caching=1000
+http://103.229.254.25:7001/play/a06i/index.m3u8
 #EXTINF:-1 group-title="Bangladeshi 🇧🇩" tvg-id="DBCNEWSHD.bd" tvg-logo="",DBC NEWS HD
 https://app24.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMFDDEHGcfRgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcEdsEfeDeKiNkVN3PTOmdFsaWRtaW51aiPhnPTI2/dbcnews.stream/mono.m3u8
 #EXTINF:-1 group-title="Bangladeshi 🇧🇩" tvg-id="EKHON.TV" tvg-logo="",EKHON TV
@@ -85,14 +88,35 @@ http://103.229.254.25:7001/play/a05o/index.m3u8
 #EXTINF:0,Gazi Tv HD
 #EXTVLCOPT:network-caching=1000
 http://103.229.254.25:7001/play/a06t/index.m3u8
+#EXTINF:0,DBC NEWS
+#EXTVLCOPT:network-caching=1000
+http://103.229.254.25:7001/play/a06h/index.m3u8
+#EXTINF:0,Desh TV
+#EXTVLCOPT:network-caching=1000
+http://103.229.254.25:7001/play/a05s/index.m3u8
+#EXTINF:0,Nagorik TV
+#EXTVLCOPT:network-caching=1000
+http://103.229.254.25:7001/play/a06q/index.m3u8
+#EXTINF:0,Rtv HD
+#EXTVLCOPT:network-caching=1000
+http://103.229.254.25:7001/play/a068/index.m3u8
+#EXTINF:0,SA TV HD
+#EXTVLCOPT:network-caching=1000
+http://103.229.254.25:7001/play/a062/index.m3u8
+#EXTINF:0,GEO SUPER
+#EXTVLCOPT:network-caching=1000
+http://103.229.254.25:7001/play/a0ei/index.m3u8
+
+########################## Indian Bangla CHANNELS ##########################
+#EXTINF:0,SONY AATH
+#EXTVLCOPT:network-caching=1000
+http://103.229.254.25:7001/play/a07a/index.m3u8
 #EXTINF:0,Color Bangla Cinema
 #EXTVLCOPT:network-caching=1000
 http://103.229.254.25:7001/play/a078/index.m3u8
 #EXTINF:0,Jalsha Movies HD
 #EXTVLCOPT:network-caching=1000
 http://103.229.254.25:7001/play/a0dt/index.m3u8
-
-########################## Indian Bangla CHANNELS ##########################
 #EXTINF:-1 group-title="Indian Bangla" tvg-id="akashaat.in" tvg-logo="",Akash Aath
 https://cdn-4.pishow.tv/live/969/master.m3u8
 #EXTINF:-1 group-title="Indian Bangla" tvg-id="zeebangla.in" tvg-logo="",Zee Bangla HD
@@ -114,22 +138,13 @@ http://103.229.254.25:7001/play/a07b/index.m3u8
 #EXTVLCOPT:network-caching=1000
 http://103.229.254.25:7001/play/a0dh/index.m3u8
 
-########################## Infotainment Channels ##########################
-#EXTINF:-1 tvg-logo="" group-title="Infotainment Channels",Discovery Channel
-http://fl1.moveonjoy.com/Discovery_Channel/index.m3u8
-#EXTINF:-1 tvg-logo="" group-title="Infotainment Channels",Destination America
-http://fl1.moveonjoy.com/Destination_America/index.m3u8
-#EXTINF:-1 tvg-logo="" group-title="Infotainment Channels",DISCOVERY FAMILY CHANNEL
-http://fl1.moveonjoy.com/DISCOVERY_FAMILY_CHANNEL/index.m3u8
-#EXTINF:-1 group-title="Infotainment Channels" tvg-id="Mystery TV" tvg-logo="",Mystery TV
-https://amg00841-aenetworksukane-mysterytv-samsunguk-mggb7.amagi.tv/ts-eu-w1-n2/playlist/amg00841-aenetworksukane-mysterytv-samsunguk/playlist.m3u8
-#EXTINF:-1 group-title="Infotainment Channels" tvg-id="WildEarth" tvg-logo="",Wild Earth
-https://wildearth-plex.amagi.tv/masterR1080p.m3u8
-
 ########################## Movies ##########################
-#EXTINF:0,CINEMA HALL
+#EXTINF:0,&Prive HD
 #EXTVLCOPT:network-caching=1000
-http://103.229.254.25:7001/play/a0es/index.m3u8
+http://103.229.254.25:7001/play/a03f/index.m3u8
+#EXTINF:0,&flix HD
+#EXTVLCOPT:network-caching=1000
+http://103.229.254.25:7001/play/a02x/index.m3u8
 #EXTINF:0,MAX Movie
 #EXTVLCOPT:network-caching=1000
 http://103.229.254.25:7001/play/a0et/index.m3u8
@@ -148,7 +163,28 @@ http://103.229.254.25:7001/play/a0eo/index.m3u8
 #EXTINF:0,Star Gold Select HD
 #EXTVLCOPT:network-caching=1000
 http://103.229.254.25:7001/play/a032/index.m3u8
+#EXTINF:0,Best Action
+#EXTVLCOPT:network-caching=1000
+http://103.229.254.25:7001/play/a088/index.m3u8
+#EXTINF:0,Zee Cinema HD
+#EXTVLCOPT:network-caching=1000
+http://103.229.254.25:7001/play/a0c2/index.m3u8
+#EXTINF:0,Movies Now HD
+#EXTVLCOPT:network-caching=1000
+http://110.39.27.47:8001/play/a00w/index.m3u8
 
 ########################## Sports Channels ##########################
-#EXTINF:-1 tvg-name="StarSports 2 HD" group-title="Sports",StarSports 2 HD
-http://jmrj02jibon02khan.vercel.app/tracks-v1a1/starsports2/mono.ts.m3u8
+#EXTINF:0,Star Sports 1 HD
+#EXTVLCOPT:network-caching=1000
+http://103.229.254.25:7001/play/a0a0/index.m3u8
+#EXTINF:0,Star Sports 1 Hindi
+#EXTVLCOPT:network-caching=1000
+http://103.229.254.25:7001/play/a0dn/index.m3u8
+#EXTINF:0,Star Sports Select 1 HD
+#EXTVLCOPT:network-caching=1000
+http://103.229.254.25:7001/play/a0bz/index.m3u8
+#EXTINF:0,Star Sports Select 2 HD
+#EXTVLCOPT:network-caching=1000
+http://103.229.254.25:7001/play/a0c1/index.m3u8
+#EXTINF:-1 tvg-logo="https://bd-directory.com/Tsports-BD.JPG" group-title="Sports",Tsports
+https://padmaonline.duckdns.org:8088/T-SportHD/tracks-v1a1/mono.m3u8
