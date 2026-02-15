@@ -106,6 +106,8 @@ http://103.229.254.25:7001/play/a062/index.m3u8
 #EXTINF:0,GEO SUPER
 #EXTVLCOPT:network-caching=1000
 http://103.229.254.25:7001/play/a0ei/index.m3u8
+#EXTINF:-1 group-title="BANGLA" tvg-logo="" ,Deshi Tv
+http://208.86.19.13:81/514.stream/index.m3u8
 
 ########################## Indian Bangla CHANNELS ##########################
 #EXTINF:0,SONY AATH
@@ -186,5 +188,5 @@ http://103.229.254.25:7001/play/a0bz/index.m3u8
 #EXTINF:0,Star Sports Select 2 HD
 #EXTVLCOPT:network-caching=1000
 http://103.229.254.25:7001/play/a0c1/index.m3u8
-#EXTINF:-1 tvg-logo="https://bd-directory.com/Tsports-BD.JPG" group-title="Sports",Tsports
+#EXTINF:-1 tvg-logo="",Tsports
 https://padmaonline.duckdns.org:8088/T-SportHD/tracks-v1a1/mono.m3u8
