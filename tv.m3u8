@@ -30,6 +30,9 @@ https://owrcovcrpy.gpcdn.net/bpk-tv/1711/output/1711-audio_113412_eng=113200-vid
 #EXTINF:0,Maasranga TV HD
 #EXTVLCOPT:network-caching=1000
 http://103.229.254.25:7001/play/a05q/index.m3u8
+#EXTINF:0,SA TV HD
+#EXTVLCOPT:network-caching=1000
+http://103.229.254.25:7001/play/a062/index.m3u8
 #EXTINF:-1 group-title="Bangladeshi 🇧🇩" tvg-id="ekushey.bd" tvg-logo="",Ekushay TV
 http://210.4.72.204/hls-live/livepkgr/_definst_/liveevent/livestream3.m3u8
 #EXTINF:-1 group-title="Bangladeshi 🇧🇩" tvg-id="DesheBideshe" tvg-logo="",Deshe Bideshe
@@ -78,9 +81,6 @@ http://103.229.254.25:7001/play/a06q/index.m3u8
 #EXTINF:0,Rtv HD
 #EXTVLCOPT:network-caching=1000
 http://103.229.254.25:7001/play/a068/index.m3u8
-#EXTINF:0,SA TV HD
-#EXTVLCOPT:network-caching=1000
-http://103.229.254.25:7001/play/a062/index.m3u8
 #EXTINF:0,GEO SUPER
 #EXTVLCOPT:network-caching=1000
 http://103.229.254.25:7001/play/a0ei/index.m3u8
@@ -91,14 +91,3 @@ http://208.86.19.13:81/514.stream/index.m3u8
 #EXTINF:0,Star Sports 1 HD
 #EXTVLCOPT:network-caching=1000
 http://103.229.254.25:7001/play/a0a0/index.m3u8
-#EXTINF:0,Star Sports 1 Hindi
-#EXTVLCOPT:network-caching=1000
-http://103.229.254.25:7001/play/a0dn/index.m3u8
-#EXTINF:0,Star Sports Select 1 HD
-#EXTVLCOPT:network-caching=1000
-http://103.229.254.25:7001/play/a0bz/index.m3u8
-#EXTINF:0,Star Sports Select 2 HD
-#EXTVLCOPT:network-caching=1000
-http://103.229.254.25:7001/play/a0c1/index.m3u8
-#EXTINF:-1 tvg-logo="",Tsports
-https://padmaonline.duckdns.org:8088/T-SportHD/tracks-v1a1/mono.m3u8
