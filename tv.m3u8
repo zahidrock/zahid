@@ -88,7 +88,13 @@ http://103.229.254.25:7001/play/a068/index.m3u8
 #EXTINF:-1 group-title="BANGLA" tvg-logo="" ,Deshi Tv
 http://208.86.19.13:81/514.stream/index.m3u8
 
+########################## Cartoons Channels ##########################
+#EXTINF:-1 group-title="Cartoons" tvg-logo=" ", CN HD+
+https://publlicip.tvhunter.top/SABTV/tracks-v1a1/mono.m3u8
+
 ########################## Sports Channels ##########################
 #EXTINF:0,Star Sports 1 HD
 #EXTVLCOPT:network-caching=1000
 http://103.229.254.25:7001/play/a0a0/index.m3u8
+#EXTINF:-1 group-title="Cartoons" tvg-logo=" ", TSports
+https://publlicip.tvhunter.top/TS/tracks-v1a1/mono.m3u8
