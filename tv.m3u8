@@ -88,6 +88,13 @@ http://103.229.254.25:7001/play/a068/index.m3u8
 #EXTINF:-1 group-title="BANGLA" tvg-logo="" ,Deshi Tv
 http://208.86.19.13:81/514.stream/index.m3u8
 
+#EXTINF:-1 group-title="BANGLA" tvg-logo="" ,News21
+http://103.190.133.68:1935/news21live/live/playlist.m3u8
+#EXTINF:-1 group-title="BANGLA" tvg-logo="" ,Desh Bidesh
+http://157.245.116.246:8080/hls/islamnow/index.m3u8
+#EXTINF:-1 group-title="BANGLA" tvg-logo="" ,Channel 16
+http://103.121.61.218/tmp_hls/f64eac11f2cd8f0efa196f8ad173178e/index.m3u8
+
 ########################## Sports Channels ##########################
 #EXTINF:0,Star Sports 1 HD
 #EXTVLCOPT:network-caching=1000
