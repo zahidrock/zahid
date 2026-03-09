@@ -55,35 +55,25 @@ https://tvsen4.aynaott.com/durontotv/index.m3u8
 https://5dd3981940faa.streamlock.net/ibtvusa/ibtvusa/chunklist_w270842026.m3u8
 #EXTINF:-1 group-title="Religious" tvg-id="PeaceTVBangla" tvg-logo="",Peace TV Bangla
 https://dzkyvlfyge.erbvr.com/PeaceTvBangla/tracks-v3a1/mono.m3u8
-#EXTINF:0,BanglaTV HD
-#EXTVLCOPT:network-caching=1000
+#EXTINF:-1 group-title="BANGLA" tvg-logo="",BanglaTV HD
 http://103.229.254.25:7001/play/a06c/index.m3u8
-#EXTINF:0,MYTV HD
-#EXTVLCOPT:network-caching=1000
+#EXTINF:-1 group-title="BANGLA" tvg-logo="",MYTV HD
 http://103.229.254.25:7001/play/a05z/index.m3u8
-#EXTINF:0,Mohona TV
-#EXTVLCOPT:network-caching=1000
+#EXTINF:-1 group-title="BANGLA" tvg-logo="",Mohona TV
 http://103.229.254.25:7001/play/a05t/index.m3u8
-#EXTINF:0,NEXUS TV
-#EXTVLCOPT:network-caching=1000
+#EXTINF:-1 group-title="BANGLA" tvg-logo="",NEXUS TV
 http://103.229.254.25:7001/play/a05m/index.m3u8
-#EXTINF:0,BijoyTV
-#EXTVLCOPT:network-caching=1000
+#EXTINF:-1 group-title="BANGLA" tvg-logo="",BijoyTV
 http://103.229.254.25:7001/play/a066/index.m3u8
-#EXTINF:0,GLOBAL TV HD
-#EXTVLCOPT:network-caching=1000
+#EXTINF:-1 group-title="BANGLA" tvg-logo="",GLOBAL TV HD
 http://103.229.254.25:7001/play/a05o/index.m3u8
-#EXTINF:0,Gazi Tv HD
-#EXTVLCOPT:network-caching=1000
+#EXTINF:-1 group-title="BANGLA" tvg-logo="",Gazi Tv HD
 http://103.229.254.25:7001/play/a06t/index.m3u8
-#EXTINF:0,Desh TV
-#EXTVLCOPT:network-caching=1000
+#EXTINF:-1 group-title="BANGLA" tvg-logo="",Desh TV
 http://103.229.254.25:7001/play/a05s/index.m3u8
-#EXTINF:0,Nagorik TV
-#EXTVLCOPT:network-caching=1000
+#EXTINF:-1 group-title="BANGLA" tvg-logo="",Nagorik TV
 http://103.229.254.25:7001/play/a06q/index.m3u8
-#EXTINF:0,Rtv HD
-#EXTVLCOPT:network-caching=1000
+#EXTINF:-1 group-title="BANGLA" tvg-logo="",Rtv HD
 http://103.229.254.25:7001/play/a068/index.m3u8
 #EXTINF:-1 group-title="BANGLA" tvg-logo="" ,Deshi Tv
 http://208.86.19.13:81/514.stream/index.m3u8
@@ -95,9 +85,40 @@ http://157.245.116.246:8080/hls/islamnow/index.m3u8
 #EXTINF:-1 group-title="BANGLA" tvg-logo="" ,Channel 16
 http://103.121.61.218/tmp_hls/f64eac11f2cd8f0efa196f8ad173178e/index.m3u8
 
+#EXTINF:-1 group-title="Bangla Music" tvg-logo="",Music Bangla
+#https://app24.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMFDDEHGcfRgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcEdsEfeDeKiNkVN3PTOmdFsaWRtaW51aiPhnPTI2/musicbangla44.stream/tracks-v1a1/mono.m3u8
+http://vmi3039524.contaboserver.net:5050/music/index.m3u8
+#EXTINF:-1 group-title="Bangla Music" tvg-logo="",Bengali Beats
+https://tplay.live/originals/bengali-beats/index.m3u8
+
+########################## Cartoons Channels ##########################
+#EXTINF:-1 tvg-logo=""group-title="Kolkata Bangla",Gopal Bhar
+https://cloudfrontnet.vercel.app/tplay/playout/209611/master.m3u8
+#EXTINF:-1 tvg-logo="",Pogo
+http://103.182.170.32:8888/play/a02p
+#EXTINF:-1 tvg-logo=""group-title="KIDS",Discovery Kids
+http://103.182.170.32:8888/play/a04o
+#EXTINF:-1 tvg-logo="" group-title="Kids", Moto Patlu
+https://cloudfrontnet.vercel.app/tplay/playout/209622/master.m3u8
+
+########################## Informations Channels ##########################
+#EXTINF:-1 tvg-logo=""group-title="Information",Discovery Hindi
+http://202.70.146.135:8000/play/a05z/index.m3u8
+#EXTINF:-63 tvg-logo="" group-title="Documentary",Discovery Science SD
+http://103.229.254.25:7001/play/a03h/index.m3u8
+
+########################## News Channels ##########################
+#EXTINF:-1 tvg-logo=""group-title="English News",CNN
+https://amg01448-samsungin-cnnnow-samsungin-4npqg.amagi.tv/playlist/amg01448-samsungin-cnnnow-samsungin/playlist.m3u8
+#EXTINF:-1 tvg-logo=""group-title="English News",DW Naws
+https://dwamdstream102.akamaized.net/hls/live/2015525/dwstream102/index.m3u8
+#EXTINF:-1 tvg-logo=""group-title="English News",Sky News
+https://d39chvnxm26pgp.cloudfront.net/v1/master/72588bff830dec7b26d7cbbf5f3c24928aec5c03/cc-sthen6ms4vxgv-stage/WNSFO/ABR.m3u8
+
+########################## Movies Channels ##########################
+
+
 ########################## Sports Channels ##########################
 #EXTINF:0,Star Sports 1 HD
 #EXTVLCOPT:network-caching=1000
 http://103.229.254.25:7001/play/a0a0/index.m3u8
-#EXTINF:-1 group-title="Cartoons" tvg-logo=" ", TSports
-https://publlicip.tvhunter.top/TS/tracks-v1a1/mono.m3u8
