@@ -55,27 +55,39 @@ https://tvsen4.aynaott.com/durontotv/index.m3u8
 https://5dd3981940faa.streamlock.net/ibtvusa/ibtvusa/chunklist_w270842026.m3u8
 #EXTINF:-1 group-title="Religious" tvg-id="PeaceTVBangla" tvg-logo="",Peace TV Bangla
 https://dzkyvlfyge.erbvr.com/PeaceTvBangla/tracks-v3a1/mono.m3u8
-#EXTINF:-1 group-title="BANGLA" tvg-logo="",BanglaTV HD
+
+#EXTINF:0,BanglaTV HD
+#EXTVLCOPT:network-caching=1000
 http://103.229.254.25:7001/play/a06c/index.m3u8
-#EXTINF:-1 group-title="BANGLA" tvg-logo="",MYTV HD
+#EXTINF:0,MYTV HD
+#EXTVLCOPT:network-caching=1000
 http://103.229.254.25:7001/play/a05z/index.m3u8
-#EXTINF:-1 group-title="BANGLA" tvg-logo="",Mohona TV
+#EXTINF:0,Mohona TV
+#EXTVLCOPT:network-caching=1000
 http://103.229.254.25:7001/play/a05t/index.m3u8
-#EXTINF:-1 group-title="BANGLA" tvg-logo="",NEXUS TV
+#EXTINF:0,NEXUS TV
+#EXTVLCOPT:network-caching=1000
 http://103.229.254.25:7001/play/a05m/index.m3u8
-#EXTINF:-1 group-title="BANGLA" tvg-logo="",BijoyTV
+#EXTINF:0,BijoyTV
+#EXTVLCOPT:network-caching=1000
 http://103.229.254.25:7001/play/a066/index.m3u8
-#EXTINF:-1 group-title="BANGLA" tvg-logo="",GLOBAL TV HD
+#EXTINF:0,GLOBAL TV HD
+#EXTVLCOPT:network-caching=1000
 http://103.229.254.25:7001/play/a05o/index.m3u8
-#EXTINF:-1 group-title="BANGLA" tvg-logo="",Gazi Tv HD
+#EXTINF:0,Gazi Tv HD
+#EXTVLCOPT:network-caching=1000
 http://103.229.254.25:7001/play/a06t/index.m3u8
-#EXTINF:-1 group-title="BANGLA" tvg-logo="",Desh TV
+#EXTINF:0,Desh TV
+#EXTVLCOPT:network-caching=1000
 http://103.229.254.25:7001/play/a05s/index.m3u8
-#EXTINF:-1 group-title="BANGLA" tvg-logo="",Nagorik TV
+#EXTINF:0,Nagorik TV
+#EXTVLCOPT:network-caching=1000
 http://103.229.254.25:7001/play/a06q/index.m3u8
-#EXTINF:-1 group-title="BANGLA" tvg-logo="",Rtv HD
+#EXTINF:0,Rtv HD
+#EXTVLCOPT:network-caching=1000
 http://103.229.254.25:7001/play/a068/index.m3u8
-#EXTINF:-1 group-title="BANGLA" tvg-logo="" ,Deshi Tv
+#EXTINF:0,Deshi Tv
+#EXTVLCOPT:network-caching=1000
 http://208.86.19.13:81/514.stream/index.m3u8
 
 #EXTINF:-1 group-title="BANGLA" tvg-logo="" ,News21
