@@ -56,37 +56,37 @@ https://5dd3981940faa.streamlock.net/ibtvusa/ibtvusa/chunklist_w270842026.m3u8
 #EXTINF:-1 group-title="Religious" tvg-id="PeaceTVBangla" tvg-logo="",Peace TV Bangla
 https://dzkyvlfyge.erbvr.com/PeaceTvBangla/tracks-v3a1/mono.m3u8
 
-#EXTINF:0,BanglaTV HD
+#EXTINF:1,BanglaTV HD
 #EXTVLCOPT:network-caching=1000
 http://103.229.254.25:7001/play/a06c/index.m3u8
-#EXTINF:0,MYTV HD
+#EXTINF:1,MYTV HD
 #EXTVLCOPT:network-caching=1000
 http://103.229.254.25:7001/play/a05z/index.m3u8
-#EXTINF:0,Mohona TV
+#EXTINF:1,Mohona TV
 #EXTVLCOPT:network-caching=1000
 http://103.229.254.25:7001/play/a05t/index.m3u8
-#EXTINF:0,NEXUS TV
+#EXTINF:1,NEXUS TV
 #EXTVLCOPT:network-caching=1000
 http://103.229.254.25:7001/play/a05m/index.m3u8
-#EXTINF:0,BijoyTV
+#EXTINF:1,BijoyTV
 #EXTVLCOPT:network-caching=1000
 http://103.229.254.25:7001/play/a066/index.m3u8
-#EXTINF:0,GLOBAL TV HD
+#EXTINF:1,GLOBAL TV HD
 #EXTVLCOPT:network-caching=1000
 http://103.229.254.25:7001/play/a05o/index.m3u8
-#EXTINF:0,Gazi Tv HD
+#EXTINF:1,Gazi Tv HD
 #EXTVLCOPT:network-caching=1000
 http://103.229.254.25:7001/play/a06t/index.m3u8
-#EXTINF:0,Desh TV
+#EXTINF:1,Desh TV
 #EXTVLCOPT:network-caching=1000
 http://103.229.254.25:7001/play/a05s/index.m3u8
-#EXTINF:0,Nagorik TV
+#EXTINF:1,Nagorik TV
 #EXTVLCOPT:network-caching=1000
 http://103.229.254.25:7001/play/a06q/index.m3u8
-#EXTINF:0,Rtv HD
+#EXTINF:1,Rtv HD
 #EXTVLCOPT:network-caching=1000
 http://103.229.254.25:7001/play/a068/index.m3u8
-#EXTINF:0,Deshi Tv
+#EXTINF:1,Deshi Tv
 #EXTVLCOPT:network-caching=1000
 http://208.86.19.13:81/514.stream/index.m3u8
 
