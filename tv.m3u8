@@ -39,8 +39,8 @@ https://owrcovcrpy.gpcdn.net/bpk-tv/1728/output/1728-audio_113582_eng=113200-vid
 #EXTINF:-1 group-title="Bangladeshi 🇧🇩" tvg-logo=" ", Channel 9
 https://owrcovcrpy.gpcdn.net/bpk-tv/1729/output/1729-audio_113592_eng=113200-video=1692000.m3u8
 
-#EXTINF:0,Maasranga TV HD
-#EXTVLCOPT:network-caching=1000
+#EXTINF:1,Maasranga TV HD
+#EXTVLCOPT:network-caching=3000
 http://103.229.254.25:7001/play/a05q/index.m3u8
 
 #EXTINF:-1 group-title="Bangladeshi 🇧🇩" tvg-id="ekushey.bd" tvg-logo="",Ekushay TV
