@@ -43,12 +43,12 @@ https://owrcovcrpy.gpcdn.net/bpk-tv/1729/output/1729-audio_113592_eng=113200-vid
 #EXTVLCOPT:network-caching=3000
 http://103.229.254.25:7001/play/a05q/index.m3u8
 
-#EXTINF:-1 group-title="Bangladeshi 🇧🇩" tvg-id="ekushey.bd" tvg-logo="",Ekushay TV
-http://210.4.72.204/hls-live/livepkgr/_definst_/liveevent/livestream3.m3u8
-#EXTINF:-1 tvg-logo="" group-title="Bangla",ETV
+#EXTINF:-1 tvg-logo="" group-title="Bangla",Ekushay TV
 https://tvsen6.aynascope.net/etv/index.m3u8?e=1773300951&u=78be6644-0a65-48ec-81a4-089ac65a2619&token=24c3593ca6d744c210bc6d483cecea17
-#EXTINF:-1 group-title="Bangladeshi 🇧🇩" tvg-id="DesheBideshe" tvg-logo="",Deshe Bideshe
-https://dbcanada.sonarbanglatv.com/deshebideshe/dbtv/index.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Bangla",Maasranga TV
+https://tvsen5.aynascope.net/maasrangatv/index.m3u8?e=1773300952&u=78be6644-0a65-48ec-81a4-089ac65a2619&token=eeae0a5aa2cad18476f0576175eb012e
+#EXTINF:-1 tvg-logo="" group-title="Bangla",Deepto TV
+https://tvsen5.aynascope.net/DeeptoTVHD/index.m3u8?e=1773300953&u=78be6644-0a65-48ec-81a4-089ac65a2619&token=8286f140fc4ac650f93f42138cfb78fa
 #EXTINF:-1 group-title="Bangladeshi 🇧🇩" tvg-id="GreenTV" tvg-logo="",Green TV
 https://app.ncare.live/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI2/greentv.stream/playlist.m3u8
 #EXTINF:-1 group-title="Bangladeshi 🇧🇩" tvg-id="duronto" tvg-logo="",Duronto TV
@@ -57,6 +57,9 @@ https://tvsen4.aynaott.com/durontotv/index.m3u8
 https://5dd3981940faa.streamlock.net/ibtvusa/ibtvusa/chunklist_w270842026.m3u8
 #EXTINF:-1 group-title="Religious" tvg-id="PeaceTVBangla" tvg-logo="",Peace TV Bangla
 https://dzkyvlfyge.erbvr.com/PeaceTvBangla/tracks-v3a1/mono.m3u8
+
+#EXTINF:-1 tvg-logo="" group-title="Bangla",Drama 24
+https://vods2.aynascope.net/gseriesDrama/index.m3u8
 
 #EXTINF:1,BanglaTV HD
 #EXTVLCOPT:network-caching=3000
@@ -105,6 +108,9 @@ http://vmi3039524.contaboserver.net:5050/music/index.m3u8
 #EXTINF:-1 group-title="Bangla Music" tvg-logo="",Bengali Beats
 https://tplay.live/originals/bengali-beats/index.m3u8
 
+########################## Kolkata Channels ##########################
+
+
 ########################## Cartoons Channels ##########################
 #EXTINF:-1 tvg-logo=""group-title="Kolkata Bangla",Gopal Bhar
 https://cloudfrontnet.vercel.app/tplay/playout/209611/master.m3u8
@@ -134,6 +140,8 @@ https://amg01448-samsungin-cnnnow-samsungin-4npqg.amagi.tv/playlist/amg01448-sam
 https://dwamdstream102.akamaized.net/hls/live/2015525/dwstream102/index.m3u8
 #EXTINF:-1 tvg-logo=""group-title="English News",Sky News
 https://d39chvnxm26pgp.cloudfront.net/v1/master/72588bff830dec7b26d7cbbf5f3c24928aec5c03/cc-sthen6ms4vxgv-stage/WNSFO/ABR.m3u8
+#EXTINF:-1 tvg-logo="" group-title="News",Wion
+https://d7x8z4yuq42qn.cloudfront.net/index_7.m3u8
 
 ########################## Movies Channels ##########################
 
