@@ -45,6 +45,8 @@ http://103.229.254.25:7001/play/a05q/index.m3u8
 
 #EXTINF:-1 group-title="Bangladeshi 🇧🇩" tvg-id="ekushey.bd" tvg-logo="",Ekushay TV
 http://210.4.72.204/hls-live/livepkgr/_definst_/liveevent/livestream3.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Bangla",ETV
+https://tvsen6.aynascope.net/etv/index.m3u8?e=1773300951&u=78be6644-0a65-48ec-81a4-089ac65a2619&token=24c3593ca6d744c210bc6d483cecea17
 #EXTINF:-1 group-title="Bangladeshi 🇧🇩" tvg-id="DesheBideshe" tvg-logo="",Deshe Bideshe
 https://dbcanada.sonarbanglatv.com/deshebideshe/dbtv/index.m3u8
 #EXTINF:-1 group-title="Bangladeshi 🇧🇩" tvg-id="GreenTV" tvg-logo="",Green TV
