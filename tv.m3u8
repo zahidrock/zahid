@@ -114,6 +114,10 @@ http://103.144.89.251/proxy.php?u=aHR0cDovLzEwMy4xNDQuODkuMjUxOjgwODIvR0FaSS5UVi
 http://103.144.89.251/proxy.php?u=aHR0cDovLzEwMy4xNDQuODkuMjUxOjgwODIvTUFEQU5JLlRWLkhEL2luZGV4Lm0zdTg%2FdG9rZW49ZGZmZjQ2MjIwNmI2YWQ2Zjc5NGRlNDljOTQxYjhjYjFmMWMzNzE4NS0xN2FkYTczMDZjN2VlMjA5MDI1YzA1ZDJhNmFiNTA5OS0xNzczNDc3NzkxLTE3NzM0NjY5OTEmcmVtb3RlPW5vX2NoZWNrX2lw
 #EXTINF:-1 tvg-id="peace_tv_bangla" tvg-logo="" group-title="Islamic",PEACE TV BANGLA
 http://103.144.89.251/proxy.php?u=aHR0cDovLzEwMy4xNDQuODkuMjUxOjgwODIvUEVBQ0UuVFYuQkFOR0xBLkhEL2luZGV4Lm0zdTg%2FdG9rZW49YmI2YWJlMGZkODM0MGVhYTFkNDM0OTdiZjA4YzcwZTI5ODYzNmY2MC0xN2FkYTczMDZjN2VlMjA5MDI1YzA1ZDJhNmFiNTA5OS0xNzczNDc3NzkxLTE3NzM0NjY5OTEmcmVtb3RlPW5vX2NoZWNrX2lw
+#EXTINF:-1 tvg-id="edge3/channel-s" tvg-logo="" group-title="bangla",Channel S
+http://sm-monirul.top/RoarZone/play.php?id=ZWRnZTMvY2hhbm5lbC1z&e=.m3u8
+#EXTINF:-1 tvg-id="edge3/ekhon-tv" tvg-logo="" group-title="bangla",Ekhon
+http://sm-monirul.top/RoarZone/play.php?id=ZWRnZTMvZWtob24tdHY=&e=.m3u8
 
 ########################## Kolkata Channels ##########################
 #EXTINF:-1 tvg-id="75412270-ce20-4376-8e7f-21fc76f84ed4" tvg-logo="" group-title="Channels",Sangeet Bangla
@@ -130,6 +134,8 @@ http://103.144.89.251/proxy.php?u=aHR0cDovLzEwMy4xNDQuODkuMjUxOjgwODIvSkFMU0hBLk
 http://103.144.89.251/proxy.php?u=aHR0cDovLzEwMy4xNDQuODkuMjUxOjgwODIvU09OWS5BQVQvaW5kZXgubTN1OD90b2tlbj05OGFmZmVhYzU3YWU1NDgzMWQ0MjYwNDUzN2UzMmYzZTc1MWY3NDllLTE3YWRhNzMwNmM3ZWUyMDkwMjVjMDVkMmE2YWI1MDk5LTE3NzM0Nzc3OTEtMTc3MzQ2Njk5MSZyZW1vdGU9bm9fY2hlY2tfaXA%3D
 #EXTINF:-1 tvg-id="zee_bangla_cinema" tvg-logo="" group-title="Bangla",ZEE BANGLA CINEMA
 http://103.144.89.251/proxy.php?u=aHR0cDovLzEwMy4xNDQuODkuMjUxOjgwODIvWkVFLkJBTkdMQS5DSU5FTUEvaW5kZXgubTN1OD90b2tlbj0zZDY0YjQ1ZGFiYmM2Nzk5MDcwZWMxYTExNjI0NTZiNDQ1ZmZlMzFjLTE3YWRhNzMwNmM3ZWUyMDkwMjVjMDVkMmE2YWI1MDk5LTE3NzM0Nzc3OTEtMTc3MzQ2Njk5MSZyZW1vdGU9bm9fY2hlY2tfaXA%3D
+#EXTINF:-1 tvg-id="edge3/sony-aath" tvg-logo="" group-title="inbangla",Sony Aath
+http://sm-monirul.top/RoarZone/play.php?id=ZWRnZTMvc29ueS1hYXRo&e=.m3u8
 
 ########################## Music Channels ##########################
 #EXTINF:-1 group-title="Bangla Music" tvg-logo="",Music Bangla
@@ -163,6 +169,9 @@ http://103.144.89.251/proxy.php?u=aHR0cDovLzEwMy4xNDQuODkuMjUxOjgwODIvTklDSy5KUi
 http://103.144.89.251/proxy.php?u=aHR0cDovLzEwMy4xNDQuODkuMjUxOjgwODIvUE9HTy9pbmRleC5tM3U4P3Rva2VuPTEzOTBmM2ZlM2U2NTE3ODA3OTJmNjdlYzJmYTUyMTg4MjZmMmQ0ZDktMTdhZGE3MzA2YzdlZTIwOTAyNWMwNWQyYTZhYjUwOTktMTc3MzQ3Nzc5MS0xNzczNDY2OTkxJnJlbW90ZT1ub19jaGVja19pcA%3D%3D
 #EXTINF:-1 tvg-id="sonic" tvg-logo="" group-title="Kids",SONIC Bangla
 http://103.144.89.251/proxy.php?u=aHR0cDovLzEwMy4xNDQuODkuMjUxOjgwODIvU09OSUMvaW5kZXgubTN1OD90b2tlbj1kMjcxM2YyYjc3YzUzOTgwYmRlYThkOTEwYzBjMGJmNTZlZGJlZDM2LTE3YWRhNzMwNmM3ZWUyMDkwMjVjMDVkMmE2YWI1MDk5LTE3NzM0Nzc3OTEtMTc3MzQ2Njk5MSZyZW1vdGU9bm9fY2hlY2tfaXA%3D
+#EXTINF:-1 tvg-id="edge3/discovery-kids" tvg-logo="" group-title="kids",Discovery Kids
+http://sm-monirul.top/RoarZone/play.php?id=ZWRnZTMvZGlzY292ZXJ5LWtpZHM=&e=.m3u8
+
 
 ########################## Informations Channels ##########################
 #EXTINF:-1 tvg-logo=""group-title="Information",Discovery Hindi
@@ -213,12 +222,15 @@ http://103.144.89.251/proxy.php?u=aHR0cDovLzEwMy4xNDQuODkuMjUxOjgwODIvU1RBUi5NT1
 http://103.144.89.251/proxy.php?u=aHR0cDovLzEwMy4xNDQuODkuMjUxOjgwODIvQU5ULlBJQ1RVUlMuSEQvaW5kZXgubTN1OD90b2tlbj04MjQ2MjRlMjA4YTRlYTBlYWNkY2M1NjBlYzRmMjk3ZWEzMTI3OTM5LTE3YWRhNzMwNmM3ZWUyMDkwMjVjMDVkMmE2YWI1MDk5LTE3NzM0Nzc3OTEtMTc3MzQ2Njk5MSZyZW1vdGU9bm9fY2hlY2tfaXA%3D
 #EXTINF:-1 tvg-id="sony_max_hd" tvg-logo="" group-title="Hindi",SONY MAX HD
 http://103.144.89.251/proxy.php?u=aHR0cDovLzEwMy4xNDQuODkuMjUxOjgwODIvU09OWS5NQVguSEQvaW5kZXgubTN1OD90b2tlbj1iYzA4ODUyYWQ0NDg1ODk5NDUzM2I3M2UxNDQ3NjMwZGU2MDUyNDcwLTE3YWRhNzMwNmM3ZWUyMDkwMjVjMDVkMmE2YWI1MDk5LTE3NzM0Nzc3OTEtMTc3MzQ2Njk5MSZyZW1vdGU9bm9fY2hlY2tfaXA%3D
+#EXTINF:-1 tvg-id="edge3/sony-max-2" tvg-logo="" group-title="hindi",Sony Max 2
+http://sm-monirul.top/RoarZone/play.php?id=ZWRnZTMvc29ueS1tYXgtMg==&e=.m3u8
 #EXTINF:-1 tvg-id="star_gold_2_hd" tvg-logo="" group-title="Hindi",STAR GOLD 2 HD
 http://103.144.89.251/proxy.php?u=aHR0cDovLzEwMy4xNDQuODkuMjUxOjgwODIvU1RBUi5HT0xEMi5IRC9pbmRleC5tM3U4P3Rva2VuPWNjNzAwZTMwZGI5ODBmM2Y0MWYwYzRiZDFhZDRjNmE5YTA4NDMwOGMtMTdhZGE3MzA2YzdlZTIwOTAyNWMwNWQyYTZhYjUwOTktMTc3MzQ3Nzc5MS0xNzczNDY2OTkxJnJlbW90ZT1ub19jaGVja19pcA%3D%3D
 #EXTINF:-1 tvg-id="star_gold_select_hd" tvg-logo="" group-title="Hindi",STAR GOLD SELECT HD
 http://103.144.89.251/proxy.php?u=aHR0cDovLzEwMy4xNDQuODkuMjUxOjgwODIvU1RBUi5HT0xELlNFTC5IRC9pbmRleC5tM3U4P3Rva2VuPThjYTQwZmYwNjcxNjFmYTFjODI3MzA4MTliMjdkNmNkMzU5ZWMwOGEtMTdhZGE3MzA2YzdlZTIwOTAyNWMwNWQyYTZhYjUwOTktMTc3MzQ3Nzc5MS0xNzczNDY2OTkxJnJlbW90ZT1ub19jaGVja19pcA%3D%3D
 #EXTINF:-1 tvg-id="zee_cinema_hd" tvg-logo="" group-title="Hindi",ZEE CINEMA HD
 http://103.144.89.251/proxy.php?u=aHR0cDovLzEwMy4xNDQuODkuMjUxOjgwODIvWkVFLkNJTkVNQS5IRC9pbmRleC5tM3U4P3Rva2VuPWRhMzZlNTE5YTQ2MzJlZmQ3MmM1MzcxZmRjYmJkYmJiMjI1ZmIwNTItMTdhZGE3MzA2YzdlZTIwOTAyNWMwNWQyYTZhYjUwOTktMTc3MzQ3Nzc5MS0xNzczNDY2OTkxJnJlbW90ZT1ub19jaGVja19pcA%3D%3D
+
 
 ########################## Sports Channels ##########################
 #EXTINF:0,Star Sports 1 HD
@@ -232,4 +244,6 @@ http://103.144.89.251/proxy.php?u=aHR0cDovLzEwMy4xNDQuODkuMjUxOjgwODIvU1RBUi1TUE
 http://103.144.89.251/proxy.php?u=aHR0cDovLzEwMy4xNDQuODkuMjUxOjgwODIvU1RBUi5TUE9SVFMuU0VMLjIuSEQvaW5kZXgubTN1OD90b2tlbj1mNGU5ODMzNzc3ZTkxM2E5Mzg5NTU1NzM2ODU1YmFiOTZjNWYyZWEwLTE3YWRhNzMwNmM3ZWUyMDkwMjVjMDVkMmE2YWI1MDk5LTE3NzM0Nzc3OTEtMTc3MzQ2Njk5MSZyZW1vdGU9bm9fY2hlY2tfaXA%3D
 #EXTINF:-1 tvg-id="t_sports" tvg-logo="" group-title="Sports",T SPORTS
 http://103.144.89.251/proxy.php?u=aHR0cDovLzEwMy4xNDQuODkuMjUxOjgwODIvVC1TUE9SVFMtSEQvaW5kZXgubTN1OD90b2tlbj1lMTA0Y2U4MDcyNTlkNDVjNTY5ZWEyMmJmMTAwZGI2MmU4ZTU5MjNhLTE3YWRhNzMwNmM3ZWUyMDkwMjVjMDVkMmE2YWI1MDk5LTE3NzM0Nzc3OTEtMTc3MzQ2Njk5MSZyZW1vdGU9bm9fY2hlY2tfaXA%3D
+#EXTINF:-1 tvg-id="edge3/sony-ten-cricket" tvg-logo="" group-title="sports",Ten Cricket
+http://sm-monirul.top/RoarZone/play.php?id=ZWRnZTMvc29ueS10ZW4tY3JpY2tldA==&e=.m3u8
 
