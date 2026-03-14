@@ -197,6 +197,7 @@ https://srknowapp.ncare.live/srktvhlswodrm/srktv.stream/playlist.m3u8
 
 ########################## Movies Channels ##########################
 #EXTINF:-1 tvg-id="and_prive_hd" tvg-logo="" group-title="English", &PRIVE HD
+#EXTVLCOPT:network-caching=1000
 http://103.144.89.251/proxy.php?u=aHR0cDovLzEwMy4xNDQuODkuMjUxOjgwODIvQU5ELlBSSVZFLkhEL2luZGV4Lm0zdTg%2FdG9rZW49NDExY2RmNDBmNmUyMzZhOGU0ZWQzOTZhOWQwMzZkNzRmOWFlNmJlOC0xN2FkYTczMDZjN2VlMjA5MDI1YzA1ZDJhNmFiNTA5OS0xNzczNDc3NzkxLTE3NzM0NjY5OTEmcmVtb3RlPW5vX2NoZWNrX2lw
 #EXTINF:-1 tvg-id="and_flix_hd" tvg-logo="" group-title="New_Bdix",AND FLIX HD
 http://103.144.89.251/proxy.php?u=aHR0cDovLzEwMy4xNDQuODkuMjUxOjgwODIvQU5ELkZMSVguSEQvaW5kZXgubTN1OD90b2tlbj0wM2E3OWNiYTNlMzFhMzFlYTk1MDIzMjdiMmI2M2RjYWE5ZjdkOWY4LTBhZjVhNWQ4ZDM4ZmI5ZTQwMmM2MDYxMTc4YzJlNzI3LTE3NzM0ODE2NTAtMTc3MzQ3MDg1MCZyZW1vdGU9bm9fY2hlY2tfaXA%3D
