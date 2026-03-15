@@ -41,6 +41,9 @@ https://owrcovcrpy.gpcdn.net/bpk-tv/1728/output/1728-audio_113582_eng=113200-vid
 #EXTINF:-1 group-title="Bangladeshi 🇧🇩" tvg-logo=" ", Channel 9
 https://owrcovcrpy.gpcdn.net/bpk-tv/1729/output/1729-audio_113592_eng=113200-video=1692000.m3u8
 
+#EXTINF:-1 tvg-id="edge3/ekhon-tv" tvg-logo="" group-title="bangla",Ekhon
+http://sm-monirul.top/RoarZone/play.php?id=ZWRnZTMvZWtob24tdHY=&e=.m3u8
+
 #EXTINF:-1 tvg-logo="" group-title="SM All TV",CBN TV USA
 https://live.cbntvusa.net/hls/cbntv/index.m3u8
 #EXTINF:-1 tvg-logo="" group-title="SM All TV",Deshi TV
@@ -86,7 +89,7 @@ http://103.229.254.25:7001/play/a066/index.m3u8
 #EXTVLCOPT:network-caching=3000
 http://103.229.254.25:7001/play/a05o/index.m3u8
 #EXTINF:1,Gazi Tv HD
-#EXTVLCOPT:network-caching=3000
+#EXTVLCOPT:network-caching=1000
 http://103.229.254.25:7001/play/a06t/index.m3u8
 #EXTINF:1,Desh TV
 #EXTVLCOPT:network-caching=3000
@@ -108,10 +111,6 @@ http://157.245.116.246:8080/hls/islamnow/index.m3u8
 #EXTINF:-1 group-title="BANGLA" tvg-logo="" ,Channel 16
 http://103.121.61.218/tmp_hls/f64eac11f2cd8f0efa196f8ad173178e/index.m3u8
 
-http://sm-monirul.top/RoarZone/play.php?id=ZWRnZTMvY2hhbm5lbC1z&e=.m3u8
-#EXTINF:-1 tvg-id="edge3/ekhon-tv" tvg-logo="" group-title="bangla",Ekhon
-http://sm-monirul.top/RoarZone/play.php?id=ZWRnZTMvZWtob24tdHY=&e=.m3u8
-
 ########################## Kolkata Channels ##########################
 #EXTINF:-1 tvg-id="f07177e9-d1a9-48b4-8e2e-1718d098bbfb" tvg-logo="" group-title="Star Channels",Star Jalsha HD
 http://sm-monirul.top/AyNa/play.php?id=f07177e9-d1a9-48b4-8e2e-1718d098bbfb&e=.m3u8
@@ -132,12 +131,10 @@ http://sm-monirul.top/RoarZone/play.php?id=ZWRnZTMvYjR1LW11c2lj&e=.m3u8
 ########################## Cartoons Channels ##########################
 #EXTINF:-1 tvg-logo=""group-title="Kolkata Bangla",Gopal Bhar
 https://cloudfrontnet.vercel.app/tplay/playout/209611/master.m3u8
-#EXTINF:-1 tvg-id="BantulTheGreat" tvg-logo="" group-title="Kids",0. Bantul The Great
+#EXTINF:-1 tvg-id="BantulTheGreat" tvg-logo="" group-title="Kids",Bantul The Great
 https://cloudfrontnet.vercel.app/tplay/playout/209869/master.m3u8
 #EXTINF:-1 tvg-logo="",Pogo
 http://103.182.170.32:8888/play/a02p
-#EXTINF:-1 tvg-id="edge3/discovery-kids" tvg-logo="" group-title="RoarZone",Discovery Kids
-http://sm-monirul.top/RoarZone/play.php?id=ZWRnZTMvZGlzY292ZXJ5LWtpZHM=&e=.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Kids", Moto Patlu
 https://cloudfrontnet.vercel.app/tplay/playout/209622/master.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Kids",Disney Channel HD
@@ -152,8 +149,6 @@ http://sm-monirul.top/RoarZone/play.php?id=ZWRnZTMvY2FydG9vbi1uZXR3b3Jr&e=.m3u8
 http://116.90.120.128:8000/play/a0i3/index.m3u88
 #EXTINF:-1 tvg-id="edge3/discovery-kids" tvg-logo="" group-title="kids",Discovery Kids
 http://sm-monirul.top/RoarZone/play.php?id=ZWRnZTMvZGlzY292ZXJ5LWtpZHM=&e=.m3u8
-#EXTINF:-1 tvg-logo="" group-title="SM All TV",SRKTV Bangla
-https://srknowapp.ncare.live/srktvhlswodrm/srktv.stream/playlist.m3u8
 
 ########################## Movies Channels ##########################
 
@@ -163,7 +158,7 @@ http://sm-monirul.top/RoarZone/play.php?id=ZWRnZTMvc29ueS1tYXg=&e=.m3u8
 http://sm-monirul.top/RoarZone/play.php?id=ZWRnZTMvc29ueS1tYXgtMg==&e=.m3u8
 #EXTINF:-1 tvg-id="edge3/zee-bollywood" tvg-logo="" group-title="RoarZone",Zee Bollywood
 http://sm-monirul.top/RoarZone/play.php?id=ZWRnZTMvemVlLWJvbGx5d29vZA==&e=.m3u8
-#EXTINF:-1 tvg-id="edge3/tv-hd" tvg-logo="" group-title="RoarZone",And Tv Hd
+#EXTINF:-1 tvg-id="edge3/tv-hd" tvg-logo="" group-title="RoarZone",&Tv Hd
 http://sm-monirul.top/RoarZone/play.php?id=ZWRnZTMvdHYtaGQ=&e=.m3u8
 #EXTINF:-1 tvg-logo="" group-title="SM All TV",Bangla Plus
 https://live-stream.utkalbongo.com/hls/livebanglatvstream.m3u8
