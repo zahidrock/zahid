@@ -57,51 +57,42 @@ https://app.ncare.live/live-orgin/nrb-eu.stream/playlist.m3u8
 #EXTINF:-1 tvg-logo="" group-title="SM All TV",Probashi TV
 http://158.69.24.53:8080/probashi_tv/tracks-v1a1/mono.m3u8
 
-#EXTINF:1,Maasranga TV HD
-#EXTVLCOPT:network-caching=3000
-http://103.229.254.25:7001/play/a05q/index.m3u8
 
-#EXTINF:-1 group-title="Bangladeshi 🇧🇩" tvg-id="GreenTV" tvg-logo="",Green TV
-https://app.ncare.live/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI2/greentv.stream/playlist.m3u8
-#EXTINF:-1 group-title="Bangladeshi 🇧🇩" tvg-id="duronto" tvg-logo="",Duronto TV
-https://tvsen4.aynaott.com/durontotv/index.m3u8
-#EXTINF:-1 tvg-name="IBTV USA" group-title="Bangladesh",IBTV USA
-https://5dd3981940faa.streamlock.net/ibtvusa/ibtvusa/chunklist_w270842026.m3u8
 #EXTINF:-1 group-title="Religious" tvg-id="PeaceTVBangla" tvg-logo="",Peace TV Bangla
 https://dzkyvlfyge.erbvr.com/PeaceTvBangla/tracks-v3a1/mono.m3u8
 
 #EXTINF:1,BanglaTV HD
-#EXTVLCOPT:network-caching=3000
+#EXTVLCOPT:network-caching=1000
 http://103.229.254.25:7001/play/a06c/index.m3u8
 #EXTINF:1,MYTV HD
-#EXTVLCOPT:network-caching=3000
+#EXTVLCOPT:network-caching=1000
 http://103.229.254.25:7001/play/a05z/index.m3u8
 #EXTINF:1,Mohona TV
-#EXTVLCOPT:network-caching=3000
+#EXTVLCOPT:network-caching=1000
 http://103.229.254.25:7001/play/a05t/index.m3u8
 #EXTINF:1,NEXUS TV
-#EXTVLCOPT:network-caching=3000
+#EXTVLCOPT:network-caching=1000
 http://103.229.254.25:7001/play/a05m/index.m3u8
 #EXTINF:1,BijoyTV
-#EXTVLCOPT:network-caching=3000
+#EXTVLCOPT:network-caching=1000
 http://103.229.254.25:7001/play/a066/index.m3u8
 #EXTINF:1,GLOBAL TV HD
-#EXTVLCOPT:network-caching=3000
+#EXTVLCOPT:network-caching=1000
 http://103.229.254.25:7001/play/a05o/index.m3u8
 #EXTINF:1,Gazi Tv HD
 #EXTVLCOPT:network-caching=1000
 http://103.229.254.25:7001/play/a06t/index.m3u8
 #EXTINF:1,Desh TV
-#EXTVLCOPT:network-caching=3000
+#EXTVLCOPT:network-caching=1000
 http://103.229.254.25:7001/play/a05s/index.m3u8
 #EXTINF:1,Nagorik TV
-#EXTVLCOPT:network-caching=3000
+#EXTVLCOPT:network-caching=1000
 http://103.229.254.25:7001/play/a06q/index.m3u8
 #EXTINF:1,Rtv HD
-#EXTVLCOPT:network-caching=3000
+#EXTVLCOPT:network-caching=1000
 http://103.229.254.25:7001/play/a068/index.m3u8
 #EXTINF:1,Deshi Tv
-#EXTVLCOPT:network-caching=3000
+#EXTVLCOPT:network-caching=1000
 http://208.86.19.13:81/514.stream/index.m3u8
 
 #EXTINF:-1 group-title="BANGLA" tvg-logo="" ,News21
@@ -151,7 +142,10 @@ http://116.90.120.128:8000/play/a0i3/index.m3u88
 http://sm-monirul.top/RoarZone/play.php?id=ZWRnZTMvZGlzY292ZXJ5LWtpZHM=&e=.m3u8
 
 ########################## Movies Channels ##########################
-
+#EXTINF:-1 tvg-name="Zee Cinema HD" group-title="Bangladesh",Zee Cinema HD
+http://103.99.249.139/zeecinema/index.m3u8
+#EXTINF:-1 tvg-name="Star Gold" group-title="Bangladesh",Star Gold
+http://103.99.249.139/stargold/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-id="edge3/sony-max" tvg-logo="" group-title="RoarZone",Sony Max
 http://sm-monirul.top/RoarZone/play.php?id=ZWRnZTMvc29ueS1tYXg=&e=.m3u8
 #EXTINF:-1 tvg-id="edge3/sony-max-2" tvg-logo="" group-title="hindi",Sony Max 2
