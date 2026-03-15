@@ -60,6 +60,17 @@ http://sm-monirul.top/RoarZone/play.php?id=ZWRnZTIvbWFzaHJhZ2E=&e=.m3u8
 #EXTINF:-1 tvg-id="edge3/bijoy-tv" tvg-logo="" group-title="bangla",Bijoy-Tv
 http://sm-monirul.top/RoarZone/play.php?id=ZWRnZTMvYmlqb3ktdHY=&e=.m3u8
 
+#EXTINF:-1 tvg-id="rtv" tvg-name="RTV" tvg-logo="" group-title="Bangla Entertainment",RTV HD
+https://playztv-apps.pages.dev/rtv/index.m3u8
+#EXTINF:-1 tvg-id="durontotv" tvg-name="Duronto TV" tvg-logo="" group-title="Kids",Duronto TV
+https://playztv-apps.pages.dev/duronto-tv/index.m3u8
+#EXTINF:-1 tvg-id="mytv" tvg-name="My TV" tvg-logo="" group-title="Bangla Entertainment",MyTV HD
+https://playztv-apps.pages.dev/my-tv/index.m3u8
+#EXTINF:-1 tvg-id="deshtv" tvg-name="Desh TV" tvg-logo="" group-title="Bangla Entertainment",Desh TV
+https://playztv-apps.pages.dev/desh-tv/index.m3u8
+#EXTINF:-1 tvg-id="mohonatv" tvg-name="Mohona TV" tvg-logo="" group-title="Bangla Entertainment",Mohona TV HD
+https://playztv-apps.pages.dev/mohona-tv/index.m3u8
+
 #EXTINF:-1 group-title="BANGLA" tvg-logo="" ,News21
 http://103.190.133.68:1935/news21live/live/playlist.m3u8
 #EXTINF:-1 group-title="BANGLA" tvg-logo="" ,Desh Bidesh
@@ -69,20 +80,12 @@ http://103.121.61.218/tmp_hls/f64eac11f2cd8f0efa196f8ad173178e/index.m3u8
 
 #EXTINF:-1 tvg-logo="" group-title="SM All TV",Channel Europe
 https://stream.channeleuropetvboxlondon.co.uk/live/channeleurope/chunklist_w572284654.m3u8
-#EXTINF:-1 tvg-logo="" group-title="SM All TV",Desh TV
-http://103.229.254.25:7001/play/a05s/index.m3u8
-#EXTINF:-1 tvg-logo="" group-title="SM All TV",Mohona TV HD
-http://103.229.254.25:7001/play/a05t/index.m3u8
 #EXTINF:-1 tvg-logo="" group-title="SM All TV",Nexus TV HD
 http://103.229.254.25:7001/play/a05m/index.m3u8
-#EXTINF:-1 tvg-logo="" group-title="SM All TV",MYTV HD
-http://103.229.254.25:7001/play/a05z/index.m3u8
 #EXTINF:-1 tvg-logo="" group-title="SM All TV",Gazi TV HD
 http://103.229.254.25:7001/play/a06t/index.m3u8
 #EXTINF:-1 tvg-logo="" group-title="SM All TV",Nagorik TV
 http://103.229.254.25:7001/play/a06q/index.m3u8
-#EXTINF:-1 tvg-logo="" group-title="SM All TV",RTV HD
-http://103.229.254.25:7001/play/a068/index.m3u8
 #EXTINF:-1 tvg-logo="" group-title="SM All TV",Deshi TV
 http://208.86.19.13:81/514.stream/index.m3u8
 
