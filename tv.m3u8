@@ -97,8 +97,6 @@ https://app.ncare.live/live-orgin/jagonews24.stream/playlist.m3u8
 https://iptvbd.live/metv1080/1080.m3u8
 #EXTINF:-1 tvg-logo="" group-title="SM All TV",NRB TV
 https://app.ncare.live/live-orgin/nrb-eu.stream/playlist.m3u8
-#EXTINF:-1 tvg-logo="" group-title="SM All TV",Probashi TV
-http://158.69.24.53:8080/probashi_tv/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1 group-title="Religious" tvg-id="PeaceTVBangla" tvg-logo="",Peace TV Bangla
 https://dzkyvlfyge.erbvr.com/PeaceTvBangla/tracks-v3a1/mono.m3u8
@@ -151,7 +149,7 @@ http://sm-monirul.top/RoarZone/play.php?id=ZWRnZTMvZGlzY292ZXJ5LWtpZHM=&e=.m3u8
 http://sm-monirul.top/RoarZone/play.php?id=ZWRnZTMvemluZw==&e=.m3u8
 #EXTINF:-1 tvg-name="Zee Cinema HD" group-title="Bangladesh",Zee Cinema HD
 http://103.99.249.139/zeecinema/index.m3u8
-#EXTINF:-1 tvg-name="Star Gold" group-title="Bangladesh",Star Gold
+#EXTINF:-1 tvg-name="Star Gold" group-title="Bangladesh",Star Gold HD
 http://103.99.249.139/stargold/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-id="edge3/sony-max" tvg-logo="" group-title="RoarZone",Sony Max
 http://sm-monirul.top/RoarZone/play.php?id=ZWRnZTMvc29ueS1tYXg=&e=.m3u8
