@@ -110,25 +110,6 @@ http://sm-monirul.top/RoarZone/play.php?id=ZWRnZTIvY29sb3JzLWJhbmdsYQ==&e=.m3u8
 #EXTINF:-1 tvg-id="edge3/sony-aath" tvg-logo="" group-title="inbangla",Sony Aath
 http://sm-monirul.top/RoarZone/play.php?id=ZWRnZTMvc29ueS1hYXRo&e=.m3u8
 
-########################## Music Channels ##########################
-#EXTINF:-1 group-title="Bangla Music" tvg-logo="",Music Bangla
-#https://app24.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMFDDEHGcfRgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcEdsEfeDeKiNkVN3PTOmdFsaWRtaW51aiPhnPTI2/musicbangla44.stream/tracks-v1a1/mono.m3u8
-http://vmi3039524.contaboserver.net:5050/music/index.m3u8
-#EXTINF:-1 group-title="Bangla Music" tvg-logo="",Bengali Beats
-https://tplay.live/originals/bengali-beats/index.m3u8
-#EXTINF:-1 tvg-id="75412270-ce20-4376-8e7f-21fc76f84ed4" tvg-logo="" group-title="Channels",Sangeet Bangla
-http://sm-monirul.top/AyNa/play.php?id=75412270-ce20-4376-8e7f-21fc76f84ed4&e=.m3u8
-#EXTINF:-1 tvg-id="edge3/b4u-music" tvg-logo="" group-title="RoarZone",B4U Music
-http://sm-monirul.top/RoarZone/play.php?id=ZWRnZTMvYjR1LW11c2lj&e=.m3u8
-#EXTINF:-1 tvg-logo="" group-title="Bangladeshi 🇧🇩",24/7 Shinchan
-https://cloudfrontnet.vercel.app/tplay/playout/209901/master.m3u8
-#EXTINF:-1 group-title="India" tvg-id="BalleBalle.in" tvg-logo="",Balle Balle
-https://mcncdndigital.com/balleballetv/tracks-v1a1/mono.ts.m3u8
-#EXTINF:-1 group-title="India" tvg-id="HindiHits.in" tvg-logo="",Hindi Hits HD
-http://146.59.253.52:8080/hindihitshd/index.m3u8
-#EXTINF:-1 group-title="India" tvg-id="YRFMusicHD" tvg-logo="",YRF Music HD
-https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg01412-xiaomiasia-yrfmusic-xiaomi/playlist.m3u8
-
 ########################## Cartoons Channels ##########################
 #EXTINF:-1 tvg-logo=""group-title="Kolkata Bangla",Gopal Bhar
 https://cloudfrontnet.vercel.app/tplay/playout/209611/master.m3u8
@@ -150,6 +131,25 @@ http://sm-monirul.top/RoarZone/play.php?id=ZWRnZTMvY2FydG9vbi1uZXR3b3Jr&e=.m3u8
 http://116.90.120.128:8000/play/a0i3/index.m3u88
 #EXTINF:-1 tvg-id="edge3/discovery-kids" tvg-logo="" group-title="kids",Discovery Kids
 http://sm-monirul.top/RoarZone/play.php?id=ZWRnZTMvZGlzY292ZXJ5LWtpZHM=&e=.m3u8
+
+########################## Music Channels ##########################
+#EXTINF:-1 group-title="Bangla Music" tvg-logo="",Music Bangla
+#https://app24.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMFDDEHGcfRgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcEdsEfeDeKiNkVN3PTOmdFsaWRtaW51aiPhnPTI2/musicbangla44.stream/tracks-v1a1/mono.m3u8
+http://vmi3039524.contaboserver.net:5050/music/index.m3u8
+#EXTINF:-1 group-title="Bangla Music" tvg-logo="",Bengali Beats
+https://tplay.live/originals/bengali-beats/index.m3u8
+#EXTINF:-1 tvg-id="75412270-ce20-4376-8e7f-21fc76f84ed4" tvg-logo="" group-title="Channels",Sangeet Bangla
+http://sm-monirul.top/AyNa/play.php?id=75412270-ce20-4376-8e7f-21fc76f84ed4&e=.m3u8
+#EXTINF:-1 tvg-id="edge3/b4u-music" tvg-logo="" group-title="RoarZone",B4U Music
+http://sm-monirul.top/RoarZone/play.php?id=ZWRnZTMvYjR1LW11c2lj&e=.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Bangladeshi 🇧🇩",24/7 Shinchan
+https://cloudfrontnet.vercel.app/tplay/playout/209901/master.m3u8
+#EXTINF:-1 group-title="India" tvg-id="BalleBalle.in" tvg-logo="",Balle Balle
+https://mcncdndigital.com/balleballetv/tracks-v1a1/mono.ts.m3u8
+#EXTINF:-1 group-title="India" tvg-id="HindiHits.in" tvg-logo="",Hindi Hits HD
+http://146.59.253.52:8080/hindihitshd/index.m3u8
+#EXTINF:-1 group-title="India" tvg-id="YRFMusicHD" tvg-logo="",YRF Music HD
+https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg01412-xiaomiasia-yrfmusic-xiaomi/playlist.m3u8
 
 ########################## Movies Channels ##########################
 #EXTINF:-1 tvg-id="edge3/zing" tvg-logo="" group-title="music",Zing
@@ -180,7 +180,6 @@ http://103.161.153.165:8000/play/a03w/index.m3u8
 http://103.161.153.165:8000/play/a01z/index.m3u8
 #EXTINF:-1 tvg-logo="" group-title="English Movies",&Prive HD
 http://103.229.254.25:7001/play/a03f/index.m3u8
-
 
 ########################## Informations Channels ##########################
 #EXTINF:-1 tvg-logo=""group-title="Information",Discovery Hindi
