@@ -174,6 +174,12 @@ http://sm-monirul.top/RoarZone/play.php?id=ZWRnZTIvamFsc2hhLW1vdmllcw==&e=.m3u8
 http://sm-monirul.top/RoarZone/play.php?id=ZWRnZTMvemVlLWJhbmdsYS1jaW5lbWE=&e=.m3u8
 #EXTINF:-1 tvg-id="edge3/sony-pix-hd" tvg-logo="" group-title="english",Sony Pix
 http://sm-monirul.top/RoarZone/play.php?id=ZWRnZTMvc29ueS1waXgtaGQ=&e=.m3u8
+#EXTINF:-1 tvg-logo=""group-title="English Movies" group-title="",Hollmark HD
+http://103.161.153.165:8000/play/a03w/index.m3u8
+#EXTINF:-1 tvg-logo="" group-title="English Movies",&Flix HD
+http://103.161.153.165:8000/play/a01z/index.m3u8
+#EXTINF:-1 tvg-logo="" group-title="English Movies",&Prive HD
+http://103.229.254.25:7001/play/a03f/index.m3u8
 
 
 ########################## Informations Channels ##########################
