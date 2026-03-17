@@ -1,14 +1,4 @@
 #EXTM3U
-########################## Kolkata Channels ##########################
-#EXTINF:-1 tvg-id="f07177e9-d1a9-48b4-8e2e-1718d098bbfb" tvg-logo="" group-title="Star Channels",Star Jalsha HD
-http://sm-monirul.top/AyNa/play.php?id=f07177e9-d1a9-48b4-8e2e-1718d098bbfb&e=.m3u8
-#EXTINF:-1 tvg-id="edge3/zee-bangla" tvg-logo="" group-title="inbangla",Zee Bangla
-http://sm-monirul.top/RoarZone/play.php?id=ZWRnZTMvemVlLWJhbmdsYQ==&e=.m3u8
-#EXTINF:-1 tvg-id="edge2/colors-bangla" tvg-logo="" group-title="inbangla",Colors Bangla HD
-http://sm-monirul.top/RoarZone/play.php?id=ZWRnZTIvY29sb3JzLWJhbmdsYQ==&e=.m3u8
-#EXTINF:-1 tvg-logo=""group-title="Kolkata Bangla",Sun Bangla HD
-http://103.161.153.165:8000/play/a03k/index.m3u8
-
 ########################## Bangladeshi CHANNELS ##########################
 #EXTINF:-1 group-title="Religious" tvg-id="PeaceTVBangla" tvg-logo="",Peace TV Bangla
 https://dzkyvlfyge.erbvr.com/PeaceTvBangla/tracks-v3a1/mono.m3u8
@@ -110,6 +100,16 @@ https://iptvbd.live/metv1080/1080.m3u8
 #EXTINF:-1 tvg-logo="" group-title="SM All TV",NRB TV
 https://app.ncare.live/live-orgin/nrb-eu.stream/playlist.m3u8
 
+########################## Kolkata Channels ##########################
+#EXTINF:-1 tvg-id="f07177e9-d1a9-48b4-8e2e-1718d098bbfb" tvg-logo="" group-title="Star Channels",Star Jalsha HD
+http://sm-monirul.top/AyNa/play.php?id=f07177e9-d1a9-48b4-8e2e-1718d098bbfb&e=.m3u8
+#EXTINF:-1 tvg-id="edge3/zee-bangla" tvg-logo="" group-title="inbangla",Zee Bangla
+http://sm-monirul.top/RoarZone/play.php?id=ZWRnZTMvemVlLWJhbmdsYQ==&e=.m3u8
+#EXTINF:-1 tvg-id="edge2/colors-bangla" tvg-logo="" group-title="inbangla",Colors Bangla HD
+http://sm-monirul.top/RoarZone/play.php?id=ZWRnZTIvY29sb3JzLWJhbmdsYQ==&e=.m3u8
+#EXTINF:-1 tvg-logo=""group-title="Kolkata Bangla",Sun Bangla HD
+http://103.161.153.165:8000/play/a03k/index.m3u8
+
 ########################## Bangla Movies Channel ##########################
 #EXTINF:-1 tvg-logo="" group-title="SM All TV",Bangla Plus
 https://live-stream.utkalbongo.com/hls/livebanglatvstream.m3u8
@@ -119,6 +119,36 @@ http://sm-monirul.top/RoarZone/play.php?id=ZWRnZTIvamFsc2hhLW1vdmllcw==&e=.m3u8
 http://sm-monirul.top/RoarZone/play.php?id=ZWRnZTMvemVlLWJhbmdsYS1jaW5lbWE=&e=.m3u8
 #EXTINF:-1 tvg-logo=""group-title="Kolkata Bangla Movies",Colors Bangla Cinema
 http://198.195.239.50:8095/ColorsBanglaChinema/tracks-v1a1/mono.m3u8
+
+########################## Movies Channels ##########################
+#EXTINF:-1  group-title="Hindi Movies" tvg-logo="",Hinde Dabbing Movies
+https://cloudfrontnet.vercel.app/tplay/playout/209593/master.m3u8
+#EXTINF:-1 tvg-id="edge3/zing" tvg-logo="" group-title="music",Zing
+http://sm-monirul.top/RoarZone/play.php?id=ZWRnZTMvemluZw==&e=.m3u8
+#EXTINF:-1 tvg-name="Zee Cinema HD" group-title="Bangladesh",Zee Cinema HD
+http://103.99.249.139/zeecinema/index.m3u8
+#EXTINF:-1 tvg-name="Star Gold" group-title="Bangladesh",Star Gold HD
+http://103.99.249.139/stargold/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-logo=""group-title="Hindi Movies",Star Gold Select HD
+http://103.229.254.25:7001/play/a032/index.m3u8
+#EXTINF:-1 tvg-id="edge3/sony-max" tvg-logo="" group-title="RoarZone",Sony Max
+http://sm-monirul.top/RoarZone/play.php?id=ZWRnZTMvc29ueS1tYXg=&e=.m3u8
+#EXTINF:-1 tvg-id="edge3/sony-max-2" tvg-logo="" group-title="hindi",Sony Max 2
+http://sm-monirul.top/RoarZone/play.php?id=ZWRnZTMvc29ueS1tYXgtMg==&e=.m3u8
+#EXTINF:-1 tvg-id="edge3/zee-bollywood" tvg-logo="" group-title="RoarZone",Zee Bollywood
+http://sm-monirul.top/RoarZone/play.php?id=ZWRnZTMvemVlLWJvbGx5d29vZA==&e=.m3u8
+#EXTINF:-1 tvg-id="edge3/zee-action" tvg-logo="" group-title="hindi",Zee Action
+http://sm-monirul.top/RoarZone/play.php?id=ZWRnZTMvemVlLWFjdGlvbg==&e=.m3u8
+#EXTINF:-1 tvg-logo=""group-title="Hindi Movies"&Pictures
+http://103.229.254.25:7001/play/a033/index.m3u8
+#EXTINF:-1 tvg-id="edge3/sony-pix-hd" tvg-logo="" group-title="english",Sony Pix
+http://sm-monirul.top/RoarZone/play.php?id=ZWRnZTMvc29ueS1waXgtaGQ=&e=.m3u8
+#EXTINF:-1 tvg-logo=""group-title="English Movies" group-title="",Hollmark HD
+http://103.161.153.165:8000/play/a03w/index.m3u8
+#EXTINF:-1 tvg-logo="" group-title="English Movies",&Flix HD
+http://103.161.153.165:8000/play/a01z/index.m3u8
+#EXTINF:-1 tvg-logo="" group-title="English Movies",&Prive HD
+http://103.229.254.25:7001/play/a03f/index.m3u8
 
 ########################## Cartoons Channels ##########################
 #EXTINF:-1 tvg-logo=""group-title="Kolkata Bangla",Gopal Bhar
@@ -160,36 +190,6 @@ https://mcncdndigital.com/balleballetv/tracks-v1a1/mono.ts.m3u8
 http://146.59.253.52:8080/hindihitshd/index.m3u8
 #EXTINF:-1 group-title="India" tvg-id="YRFMusicHD" tvg-logo="",YRF Music HD
 https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg01412-xiaomiasia-yrfmusic-xiaomi/playlist.m3u8
-
-########################## Movies Channels ##########################
-#EXTINF:-1  group-title="Hindi Movies" tvg-logo="",Hinde Dabbing Movies
-https://cloudfrontnet.vercel.app/tplay/playout/209593/master.m3u8
-#EXTINF:-1 tvg-id="edge3/zing" tvg-logo="" group-title="music",Zing
-http://sm-monirul.top/RoarZone/play.php?id=ZWRnZTMvemluZw==&e=.m3u8
-#EXTINF:-1 tvg-name="Zee Cinema HD" group-title="Bangladesh",Zee Cinema HD
-http://103.99.249.139/zeecinema/index.m3u8
-#EXTINF:-1 tvg-name="Star Gold" group-title="Bangladesh",Star Gold HD
-http://103.99.249.139/stargold/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-logo=""group-title="Hindi Movies",Star Gold Select HD
-http://103.229.254.25:7001/play/a032/index.m3u8
-#EXTINF:-1 tvg-id="edge3/sony-max" tvg-logo="" group-title="RoarZone",Sony Max
-http://sm-monirul.top/RoarZone/play.php?id=ZWRnZTMvc29ueS1tYXg=&e=.m3u8
-#EXTINF:-1 tvg-id="edge3/sony-max-2" tvg-logo="" group-title="hindi",Sony Max 2
-http://sm-monirul.top/RoarZone/play.php?id=ZWRnZTMvc29ueS1tYXgtMg==&e=.m3u8
-#EXTINF:-1 tvg-id="edge3/zee-bollywood" tvg-logo="" group-title="RoarZone",Zee Bollywood
-http://sm-monirul.top/RoarZone/play.php?id=ZWRnZTMvemVlLWJvbGx5d29vZA==&e=.m3u8
-#EXTINF:-1 tvg-id="edge3/zee-action" tvg-logo="" group-title="hindi",Zee Action
-http://sm-monirul.top/RoarZone/play.php?id=ZWRnZTMvemVlLWFjdGlvbg==&e=.m3u8
-#EXTINF:-1 tvg-logo=""group-title="Hindi Movies"&Pictures
-http://103.229.254.25:7001/play/a033/index.m3u8
-#EXTINF:-1 tvg-id="edge3/sony-pix-hd" tvg-logo="" group-title="english",Sony Pix
-http://sm-monirul.top/RoarZone/play.php?id=ZWRnZTMvc29ueS1waXgtaGQ=&e=.m3u8
-#EXTINF:-1 tvg-logo=""group-title="English Movies" group-title="",Hollmark HD
-http://103.161.153.165:8000/play/a03w/index.m3u8
-#EXTINF:-1 tvg-logo="" group-title="English Movies",&Flix HD
-http://103.161.153.165:8000/play/a01z/index.m3u8
-#EXTINF:-1 tvg-logo="" group-title="English Movies",&Prive HD
-http://103.229.254.25:7001/play/a03f/index.m3u8
 
 ########################## Informations Channels ##########################
 #EXTINF:-1 tvg-logo=""group-title="Information",Discovery Hindi
