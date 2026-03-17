@@ -1,5 +1,8 @@
 #EXTM3U
 ########################## Bangladeshi CHANNELS ##########################
+#EXTINF:-1 group-title="Religious" tvg-id="PeaceTVBangla" tvg-logo="",Peace TV Bangla
+https://dzkyvlfyge.erbvr.com/PeaceTvBangla/tracks-v3a1/mono.m3u8
+
 #EXTINF:-1 group-title="Bangladeshi 🇧🇩" tvg-logo=" ", Jumuna TV
 https://owrcovcrpy.gpcdn.net/bpk-tv/1701/output/1701-audio_113312_eng=113200-video=1692000.m3u8
 #EXTINF:-1 group-title="Bangladeshi 🇧🇩" tvg-logo=" ", Somoy TV 
@@ -30,7 +33,7 @@ https://owrcovcrpy.gpcdn.net/bpk-tv/1716/output/1716-audio_113462_eng=113200-vid
 https://owrcovcrpy.gpcdn.net/bpk-tv/1720/output/1720-audio_113502_eng=113200-video=1692000.m3u8
 #EXTINF:-1 group-title="Bangladeshi 🇧🇩" tvg-logo=" ", Al Jazeera
 https://owrcovcrpy.gpcdn.net/bpk-tv/1721/output/1721-audio_113512_eng=113200-video=1692000.m3u8
-#EXTINF:-1 group-title="Bangladeshi 🇧🇩" tvg-logo=" ", ATN Bangla
+#EXTINF:-1 group-title="Bangladeshi 🇧🇩" tvg-logo=" ", Maasranga HD
 https://owrcovcrpy.gpcdn.net/bpk-tv/1722/output/1722-audio_113522_eng=113200-video=1692000.m3u8
 #EXTINF:-1 group-title="Bangladeshi 🇧🇩" tvg-logo=" ", Channel I
 https://owrcovcrpy.gpcdn.net/bpk-tv/1723/output/1723-audio_113532_eng=113200-video=1692000.m3u8
@@ -41,12 +44,11 @@ https://owrcovcrpy.gpcdn.net/bpk-tv/1728/output/1728-audio_113582_eng=113200-vid
 #EXTINF:-1 group-title="Bangladeshi 🇧🇩" tvg-logo=" ", Channel 9
 https://owrcovcrpy.gpcdn.net/bpk-tv/1729/output/1729-audio_113592_eng=113200-video=1692000.m3u8
 
-#EXTINF:-1 group-title="Bangla" tvg-id="MAASRANGA.bd" tvg-logo="",MAASRANGA HD
-http://103.229.254.25:7001/play/a05q/index.m3u8
 #EXTINF:-1 group-title="Bangla" tvg-id="US-BDJournal24TV" tvg-logo="",US-BD Journal 24 TV
 http://str24.l9574.com/510.stream/index.m3u8
-#EXTINF:-1 group-title="Bangla News" tvg-id="TBN24.us" tvg-logo="",TBN 24 USA
-http://cdn01.palki.tv/live/TBN24-M/index.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Bangladesh",RAJDHANI TV HD
+https://stream.shariarsuvo.com/hls6/rajdhaniweb.m3u8
 
 #EXTINF:-1 tvg-id="edge3/ekhon-tv" tvg-logo="" group-title="bangla",Ekhon
 http://sm-monirul.top/RoarZone/play.php?id=ZWRnZTMvZWtob24tdHY=&e=.m3u8
@@ -96,9 +98,6 @@ https://app.ncare.live/live-orgin/jagonews24.stream/playlist.m3u8
 https://iptvbd.live/metv1080/1080.m3u8
 #EXTINF:-1 tvg-logo="" group-title="SM All TV",NRB TV
 https://app.ncare.live/live-orgin/nrb-eu.stream/playlist.m3u8
-
-#EXTINF:-1 group-title="Religious" tvg-id="PeaceTVBangla" tvg-logo="",Peace TV Bangla
-https://dzkyvlfyge.erbvr.com/PeaceTvBangla/tracks-v3a1/mono.m3u8
 
 ########################## Kolkata Channels ##########################
 #EXTINF:-1 tvg-id="f07177e9-d1a9-48b4-8e2e-1718d098bbfb" tvg-logo="" group-title="Star Channels",Star Jalsha HD
