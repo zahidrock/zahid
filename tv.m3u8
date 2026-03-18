@@ -44,15 +44,13 @@ https://owrcovcrpy.gpcdn.net/bpk-tv/1728/output/1728-audio_113582_eng=113200-vid
 #EXTINF:-1 group-title="Bangladeshi 🇧🇩" tvg-logo=" ", Channel 9
 https://owrcovcrpy.gpcdn.net/bpk-tv/1729/output/1729-audio_113592_eng=113200-video=1692000.m3u8
 
-#EXTINF:-1 group-title="Bangladeshi 🇧🇩" tvg-logo=" ", ATN Bangla
+#EXTINF:0,ATN Bangla
 #EXTVLCOPT:network-caching=1000
-#EXTVLCOPT:http-referrer=http://103.229.254.25
 http://103.229.254.25:7001/play/a06b/index.m3u8
-#EXTINF:-1 group-title="Bangladeshi 🇧🇩" tvg-logo=" ", ,MYTV HD
+#EXTINF:0,MYTV HD
 #EXTVLCOPT:network-caching=1000
-#EXTVLCOPT:http-referrer=http://103.229.254.25
 http://103.229.254.25:7001/play/a02s/index.m3u8
-#EXTINF:-1 group-title="Bangladeshi 🇧🇩" tvg-logo=" ", Mohona TV
+#EXTINF:0,Mohona TV
 #EXTVLCOPT:network-caching=1000
 http://103.229.254.25:7001/play/a05t/index.m3u8
 #EXTINF:0,NEXUS TV
@@ -84,8 +82,6 @@ http://sm-monirul.top/RoarZone/play.php?id=ZWRnZTMvZ2xvYmFsLXR2&e=.m3u8
 http://sm-monirul.top/RoarZone/play.php?id=ZWRnZTMvYW5hbmRhLXR2&e=.m3u8
 #EXTINF:-1 tvg-id="edge3/bangla-tv" tvg-logo="" group-title="bangla",Bangla Tv
 http://sm-monirul.top/RoarZone/play.php?id=ZWRnZTMvYmFuZ2xhLXR2&e=.m3u8
-#EXTINF:-1 tvg-id="edge2/mashraga" tvg-logo="" group-title="bangla",Maasranga HD
-http://sm-monirul.top/RoarZone/play.php?id=ZWRnZTIvbWFzaHJhZ2E=&e=.m3u8
 #EXTINF:-1 tvg-id="edge3/bijoy-tv" tvg-logo="" group-title="bangla",Bijoy-Tv
 http://sm-monirul.top/RoarZone/play.php?id=ZWRnZTMvYmlqb3ktdHY=&e=.m3u8
 
