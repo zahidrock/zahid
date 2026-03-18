@@ -46,9 +46,13 @@ https://owrcovcrpy.gpcdn.net/bpk-tv/1729/output/1729-audio_113592_eng=113200-vid
 
 #EXTINF:0,ATN Bangla
 #EXTVLCOPT:network-caching=1000
+#EXTVLCOPT:http-user-agent=VLC/3.0.0
+#EXTVLCOPT:http-referrer=http://103.229.254.25
 http://103.229.254.25:7001/play/a06b/index.m3u8
 #EXTINF:0,MTV HD
 #EXTVLCOPT:network-caching=1000
+#EXTVLCOPT:http-user-agent=VLC/3.0.0
+#EXTVLCOPT:http-referrer=http://103.229.254.25
 http://103.229.254.25:7001/play/a02s/index.m3u8
 #EXTINF:0,Mohona TV
 #EXTVLCOPT:network-caching=1000
