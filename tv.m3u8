@@ -44,15 +44,15 @@ https://owrcovcrpy.gpcdn.net/bpk-tv/1728/output/1728-audio_113582_eng=113200-vid
 #EXTINF:-1 group-title="Bangladeshi 🇧🇩" tvg-logo=" ", Channel 9
 https://owrcovcrpy.gpcdn.net/bpk-tv/1729/output/1729-audio_113592_eng=113200-video=1692000.m3u8
 
-#EXTINF:0,ATN Bangla
+#EXTINF:-1 group-title="Bangladeshi 🇧🇩" tvg-logo=" ", ATN Bangla
 #EXTVLCOPT:network-caching=1000
 #EXTVLCOPT:http-referrer=http://103.229.254.25
 http://103.229.254.25:7001/play/a06b/index.m3u8
-#EXTINF:0,MYTV HD
+#EXTINF:-1 group-title="Bangladeshi 🇧🇩" tvg-logo=" ", ,MYTV HD
 #EXTVLCOPT:network-caching=1000
 #EXTVLCOPT:http-referrer=http://103.229.254.25
 http://103.229.254.25:7001/play/a02s/index.m3u8
-#EXTINF:0,Mohona TV
+#EXTINF:-1 group-title="Bangladeshi 🇧🇩" tvg-logo=" ", Mohona TV
 #EXTVLCOPT:network-caching=1000
 http://103.229.254.25:7001/play/a05t/index.m3u8
 #EXTINF:0,NEXUS TV
