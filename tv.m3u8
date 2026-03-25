@@ -122,9 +122,6 @@ http://103.161.153.165:8000/play/a03k/index.m3u8
 https://live-stream.utkalbongo.com/hls/livebanglatvstream.m3u8
 #EXTINF:-1 tvg-id="edge2/jalsha-movies" tvg-logo="" group-title="inbangla",Star Jalsha Movies
 http://sm-monirul.top/RoarZone/play.php?id=ZWRnZTIvamFsc2hhLW1vdmllcw==&e=.m3u8
-#EXTINF:0,JALSHA MOVIES
-#EXTVLCOPT:network-caching=1000
-http://103.229.254.25:7001/play/a078/index.m3u8
 #EXTINF:-1 tvg-id="edge3/zee-bangla-cinema" tvg-logo="" group-title="inbangla",Zee Bangla Cinema
 http://sm-monirul.top/RoarZone/play.php?id=ZWRnZTMvemVlLWJhbmdsYS1jaW5lbWE=&e=.m3u8
 #EXTINF:-1 tvg-logo=""group-title="Kolkata Bangla Movies",Colors Bangla Cinema
@@ -235,12 +232,6 @@ http://103.229.254.25:7001/play/a07r/index.m3u8
 #EXTINF:0,9XM
 #EXTVLCOPT:network-caching=1000
 http://103.229.254.25:7001/play/a07o/index.m3u8
-
-########################## Informations Channels ##########################
-#EXTINF:-1 tvg-logo=""group-title="Information",Discovery Hindi
-http://202.70.146.135:8000/play/a05z/index.m3u8
-#EXTINF:-63 tvg-logo="" group-title="Documentary",Discovery Science SD
-http://103.229.254.25:7001/play/a03h/index.m3u8
 
 ########################## Sports Channels ##########################
 #EXTINF:0,Star Sports 1 HD
