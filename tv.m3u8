@@ -91,8 +91,6 @@ http://103.121.61.218/tmp_hls/f64eac11f2cd8f0efa196f8ad173178e/index.m3u8
 
 #EXTINF:-1 tvg-logo="" group-title="SM All TV",Channel Europe
 https://stream.channeleuropetvboxlondon.co.uk/live/channeleurope/chunklist_w572284654.m3u8
-#EXTINF:-1 tvg-logo="" group-title="SM All TV",Nexus TV HD
-http://103.229.254.25:7001/play/a05m/index.m3u8
 #EXTINF:-1 tvg-logo="" group-title="SM All TV",Gazi TV HD
 http://103.229.254.25:7001/play/a06t/index.m3u8
 #EXTINF:-1 tvg-logo="" group-title="SM All TV",Deshi TV
@@ -167,6 +165,10 @@ http://103.161.153.165:8000/play/a03w/index.m3u8
 http://103.161.153.165:8000/play/a01z/index.m3u8
 #EXTINF:-1 tvg-logo="" group-title="English Movies",&Prive HD
 http://103.229.254.25:7001/play/a03f/index.m3u8
+#EXTINF:-1 tvg-logo="" group-title="english",&XPLORE
+https://sm-monirul.top/Bdix/and_xplore.m3u8
+#EXTINF:-1 tvg-logo="" group-title="english",AXN HD
+https://sm-monirul.top/Bdix/axn_hd.m3u8
 #EXTINF:0,MAX Movie
 #EXTVLCOPT:network-caching=1000
 http://103.229.254.25:7001/play/a0et/index.m3u8
@@ -182,6 +184,12 @@ http://103.161.153.165:8000/play/a059/index.m3u8
 #EXTINF:0,Best Action
 #EXTVLCOPT:network-caching=1000
 http://103.229.254.25:7001/play/a088/index.m3u8
+#EXTINF:-1 tvg-logo="" group-title="english",LOTUS TV
+https://sm-monirul.top/Bdix/lotus_tv.m3u8
+#EXTINF:-1 tvg-logo="" group-title="english",MN PLUS
+https://sm-monirul.top/Bdix/mn_plus.m3u8
+#EXTINF:-1 tvg-logo="" group-title="english",MOVIES NOW HD
+https://sm-monirul.top/Bdix/movies_now_hd.m3u8
 
 ########################## Cartoons Channels ##########################
 #EXTINF:-1 tvg-logo=""group-title="Kolkata Bangla",Gopal Bhar
