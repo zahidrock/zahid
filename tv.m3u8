@@ -154,6 +154,9 @@ http://sm-monirul.top/RoarZone/play.php?id=ZWRnZTMvemVlLWJvbGx5d29vZA==&e=.m3u8
 http://sm-monirul.top/RoarZone/play.php?id=ZWRnZTMvemVlLWFjdGlvbg==&e=.m3u8
 #EXTINF:-1 tvg-logo=""group-title="Hindi Movies"&Pictures
 http://103.229.254.25:7001/play/a033/index.m3u8
+#EXTINF:0,Colors Cineplex
+#EXTVLCOPT:network-caching=1000
+http://198.195.239.50:8095/ColorsCineplex/index.m3u8
 #EXTINF:-1 tvg-id="edge3/sony-pix-hd" tvg-logo="" group-title="english",Sony Pix
 http://sm-monirul.top/RoarZone/play.php?id=ZWRnZTMvc29ueS1waXgtaGQ=&e=.m3u8
 #EXTINF:-1 tvg-logo="" group-title="English Movies",&Flix HD
@@ -166,6 +169,9 @@ http://103.229.254.25:7001/play/a0et/index.m3u8
 #EXTINF:0,STAR Movies HD
 #EXTVLCOPT:network-caching=1000
 http://103.229.254.25:7001/play/a02w/index.m3u8
+#EXTINF:0,Star Movies
+#EXTVLCOPT:network-caching=1000
+http://198.195.239.50:8095/StarMovies/tracks-v1a1/mono.m3u8
 #EXTINF:0,STAR Movies Select HD
 #EXTVLCOPT:network-caching=1000
 http://103.229.254.25:7001/play/a02v/index.m3u8
@@ -229,4 +235,8 @@ http://103.229.254.25:7001/play/a0a0/index.m3u8
 http://sm-monirul.top/RoarZone/play.php?id=ZWRnZTMvc29ueS10ZW4tY3JpY2tldA==&e=.m3u8
 #EXTINF:-1 tvg-logo="" group-title="SM All TV",T Sports HD
 http://198.195.239.50:8095/Tsports/tracks-v1a1/mono.m3u8
+#EXTINF:0,A Sports HD #EXTVLCOPT:network-caching=1000
+http://198.195.239.50:8095/Eurosport/tracks-v1a1/mono.m3u8
+#EXTINF:0,Willow Sports HD #EXTVLCOPT:network-caching=1000
+http://198.195.239.50:8095/WiLLow/tracks-v1a1/mono.m3u8
 
