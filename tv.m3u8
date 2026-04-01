@@ -44,6 +44,9 @@ https://owrcovcrpy.gpcdn.net/bpk-tv/1728/output/1728-audio_113582_eng=113200-vid
 #EXTINF:-1 group-title="Bangladeshi 🇧🇩" tvg-logo=" ", Channel 9
 https://owrcovcrpy.gpcdn.net/bpk-tv/1729/output/1729-audio_113592_eng=113200-video=1692000.m3u8
 
+#EXTINF:0,Desh TV
+#EXTVLCOPT:network-caching=1000
+http://103.229.254.25:7001/play/a05s/index.m3u8
 
 #EXTINF:0,ATN Bangla
 #EXTVLCOPT:network-caching=1000
@@ -117,6 +120,9 @@ http://sm-monirul.top/RoarZone/play.php?id=ZWRnZTMvemVlLWJhbmdsYQ==&e=.m3u8
 http://sm-monirul.top/RoarZone/play.php?id=ZWRnZTIvY29sb3JzLWJhbmdsYQ==&e=.m3u8
 #EXTINF:-1 tvg-logo=""group-title="Kolkata Bangla",Sun Bangla HD
 http://103.161.153.165:8000/play/a03k/index.m3u8
+#EXTINF:0,Sony Aath
+#EXTVLCOPT:network-caching=1000
+http://198.195.239.50:8095/SonyAath/tracks-v1a1/mono.m3u8
 
 ########################## Bangla Movies Channel ##########################
 #EXTINF:-1 tvg-logo="" group-title="SM All TV",Bangla Plus
@@ -137,7 +143,7 @@ https://cloudfrontnet.vercel.app/tplay/playout/209627/master.m3u8
 #EXTVLCOPT:network-caching=1000
 https://server.zillarbarta.com/ZBCINEMA/tracks-v1a1/mono.ts.m3u8
 
-########################## Movies Channels ##########################
+########################## Hindi Movies Channels ##########################
 #EXTINF:0,Bollywood Action
 #EXTVLCOPT:network-caching=1000
 http://103.229.254.25:7001/play/a0es/index.m3u8
@@ -167,6 +173,8 @@ http://103.229.254.25:7001/play/a033/index.m3u8
 #EXTINF:0,Colors Cineplex
 #EXTVLCOPT:network-caching=1000
 http://198.195.239.50:8095/ColorsCineplex/index.m3u8
+
+########################## English Movies Channels ##########################
 #EXTINF:-1 tvg-id="edge3/sony-pix-hd" tvg-logo="" group-title="english",Sony Pix
 http://sm-monirul.top/RoarZone/play.php?id=ZWRnZTMvc29ueS1waXgtaGQ=&e=.m3u8
 #EXTINF:-1 tvg-logo="" group-title="English Movies",&Flix HD
@@ -185,6 +193,9 @@ http://198.195.239.50:8095/StarMovies/tracks-v1a1/mono.m3u8
 #EXTINF:0,STAR Movies Select HD
 #EXTVLCOPT:network-caching=1000
 http://103.229.254.25:7001/play/a02v/index.m3u8
+#EXTINF:0,STAR Movies Select HD
+#EXTVLCOPT:network-caching=1000
+http://103.182.170.32:8888/play/a028
 #EXTINF:0,MNX_HD
 #EXTVLCOPT:network-caching=1000
 http://103.161.153.165:8000/play/a059/index.m3u8
@@ -252,4 +263,7 @@ http://198.195.239.50:8095/Eurosport/tracks-v1a1/mono.m3u8
 #EXTINF:0,Willow Sports HD 
 #EXTVLCOPT:network-caching=1000
 http://198.195.239.50:8095/WiLLow/tracks-v1a1/mono.m3u8
+#EXTINF:20,PTV Sports
+#EXTVLCOPT:network-caching=1000
+http://198.195.239.50:8095/PTV-kutta/video.m3u8
 
