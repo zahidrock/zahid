@@ -114,8 +114,9 @@ https://app.ncare.live/live-orgin/nrb-eu.stream/playlist.m3u8
 ########################## Kolkata Channels ##########################
 #EXTINF:-1 tvg-id="f07177e9-d1a9-48b4-8e2e-1718d098bbfb" tvg-logo="" group-title="Star Channels",Star Jalsha HD
 http://sm-monirul.top/AyNa/play.php?id=f07177e9-d1a9-48b4-8e2e-1718d098bbfb&e=.m3u8
-#EXTINF:-1 tvg-id="edge3/zee-bangla" tvg-logo="" group-title="inbangla",Zee Bangla
-http://sm-monirul.top/RoarZone/play.php?id=ZWRnZTMvemVlLWJhbmdsYQ==&e=.m3u8
+#EXTINF:0,Zee Bangla
+#EXTVLCOPT:network-caching=1000
+http://stvlive.net:8080/zeebangla/index.m3u8
 #EXTINF:-1 tvg-id="edge2/colors-bangla" tvg-logo="" group-title="inbangla",Colors Bangla HD
 http://sm-monirul.top/RoarZone/play.php?id=ZWRnZTIvY29sb3JzLWJhbmdsYQ==&e=.m3u8
 #EXTINF:-1 tvg-logo=""group-title="Kolkata Bangla",Sun Bangla HD
@@ -127,8 +128,9 @@ http://198.195.239.50:8095/SonyAath/tracks-v1a1/mono.m3u8
 ########################## Bangla Movies Channel ##########################
 #EXTINF:-1 tvg-logo="" group-title="SM All TV",Bangla Plus
 https://live-stream.utkalbongo.com/hls/livebanglatvstream.m3u8
-#EXTINF:-1 tvg-id="edge2/jalsha-movies" tvg-logo="" group-title="inbangla",Star Jalsha Movies
-http://sm-monirul.top/RoarZone/play.php?id=ZWRnZTIvamFsc2hhLW1vdmllcw==&e=.m3u8
+#EXTINF:20,Jalsha Movies
+#EXTVLCOPT:network-caching=1000
+http://stvlive.net:8080/jalshamovies/index.m3u8
 #EXTINF:-1 tvg-id="edge3/zee-bangla-cinema" tvg-logo="" group-title="inbangla",Zee Bangla Cinema
 http://sm-monirul.top/RoarZone/play.php?id=ZWRnZTMvemVlLWJhbmdsYS1jaW5lbWE=&e=.m3u8
 #EXTINF:-1 tvg-logo=""group-title="Kolkata Bangla Movies",Colors Bangla Cinema
@@ -160,8 +162,9 @@ http://103.99.249.139/zeecinema/index.m3u8
 http://103.99.249.139/stargold/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo=""group-title="Hindi Movies",Star Gold Select HD
 http://103.229.254.25:7001/play/a032/index.m3u8
-#EXTINF:-1 tvg-id="edge3/sony-max" tvg-logo="" group-title="RoarZone",Sony Max
-http://sm-monirul.top/RoarZone/play.php?id=ZWRnZTMvc29ueS1tYXg=&e=.m3u8
+#EXTINF:0,Sony Max HD
+#EXTVLCOPT:network-caching=1000
+http://stvlive.net:8080/sonymax/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-id="edge3/sony-max-2" tvg-logo="" group-title="hindi",Sony Max 2
 http://sm-monirul.top/RoarZone/play.php?id=ZWRnZTMvc29ueS1tYXgtMg==&e=.m3u8
 #EXTINF:-1 tvg-id="edge3/zee-bollywood" tvg-logo="" group-title="RoarZone",Zee Bollywood
@@ -190,6 +193,12 @@ http://103.229.254.25:7001/play/a02w/index.m3u8
 #EXTINF:0,Star Movies
 #EXTVLCOPT:network-caching=1000
 http://198.195.239.50:8095/StarMovies/tracks-v1a1/mono.m3u8
+#EXTINF:0,Star Movies
+#EXTVLCOPT:network-caching=1000
+http://stvlive.net:8080/starmovies/index.m3u8
+#EXTINF:0,Star Movies
+#EXTVLCOPT:network-caching=1000
+http://corgol.com@stvlive.net:8080/starmovies/index.m3u8
 #EXTINF:0,STAR Movies Select HD
 #EXTVLCOPT:network-caching=1000
 http://103.229.254.25:7001/play/a02v/index.m3u8
