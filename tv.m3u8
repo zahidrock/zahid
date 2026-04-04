@@ -75,6 +75,22 @@ https://app.ncare.live/live-orgin/nrb-eu.stream/playlist.m3u8
 #EXTINF:0,GLOBAL TV HD
 #EXTVLCOPT:network-caching=1000
 http://103.229.254.25:7001/play/a05o/index.m3u8
+#EXTINF:-1 tvg-logo=""group-title="Bangla",ATN Bangla
+http://sm-monirul.top/AyNa/play.php?id=9046949b-9847-4b5d-96c1-e82b0734444b&e=.m3u8
+#EXTINF:-1 tvg-logo=""group-title="Bangla",Mohona TV
+http://103.229.254.25:7001/play/a05t/index.m3u8
+#EXTINF:-1 tvg-logo=""group-title="Bangla",MY TV
+http://sm-monirul.top/AyNa/play.php?id=c0480a4a-f066-4a20-9f7d-73bbd852260f&e=.m3u8
+#EXTINF:-1 tvg-logo=""group-title="Bangla",Asian TV
+http://sm-monirul.top/AyNa/play.php?id=4d629b90-cfc2-4426-9eef-62b879efdb02&e=.m3u8
+#EXTINF:-1 tvg-logo=""group-title="Bangla",Bangla TV
+http://sm-monirul.top/AyNa/play.php?id=addb7014-1d2e-41d8-982d-7cafbdc48770&e=.m3u8
+#EXTINF:-1 tvg-logo=""group-title="Bangla",Anando TV
+http://sm-monirul.top/AyNa/play.php?id=a108c4e9-ccfa-42f2-8f8f-169ded28cca2&e=.m3u8
+#EXTINF:-1 tvg-logo=""group-title="Bangla",Bijoy TV
+http://sm-monirul.top/AyNa/play.php?id=f7c89459-37bf-4129-904d-33b0a4c0d590&e=.m3u8
+#EXTINF:-1 tvg-logo=""group-title="Bangla",Nexus TV HD
+http://sm-monirul.top/AyNa/play.php?id=e64e1c11-1167-43a1-9e0f-995cbf6f7ff9&e=.m3u8
 
 ########################## Kolkata Channels ##########################
 #EXTINF:-1 tvg-id="f07177e9-d1a9-48b4-8e2e-1718d098bbfb" tvg-logo="" group-title="Star Channels",Star Jalsha HD
