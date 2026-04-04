@@ -46,62 +46,22 @@ https://owrcovcrpy.gpcdn.net/bpk-tv/1729/output/1729-audio_113592_eng=113200-vid
 #EXTINF:0,Green TV
 #EXTVLCOPT:network-caching=1000
 https://app.ncare.live/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI2/greentv.stream/live-orgin/greentv.stream/chunks.m3u8
-#EXTINF:0,Desh TV
-#EXTVLCOPT:network-caching=1000
-http://103.229.254.25:7001/play/a05s/index.m3u8
-
-#EXTINF:0,ATN Bangla
-#EXTVLCOPT:network-caching=1000
-http://103.229.254.25:7001/play/a06b/index.m3u8
-#EXTINF:0,Mohona TV
-#EXTVLCOPT:network-caching=1000
-http://103.229.254.25:7001/play/a05t/index.m3u8
-#EXTINF:0,NEXUS TV
-#EXTVLCOPT:network-caching=1000
-http://103.229.254.25:7001/play/a05m/index.m3u8
-#EXTINF:0,Rtv HD
-#EXTVLCOPT:network-caching=1000
-http://103.229.254.25:7001/play/a068/index.m3u8
-
 #EXTINF:-1 tvg-logo=""group-title="",Nagorik TV
 http://198.195.239.50:8095/nagorik/tracks-v1a1/mono.m3u8
-
 #EXTINF:-1 group-title="Bangla" tvg-id="US-BDJournal24TV" tvg-logo="",US-BD Journal 24 TV
 http://str24.l9574.com/510.stream/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="Bangladesh",RAJDHANI TV HD
 https://stream.shariarsuvo.com/hls6/rajdhaniweb.m3u8
-
-#EXTINF:-1 tvg-id="edge3/ekhon-tv" tvg-logo="" group-title="bangla",Ekhon
-http://sm-monirul.top/RoarZone/play.php?id=ZWRnZTMvZWtob24tdHY=&e=.m3u8
-#EXTINF:-1 tvg-id="edge3/channel-s" tvg-logo="" group-title="bangla",Channel S
-http://sm-monirul.top/RoarZone/play.php?id=ZWRnZTMvY2hhbm5lbC1z&e=.m3u8
-#EXTINF:-1 tvg-id="bk/65" tvg-logo="" group-title="bangla",Ekushy Tv
-http://sm-monirul.top/RoarZone/play.php?id=YmsvNjU=&e=.m3u8
-#EXTINF:-1 tvg-id="edge3/asian-tv" tvg-logo="" group-title="bangla",Asian Tv
-http://sm-monirul.top/RoarZone/play.php?id=ZWRnZTMvYXNpYW4tdHY=&e=.m3u8
-#EXTINF:-1 tvg-id="edge3/global-tv" tvg-logo="" group-title="bangla",Global Tv
-http://sm-monirul.top/RoarZone/play.php?id=ZWRnZTMvZ2xvYmFsLXR2&e=.m3u8
-#EXTINF:-1 tvg-id="edge3/ananda-tv" tvg-logo="" group-title="bangla",Ananda Tv
-http://sm-monirul.top/RoarZone/play.php?id=ZWRnZTMvYW5hbmRhLXR2&e=.m3u8
-#EXTINF:-1 tvg-id="edge3/bangla-tv" tvg-logo="" group-title="bangla",Bangla Tv
-http://sm-monirul.top/RoarZone/play.php?id=ZWRnZTMvYmFuZ2xhLXR2&e=.m3u8
-#EXTINF:-1 tvg-id="edge3/bijoy-tv" tvg-logo="" group-title="bangla",Bijoy-Tv
-http://sm-monirul.top/RoarZone/play.php?id=ZWRnZTMvYmlqb3ktdHY=&e=.m3u8
-
 #EXTINF:-1 group-title="BANGLA" tvg-logo="" ,News21
 http://103.190.133.68:1935/news21live/live/playlist.m3u8
 #EXTINF:-1 group-title="BANGLA" tvg-logo="" ,Desh Bidesh
 http://157.245.116.246:8080/hls/islamnow/index.m3u8
 #EXTINF:-1 group-title="BANGLA" tvg-logo="" ,Channel 16
 http://103.121.61.218/tmp_hls/f64eac11f2cd8f0efa196f8ad173178e/index.m3u8
-
 #EXTINF:-1 tvg-logo="" group-title="SM All TV",Channel Europe
 https://stream.channeleuropetvboxlondon.co.uk/live/channeleurope/chunklist_w572284654.m3u8
 #EXTINF:-1 tvg-logo="" group-title="SM All TV",Gazi TV HD
 http://103.229.254.25:7001/play/a06t/index.m3u8
-#EXTINF:-1 tvg-logo="" group-title="SM All TV",Deshi TV
-http://208.86.19.13:81/514.stream/index.m3u8
-
 #EXTINF:-1 tvg-logo="" group-title="SM All TV",CBN TV USA
 https://live.cbntvusa.net/hls/cbntv/index.m3u8
 #EXTINF:-1 tvg-logo="" group-title="SM All TV",Deshi TV
@@ -119,8 +79,6 @@ http://sm-monirul.top/AyNa/play.php?id=f07177e9-d1a9-48b4-8e2e-1718d098bbfb&e=.m
 #EXTINF:0,Zee Bangla
 #EXTVLCOPT:network-caching=1000
 http://stvlive.net:8080/zeebangla/index.m3u8
-#EXTINF:-1 tvg-id="edge2/colors-bangla" tvg-logo="" group-title="inbangla",Colors Bangla HD
-http://sm-monirul.top/RoarZone/play.php?id=ZWRnZTIvY29sb3JzLWJhbmdsYQ==&e=.m3u8
 #EXTINF:-1 tvg-logo=""group-title="Kolkata Bangla",Sun Bangla HD
 http://103.161.153.165:8000/play/a03k/index.m3u8
 #EXTINF:0,Sony Aath
@@ -156,10 +114,6 @@ http://103.229.254.25:7001/play/a0es/index.m3u8
 http://103.161.153.165:8000/play/a03c/index.m3u8
 #EXTINF:-1  group-title="Hindi Movies" tvg-logo="",Hindi Dabbing Movies
 https://cloudfrontnet.vercel.app/tplay/playout/209593/master.m3u8
-#EXTINF:-1 tvg-id="edge3/zing" tvg-logo="" group-title="music",Zing
-http://sm-monirul.top/RoarZone/play.php?id=ZWRnZTMvemluZw==&e=.m3u8
-#EXTINF:-1 tvg-name="Zee Cinema HD" group-title="Bangladesh",Zee Cinema HD
-http://103.99.249.139/zeecinema/index.m3u8
 #EXTINF:-1 tvg-name="Star Gold" group-title="Bangladesh",Star Gold HD
 http://103.99.249.139/stargold/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo=""group-title="Hindi Movies",Star Gold Select HD
@@ -167,12 +121,6 @@ http://103.229.254.25:7001/play/a032/index.m3u8
 #EXTINF:0,Sony Max HD
 #EXTVLCOPT:network-caching=1000
 http://stvlive.net:8080/sonymax/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-id="edge3/sony-max-2" tvg-logo="" group-title="hindi",Sony Max 2
-http://sm-monirul.top/RoarZone/play.php?id=ZWRnZTMvc29ueS1tYXgtMg==&e=.m3u8
-#EXTINF:-1 tvg-id="edge3/zee-bollywood" tvg-logo="" group-title="RoarZone",Zee Bollywood
-http://sm-monirul.top/RoarZone/play.php?id=ZWRnZTMvemVlLWJvbGx5d29vZA==&e=.m3u8
-#EXTINF:-1 tvg-id="edge3/zee-action" tvg-logo="" group-title="hindi",Zee Action
-http://sm-monirul.top/RoarZone/play.php?id=ZWRnZTMvemVlLWFjdGlvbg==&e=.m3u8
 #EXTINF:-1 tvg-logo=""group-title="Hindi Movies"&Pictures
 http://103.229.254.25:7001/play/a033/index.m3u8
 #EXTINF:0,Colors Cineplex
@@ -188,9 +136,6 @@ http://sm-monirul.top/RoarZone/play.php?id=ZWRnZTMvc29ueS1waXgtaGQ=&e=.m3u8
 #EXTINF:0,MAX Movie
 #EXTVLCOPT:network-caching=1000
 http://103.229.254.25:7001/play/a0et/index.m3u8
-#EXTINF:0,STAR Movies HD
-#EXTVLCOPT:network-caching=1000
-http://103.229.254.25:7001/play/a02w/index.m3u8
 #EXTINF:0,Star Movies
 #EXTVLCOPT:network-caching=1000
 http://198.195.239.50:8095/StarMovies/tracks-v1a1/mono.m3u8
