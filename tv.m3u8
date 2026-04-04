@@ -43,7 +43,9 @@ https://owrcovcrpy.gpcdn.net/bpk-tv/1724/output/1724-audio_113542_eng=113200-vid
 https://owrcovcrpy.gpcdn.net/bpk-tv/1728/output/1728-audio_113582_eng=113200-video=1692000.m3u8
 #EXTINF:-1 group-title="Bangladeshi 🇧🇩" tvg-logo=" ", Channel 9
 https://owrcovcrpy.gpcdn.net/bpk-tv/1729/output/1729-audio_113592_eng=113200-video=1692000.m3u8
-
+#EXTINF:0,Green TV
+#EXTVLCOPT:network-caching=1000
+https://app.ncare.live/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI2/greentv.stream/live-orgin/greentv.stream/chunks.m3u8
 #EXTINF:0,Desh TV
 #EXTVLCOPT:network-caching=1000
 http://103.229.254.25:7001/play/a05s/index.m3u8
@@ -176,14 +178,13 @@ http://103.229.254.25:7001/play/a033/index.m3u8
 #EXTINF:0,Colors Cineplex
 #EXTVLCOPT:network-caching=1000
 http://198.195.239.50:8095/ColorsCineplex/index.m3u8
+#EXTINF:0,The Movie Club
+#EXTVLCOPT:network-caching=1000
+https://cc-r5hupcym5oehh.akamaized.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-r5hupcym5oehh/SBUM/RunnTV/BollyFlix_IN/BollyFlix_IN.m3u8
 
 ########################## English Movies Channels ##########################
 #EXTINF:-1 tvg-id="edge3/sony-pix-hd" tvg-logo="" group-title="english",Sony Pix
 http://sm-monirul.top/RoarZone/play.php?id=ZWRnZTMvc29ueS1waXgtaGQ=&e=.m3u8
-#EXTINF:-1 tvg-logo="" group-title="English Movies",&Flix HD
-http://103.161.153.165:8000/play/a01z/index.m3u8
-#EXTINF:-1 tvg-logo="" group-title="English Movies",&Prive HD
-http://103.229.254.25:7001/play/a03f/index.m3u8
 #EXTINF:0,MAX Movie
 #EXTVLCOPT:network-caching=1000
 http://103.229.254.25:7001/play/a0et/index.m3u8
@@ -208,9 +209,7 @@ http://103.182.170.32:8888/play/a028
 #EXTINF:0,MNX_HD
 #EXTVLCOPT:network-caching=1000
 http://103.161.153.165:8000/play/a059/index.m3u8
-#EXTINF:0,Best Action
-#EXTVLCOPT:network-caching=1000
-http://103.229.254.25:7001/play/a088/index.m3u8
+
 
 ########################## Cartoons Channels ##########################
 #EXTINF:-1 tvg-logo=""group-title="Kolkata Bangla",Gopal Bhar
