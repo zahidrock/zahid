@@ -166,9 +166,6 @@ http://103.229.254.25:7001/play/a032/index.m3u8
 http://stvlive.net:8080/sonymax/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo=""group-title="Hindi Movies"&Pictures
 http://103.229.254.25:7001/play/a033/index.m3u8
-#EXTINF:0,Colors Cineplex
-#EXTVLCOPT:network-caching=1000
-http://198.195.239.50:8095/ColorsCineplex/index.m3u8
 #EXTINF:0,The Movie Club
 #EXTVLCOPT:network-caching=1000
 https://cc-r5hupcym5oehh.akamaized.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-r5hupcym5oehh/SBUM/RunnTV/BollyFlix_IN/BollyFlix_IN.m3u8
