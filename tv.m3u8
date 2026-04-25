@@ -43,9 +43,6 @@ https://owrcovcrpy.gpcdn.net/bpk-tv/1724/output/1724-audio_113542_eng=113200-vid
 https://owrcovcrpy.gpcdn.net/bpk-tv/1728/output/1728-audio_113582_eng=113200-video=1692000.m3u8
 #EXTINF:-1 group-title="Bangladeshi 🇧🇩" tvg-logo=" ", Channel 9
 https://owrcovcrpy.gpcdn.net/bpk-tv/1729/output/1729-audio_113592_eng=113200-video=1692000.m3u8
-#EXTINF:0,Green TV
-#EXTVLCOPT:network-caching=1000
-https://app.ncare.live/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI2/greentv.stream/live-orgin/greentv.stream/chunks.m3u8
 #EXTINF:-1 tvg-logo=""group-title="",Nagorik TV
 http://198.195.239.50:8095/nagorik/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="Bangla" tvg-id="US-BDJournal24TV" tvg-logo="",US-BD Journal 24 TV
@@ -54,8 +51,6 @@ http://str24.l9574.com/510.stream/index.m3u8
 https://stream.shariarsuvo.com/hls6/rajdhaniweb.m3u8
 #EXTINF:-1 group-title="BANGLA" tvg-logo="" ,News21
 http://103.190.133.68:1935/news21live/live/playlist.m3u8
-#EXTINF:-1 group-title="BANGLA" tvg-logo="" ,Desh Bidesh
-http://157.245.116.246:8080/hls/islamnow/index.m3u8
 #EXTINF:-1 group-title="BANGLA" tvg-logo="" ,Channel 16
 http://103.121.61.218/tmp_hls/f64eac11f2cd8f0efa196f8ad173178e/index.m3u8
 #EXTINF:-1 tvg-logo="" group-title="SM All TV",Channel Europe
@@ -97,9 +92,6 @@ http://103.229.254.25:7001/play/a060/index.m3u8
 #EXTINF:0,Desh TV
 #EXTVLCOPT:network-caching=1000
 http://103.229.254.25:7001/play/a05s/index.m3u8
-#EXTINF:0,Sananda tv 
-#EXTVLCOPT:network-caching=1000
-http://103.161.153.165:8000/play/a03a/index.m3u8
 
 ########################## Kolkata Channels ##########################
 #EXTINF:-1 tvg-id="f07177e9-d1a9-48b4-8e2e-1718d098bbfb" tvg-logo="" group-title="Star Channels",Star Jalsha HD
@@ -138,8 +130,7 @@ https://live-stream.utkalbongo.com/hls/livebanglatvstream.m3u8
 #EXTVLCOPT:network-caching=1000
 http://103.229.254.25:7001/play/a0eo/index.m3u8
 #EXTINF:20,Jalsha Movies
-#EXTVLCOPT:network-caching=1000
-http://stvlive.net:8080/jalshamovies/index.m3u8
+http://198.195.239.50:8095/JalshaMovies/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-id="edge3/zee-bangla-cinema" tvg-logo="" group-title="inbangla",Zee Bangla Cinema
 http://sm-monirul.top/RoarZone/play.php?id=ZWRnZTMvemVlLWJhbmdsYS1jaW5lbWE=&e=.m3u8
 #EXTINF:-1 tvg-logo=""group-title="Kolkata Bangla Movies",Colors Bangla Cinema
@@ -149,58 +140,17 @@ http://198.195.239.50:8095/ColorsBanglaChinema/tracks-v1a1/mono.m3u8
 #EXTINF:0,Bollywood Action
 #EXTVLCOPT:network-caching=1000
 http://103.229.254.25:7001/play/a0es/index.m3u8
-#EXTINF:-1 ,Bollywood HD
-http://212.102.34.8:9080/ZeeBollywood/video.m3u8
-#EXTINF:0,UTV Gold
-#EXTVLCOPT:network-caching=1000
-http://103.161.153.165:8000/play/a03c/index.m3u8
-#EXTINF:-1  group-title="Hindi Movies" tvg-logo="",Hindi Dabbing Movies
-https://cloudfrontnet.vercel.app/tplay/playout/209593/master.m3u8
-#EXTINF:-1 tvg-name="Star Gold" group-title="Bangladesh",Star Gold HD
-http://103.99.249.139/stargold/tracks-v1a1/mono.m3u8
-#EXTINF:0,Star Gold 2 HD
-#EXTVLCOPT:network-caching=1000
-http://103.229.254.25:7001/play/a0d0/index.m3u8
-#EXTINF:-1 tvg-logo=""group-title="Hindi Movies",Star Gold Select HD
-http://103.229.254.25:7001/play/a032/index.m3u8
-#EXTINF:0,Sony Max HD
-#EXTVLCOPT:network-caching=1000
-http://stvlive.net:8080/sonymax/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-logo=""group-title="Hindi Movies"&Pictures
-http://103.229.254.25:7001/play/a033/index.m3u8
 #EXTINF:0,The Movie Club
 #EXTVLCOPT:network-caching=1000
 https://cc-r5hupcym5oehh.akamaized.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-r5hupcym5oehh/SBUM/RunnTV/BollyFlix_IN/BollyFlix_IN.m3u8
 
 ########################## English Movies Channels ##########################
-#EXTINF:0,PIX HD
-#EXTVLCOPT:network-caching=1000
-http://103.229.254.25:7001/play/a0ed/index.m3u8
-#EXTINF:0,LotusTV
-#EXTVLCOPT:network-caching=1000
-http://103.229.254.25:7001/play/a07x/index.m3u8
 #EXTINF:0,MAX Movie
 #EXTVLCOPT:network-caching=1000
 http://103.229.254.25:7001/play/a0et/index.m3u8
 #EXTINF:0,Star Movies
 #EXTVLCOPT:network-caching=1000
 http://198.195.239.50:8095/StarMovies/tracks-v1a1/mono.m3u8
-#EXTINF:0,Star Movies
-#EXTVLCOPT:network-caching=1000
-http://stvlive.net:8080/starmovies/index.m3u8
-#EXTINF:0,Star Movies
-#EXTVLCOPT:network-caching=1000
-http://corgol.com@stvlive.net:8080/starmovies/index.m3u8
-#EXTINF:0,STAR Movies Select HD
-#EXTVLCOPT:network-caching=1000
-http://103.229.254.25:7001/play/a02v/index.m3u8
-#EXTINF:0,STAR Movies Select HD
-#EXTVLCOPT:network-caching=1000
-http://103.182.170.32:8888/play/a028
-#EXTINF:0,MNX_HD
-#EXTVLCOPT:network-caching=1000
-http://103.161.153.165:8000/play/a059/index.m3u8
-
 
 ########################## Cartoons Channels ##########################
 #EXTINF:-1 tvg-logo=""group-title="Kolkata Bangla",Gopal Bhar
