@@ -154,7 +154,7 @@ http://198.195.239.50:8095/StarMovies/tracks-v1a1/mono.m3u8
 
 ########################## Cartoons Channels ##########################
 #EXTINF:-1 tvg-logo=""group-title="Kolkata Bangla",Gopal Bhar
-https://cloudfrontnet.vercel.app/tplay/playout/209611/master.m3u8
+https://live20.bozztv.com/giatvplayout7/giatv-209611/tracks-v1a1/mono.ts.m3u8
 #EXTINF:-1 tvg-id="edge3/pogo" tvg-logo="" group-title="kids",Pogo
 http://sm-monirul.top/RoarZone/play.php?id=ZWRnZTMvcG9nbw==&e=.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Kids",Disney Channel HD
