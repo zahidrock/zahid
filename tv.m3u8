@@ -111,19 +111,19 @@ http://198.195.239.50:8095/SonyAath/tracks-v1a1/mono.m3u8
 ########################## Bangla Movies Channel ##########################
 #EXTINF:0,Amar Digital
 #EXTVLCOPT:network-caching=1000
-#http://115.187.41.216:8080/hls/amardigital/index.m3u8
+http://115.187.41.216:8080/hls/amardigital/index.m3u8
 #EXTINF:0,Amar Bangla
 #EXTVLCOPT:network-caching=1000
-#http://115.187.41.216:8080/hls/amarbangla/index.m3u8
+http://115.187.41.216:8080/hls/amarbangla/index.m3u8
 #EXTINF:0,Mon Tv Bangla
 #EXTVLCOPT:network-caching=1000
-#http://115.187.41.216:8080/hls/montvbangla/index.m3u8
+http://115.187.41.216:8080/hls/montvbangla/index.m3u8
 #EXTINF:0,ZB Cinema
 #EXTVLCOPT:network-caching=1000
 #https://server.zillarbarta.com/ZBCINEMA/tracks-v1a1/mono.ts.m3u8
-#EXTINF:0,Bangla Movies
+EXTINF:0,Bangla Movies
 #EXTVLCOPT:network-caching=1000
-#https://cloudfrontnet.vercel.app/tplay/playout/209627/master.m3u8
+https://live20.bozztv.com/giatvplayout7/giatv-209627/tracks-v1a1/mono.ts.m3u8
 #EXTINF:-1 tvg-logo="" group-title="SM All TV",Bangla Plus
 https://live-stream.utkalbongo.com/hls/livebanglatvstream.m3u8
 #EXTINF:0,Star Bangla
@@ -143,6 +143,8 @@ http://103.229.254.25:7001/play/a0es/index.m3u8
 #EXTINF:0,The Movie Club
 #EXTVLCOPT:network-caching=1000
 https://cc-r5hupcym5oehh.akamaized.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-r5hupcym5oehh/SBUM/RunnTV/BollyFlix_IN/BollyFlix_IN.m3u8
+#EXTINF:0,Zee Cinemalu
+https://d1g8wgjurz8via.cloudfront.net/bpk-tv/Zeecinemalu/default/manifest.mpd
 
 ########################## English Movies Channels ##########################
 #EXTINF:0,MAX Movie
