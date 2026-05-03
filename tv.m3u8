@@ -23,14 +23,14 @@ https://owrcovcrpy.gpcdn.net/bpk-tv/1709/output/1709-audio_113392_eng=113200-vid
 https://owrcovcrpy.gpcdn.net/bpk-tv/1710/output/1710-audio_113402_eng=113200-video=1692000.m3u8
 #EXTINF:-1 group-title="Bangladeshi 🇧🇩" tvg-logo=" ", Dipto TV
 https://owrcovcrpy.gpcdn.net/bpk-tv/1711/output/1711-audio_113412_eng=113200-video=1692000.m3u8
-#EXTINF:-1 group-title="Bangladeshi 🇧🇩" tvg-logo=" ",Sangshad Bangla
+#EXTINF:-1 group-title="Bangladeshi 🇧🇩" tvg-logo=" ",Saudi TV
 https://owrcovcrpy.gpcdn.net/bpk-tv/1713/output/1713-audio_113432_eng=113200-video=1692000.m3u8
 #EXTINF:-1 group-title="Bangladeshi 🇧🇩" tvg-logo=" ", Bangla Vision TV
 https://owrcovcrpy.gpcdn.net/bpk-tv/1715/output/1715-audio_113452_eng=113200-video=1692000.m3u8
 #EXTINF:-1 group-title="Bangladeshi 🇧🇩" tvg-logo=" ", NTV 
 https://owrcovcrpy.gpcdn.net/bpk-tv/1716/output/1716-audio_113462_eng=113200-video=1692000.m3u8
-#EXTINF:-1 group-title="Bangladeshi 🇧🇩" tvg-logo=" ", SATV
-https://owrcovcrpy.gpcdn.net/bpk-tv/1720/output/1720-audio_113502_eng=113200-video=1692000.m3u8
+#EXTINF:-1 group-title="Bangladeshi 🇧🇩" tvg-logo=" ", Akash Promo
+#https://owrcovcrpy.gpcdn.net/bpk-tv/1720/output/1720-audio_113502_eng=113200-video=1692000.m3u8
 #EXTINF:-1 group-title="Bangladeshi 🇧🇩" tvg-logo=" ", Al Jazeera
 https://owrcovcrpy.gpcdn.net/bpk-tv/1721/output/1721-audio_113512_eng=113200-video=1692000.m3u8
 #EXTINF:-1 group-title="Bangladeshi 🇧🇩" tvg-logo=" ", Maasranga HD
@@ -55,7 +55,7 @@ http://103.190.133.68:1935/news21live/live/playlist.m3u8
 http://103.121.61.218/tmp_hls/f64eac11f2cd8f0efa196f8ad173178e/index.m3u8
 #EXTINF:-1 tvg-logo="" group-title="SM All TV",Channel Europe
 https://stream.channeleuropetvboxlondon.co.uk/live/channeleurope/chunklist_w572284654.m3u8
-#EXTINF:-1 tvg-logo="" group-title="SM All TV",Gazi TV HD
+#EXTINF:-1 tvg-logo="" group-title="SM All TV",Channel One
 http://103.229.254.25:7001/play/a06t/index.m3u8
 #EXTINF:-1 tvg-logo="" group-title="SM All TV",CBN TV USA
 https://live.cbntvusa.net/hls/cbntv/index.m3u8
@@ -77,7 +77,7 @@ http://103.229.254.25:7001/play/a05t/index.m3u8
 #EXTINF:-1 tvg-logo=""group-title="Bangla",MY TV
 http://sm-monirul.top/AyNa/play.php?id=c0480a4a-f066-4a20-9f7d-73bbd852260f&e=.m3u8
 #EXTINF:-1 tvg-logo=""group-title="Bangla",Asian TV
-http://sm-monirul.top/AyNa/play.php?id=4d629b90-cfc2-4426-9eef-62b879efdb02&e=.m3u8
+http://103.229.254.25:7001/play/a063/index.m3u8
 #EXTINF:-1 tvg-logo=""group-title="Bangla",Bangla TV
 http://sm-monirul.top/AyNa/play.php?id=addb7014-1d2e-41d8-982d-7cafbdc48770&e=.m3u8
 #EXTINF:-1 tvg-logo=""group-title="Bangla",Anando TV
@@ -90,8 +90,11 @@ http://sm-monirul.top/AyNa/play.php?id=e64e1c11-1167-43a1-9e0f-995cbf6f7ff9&e=.m
 #EXTVLCOPT:network-caching=1000
 http://103.229.254.25:7001/play/a060/index.m3u8
 #EXTINF:0,Desh TV
-#EXTVLCOPT:network-caching=1000
-http://103.229.254.25:7001/play/a05s/index.m3u8
+https://bozztv.com/rongo/rongo-DeshTV/index.m3u8
+#EXTINF:0,Gazi TV
+https://tvsen1.aynaott.com/Ravc7gPCZpxk/tracks-v1a1/mono.ts.m3u8
+#EXTINF:-1 group-title="Bangla News" tvg-id="TBN24.us" tvg-logo="",BD | TBN 24 USA
+http://cdn01.palki.tv/live/TBN24-M/index.m3u8
 
 ########################## Kolkata Channels ##########################
 #EXTINF:-1 tvg-id="f07177e9-d1a9-48b4-8e2e-1718d098bbfb" tvg-logo="" group-title="Star Channels",Star Jalsha HD
@@ -132,11 +135,11 @@ http://198.195.239.50:8095/ColorsBanglaChinema/tracks-v1a1/mono.m3u8
 
 ########################## Hindi Movies Channels ##########################
 #EXTINF:0,Bollywood Action
-#EXTVLCOPT:network-caching=1000
 http://103.229.254.25:7001/play/a0es/index.m3u8
 #EXTINF:0,The Movie Club
-#EXTVLCOPT:network-caching=1000
 https://cc-r5hupcym5oehh.akamaized.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-r5hupcym5oehh/SBUM/RunnTV/BollyFlix_IN/BollyFlix_IN.m3u8
+#EXTINF:0,Hindi Dubbed Movie
+https://live20.bozztv.com/giatvplayout7/giatv-209593/tracks-v1a1/mono.ts.m3u8
 #EXTINF:0,Sony Max HD
 https://padmaonline.duckdns.org:8088/SonyMaxHD/tracks-v1a1/mono.m3u8
 
@@ -153,19 +156,7 @@ http://103.213.31.111/HBOHD/index.m3u8
 ########################## Cartoons Channels ##########################
 #EXTINF:-1 tvg-logo=""group-title="Kolkata Bangla",Gopal Bhar
 https://live20.bozztv.com/giatvplayout7/giatv-209611/tracks-v1a1/mono.ts.m3u8
-#EXTINF:-1 tvg-id="edge3/pogo" tvg-logo="" group-title="kids",Pogo
-http://sm-monirul.top/RoarZone/play.php?id=ZWRnZTMvcG9nbw==&e=.m3u8
-#EXTINF:-1 tvg-logo="" group-title="Kids",Disney Channel HD
-http://iptvcasomsapi.jprdigital.in/x-media/C0451/master.m3u8
-#EXTINF:-1 tvg-id="edge3/cartoon-network" tvg-logo="" group-title="RoarZone",Cartoon Network
-http://sm-monirul.top/RoarZone/play.php?id=ZWRnZTMvY2FydG9vbi1uZXR3b3Jr&e=.m3u8
-#EXTINF:-1 tvg-logo="" group-title="Kids",Nick HD+
-http://116.90.120.128:8000/play/a0i3/index.m3u88
-#EXTINF:-1 tvg-id="edge3/discovery-kids" tvg-logo="" group-title="kids",Discovery Kids
-http://sm-monirul.top/RoarZone/play.php?id=ZWRnZTMvZGlzY292ZXJ5LWtpZHM=&e=.m3u8
-#EXTINF:0,NICK
-#EXTVLCOPT:network-caching=1000
-http://103.229.254.25:7001/play/a07b/index.m3u8
+
 
 ########################## Music Channels ##########################
 #EXTINF:-1 group-title="Bangla Music" tvg-logo="",Music Bangla
