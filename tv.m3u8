@@ -118,8 +118,9 @@ https://mumt03.tangotv.in/AAKASHAATH/tracks-v2a1/mono.m3u8
 https://legitpro.co.in/taratv/taratv/tracks-v1a1/mono.m3u8
 
 ########################## Bangla Movies Channel ##########################
+#EXTINF:-1 tvg-logo="" group-title="Bangla Movies",Amar Bangla
+https://app.ncare.live/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI/amarbanglatv.stream/playlist.m3u8
 EXTINF:0,Bangla Movies
-#EXTVLCOPT:network-caching=1000
 https://live20.bozztv.com/giatvplayout7/giatv-209627/tracks-v1a1/mono.ts.m3u8
 #EXTINF:-1 tvg-logo="" group-title="SM All TV",Bangla Plus
 https://live-stream.utkalbongo.com/hls/livebanglatvstream.m3u8
