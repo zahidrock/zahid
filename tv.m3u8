@@ -122,8 +122,6 @@ https://legitpro.co.in/taratv/taratv/tracks-v1a1/mono.m3u8
 ########################## Bangla Movies Channel ##########################
 #EXTINF:0, Zee Plus Cinema
 http://103.229.254.25:7001/play/a06r/index.m3u8
-#EXTINF:0,Bangla Movies
-https://live20.bozztv.com/giatvplayout7/giatv-209627/tracks-v1a1/mono.ts.m3u8
 #EXTINF:-1 tvg-logo="" group-title="SM All TV",Bangla Plus
 https://live-stream.utkalbongo.com/hls/livebanglatvstream.m3u8
 #EXTINF:0,Star Bangla
