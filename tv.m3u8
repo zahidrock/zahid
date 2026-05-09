@@ -67,10 +67,12 @@ http://103.229.254.25:7001/play/a066/index.m3u8
 http://103.229.254.25:7001/play/a05m/index.m3u8
 #EXTINF:0,Channel S
 http://103.229.254.25:7001/play/a060/index.m3u8
-#EXTINF:-1 tvg-logo=""group-title="",Nagorik TV
+#EXTINF:-1,Nagorik TV
 http://103.229.254.25:7001/play/a06q/index.m3u8
-#EXTINF:-1 tvg-logo="" group-title="SM All TV",Channel One
+#EXTINF:-1,Channel 1
 http://103.229.254.25:7001/play/a06t/index.m3u8
+#EXTINF:-1,RTV
+http://103.229.254.25:7001/play/a068/index.m3u8
 #EXTINF:0,Desh TV
 https://bozztv.com/rongo/rongo-DeshTV/index.m3u8
 #EXTINF:0,Gazi TV
@@ -131,8 +133,6 @@ http://198.195.239.50:8095/ColorsBanglaChinema/tracks-v1a1/mono.m3u8
 ########################## Hindi Movies Channels ##########################
 #EXTINF:-1,Zee Cinema HD
 http://103.157.248.140:8000/play/a00q/index.m3u8
-#EXTINF:-1,Asianet HD
-http://103.157.248.140:8000/play/a00s/index.m3u8
 #EXTINF:-1,&Pictures HD
 http://103.157.248.140:8000/play/a01d/index.m3u8
 #EXTINF:0,Bollywood Action
@@ -157,13 +157,16 @@ http://103.157.248.140:8000/play/a01s/index.m3u8
 http://103.229.254.25:7001/play/a0et/index.m3u8
 #EXTINF:0,Star Movies
 http://198.195.239.50:8095/StarMovies/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-name="HBO" group-title="English Movie",HBO
+#EXTINF:-1,HBO
 http://103.213.31.111/HBOHD/index.m3u8
+#EXTINF:-1,Best Action
+http://103.229.254.25:7001/play/a088/index.m3u8
 
 ########################## Cartoons Channels ##########################
 #EXTINF:-1 tvg-logo=""group-title="Kolkata Bangla",Gopal Bhar
 https://live20.bozztv.com/giatvplayout7/giatv-209611/tracks-v1a1/mono.ts.m3u8
-
+#EXTINF:0, Sony YAY Bangla
+http://103.229.254.25:7001/play/a0im/index.m3u8
 
 ########################## Music Channels ##########################
 #EXTINF:-1 group-title="Bangla Music" tvg-logo="",Music Bangla
