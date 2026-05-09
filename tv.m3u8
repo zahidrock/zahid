@@ -43,8 +43,40 @@ https://owrcovcrpy.gpcdn.net/bpk-tv/1724/output/1724-audio_113542_eng=113200-vid
 https://owrcovcrpy.gpcdn.net/bpk-tv/1728/output/1728-audio_113582_eng=113200-video=1692000.m3u8
 #EXTINF:-1 group-title="Bangladeshi 🇧🇩" tvg-logo=" ", Channel 9
 https://owrcovcrpy.gpcdn.net/bpk-tv/1729/output/1729-audio_113592_eng=113200-video=1692000.m3u8
+#EXTINF:0,EKHON TV
+http://103.229.254.25:7001/play/a09k/index.m3u8
+#EXTINF:0, Madani TV
+http://103.229.254.25:7001/play/a05p/index.m3u8
+#EXTINF:0,GLOBAL TV HD
+http://103.229.254.25:7001/play/a05o/index.m3u8
+#EXTINF:-1,ATN Bangla
+http://103.229.254.25:7001/play/a06b/index.m3u8
+#EXTINF:-1,Mohona TV
+http://103.229.254.25:7001/play/a05t/index.m3u8
+#EXTINF:-1,MY TV
+http://103.229.254.25:7001/play/a05z/index.m3u8
+#EXTINF:-1,Asian TV
+http://103.229.254.25:7001/play/a063/index.m3u8
+#EXTINF:-1,Bangla TV
+http://103.229.254.25:7001/play/a06c/index.m3u8
+#EXTINF:-1,Anando TV
+http://103.229.254.25:7001/play/a05v/index.m3u8
+#EXTINF:-1,Bijoy TV
+http://103.229.254.25:7001/play/a066/index.m3u8
+#EXTINF:-1,Nexus TV HD
+http://103.229.254.25:7001/play/a05m/index.m3u8
+#EXTINF:0,Channel S
+http://103.229.254.25:7001/play/a060/index.m3u8
 #EXTINF:-1 tvg-logo=""group-title="",Nagorik TV
 http://103.229.254.25:7001/play/a06q/index.m3u8
+#EXTINF:-1 tvg-logo="" group-title="SM All TV",Channel One
+http://103.229.254.25:7001/play/a06t/index.m3u8
+#EXTINF:0,Desh TV
+https://bozztv.com/rongo/rongo-DeshTV/index.m3u8
+#EXTINF:0,Gazi TV
+https://tvsen1.aynaott.com/Ravc7gPCZpxk/tracks-v1a1/mono.ts.m3u8
+#EXTINF:-1,NRB TV
+https://app.ncare.live/live-orgin/nrb-eu.stream/playlist.m3u8
 #EXTINF:-1 group-title="Bangla" tvg-id="US-BDJournal24TV" tvg-logo="",US-BD Journal 24 TV
 http://str24.l9574.com/510.stream/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="Bangladesh",RAJDHANI TV HD
@@ -55,8 +87,6 @@ http://103.190.133.68:1935/news21live/live/playlist.m3u8
 http://103.121.61.218/tmp_hls/f64eac11f2cd8f0efa196f8ad173178e/index.m3u8
 #EXTINF:-1 tvg-logo="" group-title="SM All TV",Channel Europe
 https://stream.channeleuropetvboxlondon.co.uk/live/channeleurope/chunklist_w572284654.m3u8
-#EXTINF:-1 tvg-logo="" group-title="SM All TV",Channel One
-http://103.229.254.25:7001/play/a06t/index.m3u8
 #EXTINF:-1 tvg-logo="" group-title="SM All TV",CBN TV USA
 https://live.cbntvusa.net/hls/cbntv/index.m3u8
 #EXTINF:-1 tvg-logo="" group-title="SM All TV",Deshi TV
@@ -65,39 +95,8 @@ https://deshitv.deshitv24.net/live/myStream/playlist.m3u8
 https://app.ncare.live/live-orgin/jagonews24.stream/playlist.m3u8
 #EXTINF:-1 tvg-logo="" group-title="SM All TV",ME TV
 https://iptvbd.live/metv1080/1080.m3u8
-#EXTINF:-1 tvg-logo="" group-title="SM All TV",NRB TV
-https://app.ncare.live/live-orgin/nrb-eu.stream/playlist.m3u8
-#EXTINF:0, Madani TV
-http://103.229.254.25:7001/play/a05p/index.m3u8
-#EXTINF:0,GLOBAL TV HD
-http://103.229.254.25:7001/play/a05o/index.m3u8
-#EXTINF:-1 tvg-logo=""group-title="Bangla",ATN Bangla
-http://103.229.254.25:7001/play/a06b/index.m3u8
-#EXTINF:-1 tvg-logo=""group-title="Bangla",Mohona TV
-http://103.229.254.25:7001/play/a05t/index.m3u8
-#EXTINF:-1 tvg-logo=""group-title="Bangla",MY TV
-http://103.229.254.25:7001/play/a05z/index.m3u8
-#EXTINF:-1 tvg-logo=""group-title="Bangla",Asian TV
-http://103.229.254.25:7001/play/a063/index.m3u8
-#EXTINF:-1 tvg-logo=""group-title="Bangla",Bangla TV
-http://103.229.254.25:7001/play/a06c/index.m3u8
-#EXTINF:-1 tvg-logo=""group-title="Bangla",Anando TV
-http://103.229.254.25:7001/play/a05v/index.m3u8
-#EXTINF:-1 tvg-logo=""group-title="Bangla",Bijoy TV
-http://103.229.254.25:7001/play/a066/index.m3u8
-#EXTINF:-1 tvg-logo=""group-title="Bangla",Nexus TV HD
-http://103.229.254.25:7001/play/a05m/index.m3u8
-#EXTINF:0,Channel S
-#EXTVLCOPT:network-caching=1000
-http://103.229.254.25:7001/play/a060/index.m3u8
-#EXTINF:0,Desh TV
-https://bozztv.com/rongo/rongo-DeshTV/index.m3u8
-#EXTINF:0,Gazi TV
-https://tvsen1.aynaott.com/Ravc7gPCZpxk/tracks-v1a1/mono.ts.m3u8
 #EXTINF:-1 group-title="Bangla News" tvg-id="TBN24.us" tvg-logo="",TBN 24 USA
 http://cdn01.palki.tv/live/TBN24-M/index.m3u8
-#EXTINF:0,EKHON TV
-http://103.229.254.25:7001/play/a09k/index.m3u8
 
 ########################## Kolkata Channels ##########################
 #EXTINF:-1 tvg-id="f07177e9-d1a9-48b4-8e2e-1718d098bbfb" tvg-logo="" group-title="Star Channels",Star Jalsha HD
