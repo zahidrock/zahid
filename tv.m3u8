@@ -145,6 +145,10 @@ https://live20.bozztv.com/giatvplayout7/giatv-209593/tracks-v1a1/mono.ts.m3u8
 https://padmaonline.duckdns.org:8088/SonyMaxHD/tracks-v1a1/mono.m3u8
 #EXTINF:0,Star Gold Select HD
 http://103.229.254.25:7001/play/a032/index.m3u8
+#EXTINF:-1,Star Gold 2 HD
+http://202.70.146.135:8000/play/a04q/index.m3u8
+#EXTINF:-1,Color Cineplex HD
+http://202.70.146.135:8000/play/a01x/index.m3u8
 
 ########################## English Movies Channels ##########################
 #EXTINF:-1,Movies Now HD
@@ -162,11 +166,33 @@ http://103.213.31.111/HBOHD/index.m3u8
 #EXTINF:-1,Best Action
 http://103.229.254.25:7001/play/a088/index.m3u8
 
+########################## Documentary Channels ##########################
+#EXTINF:-1,TravelXP HD Hindi
+http://202.70.146.135:8000/play/a04o/index.m3u8
+#EXTINF:-1,TLC HD Hindi
+http://202.70.146.135:8000/play/a05i/index.m3u8
+#EXTINF:-1,Wild HD Hindi
+http://202.70.146.135:8000/play/a05j/index.m3u8
+#EXTINF:-1,National Geographic HD Hindi
+http://202.70.146.135:8000/play/a05o/index.m3u8
+#EXTINF:-1,Investigation Discovery HD Hidni
+http://202.70.146.135:8000/play/a05v/index.m3u8
+#EXTINF:-1,Discovery HD Hindi
+http://202.70.146.135:8000/play/a05z/index.m3u8
+#EXTINF:-1,History TV HD Hindi
+http://202.70.146.135:8000/play/a065/index.m3u8
+#EXTINF:-1,Sony BBC Earth HD Hindi
+http://202.70.146.135:8000/play/a067/index.m3u8
+
 ########################## Cartoons Channels ##########################
 #EXTINF:-1 tvg-logo=""group-title="Kolkata Bangla",Gopal Bhar
 https://live20.bozztv.com/giatvplayout7/giatv-209611/tracks-v1a1/mono.ts.m3u8
 #EXTINF:0, Sony YAY Bangla
 http://103.229.254.25:7001/play/a0im/index.m3u8
+#EXTINF:-1,Sonic Hindi
+http://202.70.146.135:8000/play/a02t/index.m3u8
+#EXTINF:-1,Nick Hindi
+http://202.70.146.135:8000/play/a04c/index.m3u8
 
 ########################## Music Channels ##########################
 #EXTINF:-1 group-title="Bangla Music" tvg-logo="",Music Bangla
@@ -188,7 +214,8 @@ https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg01412-xiaomiasia-yrfmusic-xiaomi/pl
 http://103.229.254.25:7001/play/a07r/index.m3u8
 #EXTINF:0,9XM
 http://103.229.254.25:7001/play/a07o/index.m3u8
-
+#EXTINF:-1,MTV HD
+http://202.70.146.135:8000/play/a06m/index.m3u8
 
 ########################## Sports Channels ##########################
 #EXTINF:0,Star Sports 1 HD
@@ -202,6 +229,9 @@ http://198.195.239.50:8095/Eurosport/tracks-v1a1/mono.m3u8
 #EXTINF:0,Willow Sports HD 
 http://198.195.239.50:8095/WiLLow/tracks-v1a1/mono.m3u8
 #EXTINF:20,PTV Sports
-#EXTVLCOPT:network-caching=1000
 http://198.195.239.50:8095/PTV-kutta/video.m3u8
+#EXTINF:-1,Zee Cafe HD
+http://202.70.146.135:8000/play/a04n/index.m3u8
+#EXTINF:-1,Sony Sports 5 HD
+http://202.70.146.135:8000/play/a09r/index.m3u8
 
