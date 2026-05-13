@@ -1,6 +1,6 @@
 #EXTM3U
 ########################## Bangladeshi CHANNELS ##########################
-#EXTINF:-1 group-title="Religious" tvg-id="PeaceTVBangla" tvg-logo="",Peace TV Bangla
+#EXTINF:-1,Peace TV Bangla
 https://dzkyvlfyge.erbvr.com/PeaceTvBangla/tracks-v2a1/mono.m3u8
 
 #EXTINF:-1 group-title="Bangladeshi 🇧🇩" tvg-logo=" ", Jumuna TV
@@ -259,4 +259,5 @@ http://198.195.239.50:8095/PTV-kutta/video.m3u8
 http://202.70.146.135:8000/play/a04n/index.m3u8
 #EXTINF:-1,Sony Sports 5 HD
 http://202.70.146.135:8000/play/a09r/index.m3u8
-
+#EXTINF:-1,Jana Nayagan
+http://vod.cineplexbd.net:8081/movies/Bangla%20Dubbed/2026/Jana%20Nayagan%20%282026%29%20720p/Jana%20Nayagan%20%282026%29%20720p.mp4/tracks-v1a1/mono.m3u8
