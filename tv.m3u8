@@ -43,10 +43,12 @@ https://owrcovcrpy.gpcdn.net/bpk-tv/1724/output/1724-audio_113542_eng=113200-vid
 https://owrcovcrpy.gpcdn.net/bpk-tv/1728/output/1728-audio_113582_eng=113200-video=1692000.m3u8
 #EXTINF:-1 group-title="Bangladeshi 🇧🇩" tvg-logo=" ", Channel 9
 https://owrcovcrpy.gpcdn.net/bpk-tv/1729/output/1729-audio_113592_eng=113200-video=1692000.m3u8
+#EXTINF:-1 ,Ekushey TV
+https://ekusheyserver.com/hls-live/livepkgr/_definst_/liveevent/livestream3.m3u8
 #EXTINF:0,EKHON TV
-http://103.229.254.25:7001/play/a09k/index.m3u8
-#EXTINF:0, Madani TV
-http://103.229.254.25:7001/play/a05p/index.m3u8
+https://app24.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMFDEEHGcfRgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcEdsEfeDeKiNkVN3PTOmdFseWRtaW51aiPhnPTI2/globaltv.stream/tracks-v1a1/mono.m3u8
+##EXTINF:0, Madani TV
+#http://103.229.254.25:7001/play/a05p/index.m3u8
 #EXTINF:0,GLOBAL TV HD
 http://103.229.254.25:7001/play/a05o/index.m3u8
 #EXTINF:-1,ATN Bangla
@@ -68,10 +70,8 @@ http://103.229.254.25:7001/play/a05m/index.m3u8
 #EXTINF:0,Channel S
 http://103.229.254.25:7001/play/a060/index.m3u8
 #EXTINF:-1,Nagorik TV
-#http://103.229.254.25:7001/play/a06q/index.m3u8
 https://ultra02jibon02by1.jibon02premium.workers.dev/JIBON-BD-VS-PK/index.m3u8
 #EXTINF:-1,Channel 1
-#http://103.229.254.25:7001/play/a06t/index.m3u8
 https://app24.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMFDEEHGcfRgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcEdsEfeDeKiNkVN3PTOmdFseWRtaW51aiPhnPTI2/channel1bd.stream/tracks-v1a1/mono.m3u8
 #EXTINF:-1,RTV
 http://103.229.254.25:7001/play/a068/index.m3u8
@@ -83,23 +83,23 @@ https://tvsen1.aynaott.com/Ravc7gPCZpxk/tracks-v1a1/mono.ts.m3u8
 https://app.ncare.live/live-orgin/nrb-eu.stream/playlist.m3u8
 #EXTINF:-1,US-BD Journal 24 TV
 http://str24.l9574.com/510.stream/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Bangladesh",RAJDHANI TV HD
+#EXTINF:-1,RAJDHANI TV HD
 https://stream.shariarsuvo.com/hls6/rajdhaniweb.m3u8
-#EXTINF:-1 group-title="BANGLA" tvg-logo="" ,News21
+#EXTINF:-1,News21
 http://103.190.133.68:1935/news21live/live/playlist.m3u8
-#EXTINF:-1 group-title="BANGLA" tvg-logo="" ,Channel 16
+#EXTINF:-1,Channel 16
 http://103.121.61.218/tmp_hls/f64eac11f2cd8f0efa196f8ad173178e/index.m3u8
-#EXTINF:-1 tvg-logo="" group-title="SM All TV",Channel Europe
+#EXTINF:-1,Channel Europe
 https://stream.channeleuropetvboxlondon.co.uk/live/channeleurope/chunklist_w572284654.m3u8
-#EXTINF:-1 tvg-logo="" group-title="SM All TV",CBN TV USA
+#EXTINF:-1,CBN TV USA
 https://live.cbntvusa.net/hls/cbntv/index.m3u8
-#EXTINF:-1 tvg-logo="" group-title="SM All TV",Deshi TV
+#EXTINF:-1,Deshi TV
 https://deshitv.deshitv24.net/live/myStream/playlist.m3u8
-#EXTINF:-1 tvg-logo="" group-title="SM All TV",Jago News 24
+#EXTINF:-1,Jago News 24
 https://app.ncare.live/live-orgin/jagonews24.stream/playlist.m3u8
-#EXTINF:-1 tvg-logo="" group-title="SM All TV",ME TV
+#EXTINF:-1,ME TV
 https://iptvbd.live/metv1080/1080.m3u8
-#EXTINF:-1 group-title="Bangla News" tvg-id="TBN24.us" tvg-logo="",TBN 24 USA
+#EXTINF:-1,TBN 24 USA
 http://cdn01.palki.tv/live/TBN24-M/index.m3u8
 #EXTINF:0,NAN TV
 https://app.ncare.live/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI2/nantv.stream/playlist.m3u8
@@ -189,8 +189,8 @@ http://103.229.254.25:7001/play/a0et/index.m3u8
 http://198.195.239.50:8095/StarMovies/tracks-v1a1/mono.m3u8
 #EXTINF:-1,HBO
 http://103.213.31.111/HBOHD/index.m3u8
-#EXTINF:-1,Best Action
-http://103.229.254.25:7001/play/a088/index.m3u8
+#EXTINF:-1,MNX
+http://202.70.146.135:8000/play/a052/index.m3u8
 
 ########################## Documentary Channels ##########################
 #EXTINF:-1,TravelXP HD Hindi
@@ -211,7 +211,7 @@ http://202.70.146.135:8000/play/a065/index.m3u8
 http://202.70.146.135:8000/play/a067/index.m3u8
 
 ########################## Cartoons Channels ##########################
-#EXTINF:-1 tvg-logo=""group-title="Kolkata Bangla",Gopal Bhar
+#EXTINF:-1,Gopal Bhar
 https://live20.bozztv.com/giatvplayout7/giatv-209611/tracks-v1a1/mono.ts.m3u8
 #EXTINF:0, Sony YAY Bangla
 http://103.229.254.25:7001/play/a0im/index.m3u8
@@ -221,21 +221,19 @@ http://202.70.146.135:8000/play/a02t/index.m3u8
 http://202.70.146.135:8000/play/a04c/index.m3u8
 
 ########################## Music Channels ##########################
-#EXTINF:-1 group-title="Bangla Music" tvg-logo="",Music Bangla
-https://app24.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMFDDEHGcfRgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcEdsEfeDeKiNkVN3PTOmdFsaWRtaW51aiPhnPTI2/musicbangla44.stream/tracks-v1a1/mono.m3u8
+#EXTINF:-1,Music Bangla
 http://vmi3039524.contaboserver.net:5050/music/index.m3u8
-#EXTINF:-1 group-title="Bangla Music" tvg-logo="",Bengali Beats
-#https://tplay.live/originals/bengali-beats/index.m3u8
+#EXTINF:-1,Bengali Beats
 https://app24.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMFDEEHGcfRgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcEdsEfeDeKiNkVN3PTOmdFseWRtaW51aiPhnPTI2/musicbangla44.stream/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-id="75412270-ce20-4376-8e7f-21fc76f84ed4" tvg-logo="" group-title="Channels",Sangeet Bangla
+#EXTINF:-1,Sangeet Bangla
 http://sm-monirul.top/AyNa/play.php?id=75412270-ce20-4376-8e7f-21fc76f84ed4&e=.m3u8
-#EXTINF:-1 tvg-id="edge3/b4u-music" tvg-logo="" group-title="RoarZone",B4U Music
+#EXTINF:-1,B4U Music
 http://sm-monirul.top/RoarZone/play.php?id=ZWRnZTMvYjR1LW11c2lj&e=.m3u8
-#EXTINF:-1 tvg-logo="" group-title="Bangladeshi 🇧🇩",24/7 Shinchan
+#EXTINF:-1,24/7 Shinchan
 https://cloudfrontnet.vercel.app/tplay/playout/209901/master.m3u8
-#EXTINF:-1 group-title="India" tvg-id="HindiHits.in" tvg-logo="",Hindi Hits HD
+#EXTINF:-1,Hindi Hits HD
 http://146.59.253.52:8080/hindihitshd/index.m3u8
-#EXTINF:-1 group-title="India" tvg-id="YRFMusicHD" tvg-logo="",YRF Music HD
+#EXTINF:-1,YRF Music HD
 https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg01412-xiaomiasia-yrfmusic-xiaomi/playlist.m3u8
 #EXTINF:0,9X JALWA
 http://103.229.254.25:7001/play/a07r/index.m3u8
