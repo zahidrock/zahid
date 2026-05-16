@@ -49,32 +49,32 @@ https://ekusheyserver.com/hls-live/livepkgr/_definst_/liveevent/livestream3.m3u8
 https://app24.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMFDEEHGcfRgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcEdsEfeDeKiNkVN3PTOmdFseWRtaW51aiPhnPTI2/globaltv.stream/tracks-v1a1/mono.m3u8
 ##EXTINF:0, Madani TV
 #http://103.229.254.25:7001/play/a05p/index.m3u8
-#EXTINF:0,GLOBAL TV HD
-http://103.229.254.25:7001/play/a05o/index.m3u8
-#EXTINF:-1,ATN Bangla
-http://103.229.254.25:7001/play/a06b/index.m3u8
-#EXTINF:-1,Mohona TV
-http://103.229.254.25:7001/play/a05t/index.m3u8
-#EXTINF:-1,MY TV
-http://103.229.254.25:7001/play/a05z/index.m3u8
-#EXTINF:-1,Asian TV
-http://103.229.254.25:7001/play/a063/index.m3u8
-#EXTINF:-1,Bangla TV
-http://103.229.254.25:7001/play/a06c/index.m3u8
-#EXTINF:-1,Anando TV
-http://103.229.254.25:7001/play/a05v/index.m3u8
-#EXTINF:-1,Bijoy TV
-http://103.229.254.25:7001/play/a066/index.m3u8
-#EXTINF:-1,Nexus TV HD
-http://103.229.254.25:7001/play/a05m/index.m3u8
-#EXTINF:0,Channel S
-http://103.229.254.25:7001/play/a060/index.m3u8
+##EXTINF:0,GLOBAL TV HD
+#http://103.229.254.25:7001/play/a05o/index.m3u8
+##EXTINF:-1,ATN Bangla
+#http://103.229.254.25:7001/play/a06b/index.m3u8
+##EXTINF:-1,Mohona TV
+#http://103.229.254.25:7001/play/a05t/index.m3u8
+##EXTINF:-1,MY TV
+#http://103.229.254.25:7001/play/a05z/index.m3u8
+##EXTINF:-1,Asian TV
+#http://103.229.254.25:7001/play/a063/index.m3u8
+##EXTINF:-1,Bangla TV
+#http://103.229.254.25:7001/play/a06c/index.m3u8
+##EXTINF:-1,Anando TV
+#http://103.229.254.25:7001/play/a05v/index.m3u8
+##EXTINF:-1,Bijoy TV
+#http://103.229.254.25:7001/play/a066/index.m3u8
+##EXTINF:-1,Nexus TV HD
+#http://103.229.254.25:7001/play/a05m/index.m3u8
+##EXTINF:0,Channel S
+#http://103.229.254.25:7001/play/a060/index.m3u8
+##EXTINF:-1,RTV
+#http://103.229.254.25:7001/play/a068/index.m3u8
 #EXTINF:-1,Nagorik TV
 https://ultra02jibon02by1.jibon02premium.workers.dev/JIBON-BD-VS-PK/index.m3u8
 #EXTINF:-1,Channel 1
 https://app24.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMFDEEHGcfRgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcEdsEfeDeKiNkVN3PTOmdFseWRtaW51aiPhnPTI2/channel1bd.stream/tracks-v1a1/mono.m3u8
-#EXTINF:-1,RTV
-http://103.229.254.25:7001/play/a068/index.m3u8
 #EXTINF:0,Desh TV
 https://bozztv.com/rongo/rongo-DeshTV/index.m3u8
 #EXTINF:0,Gazi TV
@@ -139,17 +139,15 @@ https://mumt03.tangotv.in/AAKASHAATH/tracks-v2a1/mono.m3u8
 https://legitpro.co.in/taratv/taratv/tracks-v1a1/mono.m3u8
 
 ########################## Bangla Movies Channel ##########################
-#EXTINF:0, Zee Plus Cinema
-http://103.229.254.25:7001/play/a06r/index.m3u8
-#EXTINF:-1 tvg-logo="" group-title="SM All TV",Bangla Plus
+#EXTINF:-1,Bangla Plus
 https://live-stream.utkalbongo.com/hls/livebanglatvstream.m3u8
 #EXTINF:0,Star Bangla
 http://103.229.254.25:7001/play/a0eo/index.m3u8
 #EXTINF:0,Jalsha Movies
 http://198.195.239.50:8095/JalshaMovies/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-id="edge3/zee-bangla-cinema" tvg-logo="" group-title="inbangla",Zee Bangla Cinema
+#EXTINF:-1,Zee Bangla Sonar
 http://198.195.239.50:8095/ZeeBanglaCinema/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-logo=""group-title="Kolkata Bangla Movies",Colors Bangla Cinema
+#EXTINF:-1,Colors Bangla Cinema
 http://198.195.239.50:8095/ColorsBanglaChinema/tracks-v1a1/mono.m3u8
 #EXTINF:0, D24
 https://digitalbangla.livebox.co.in/D24ENTERTAINMENThls/live.m3u8
@@ -245,9 +243,9 @@ http://202.70.146.135:8000/play/a06m/index.m3u8
 ########################## Sports Channels ##########################
 #EXTINF:0,Star Sports 1 HD
 http://103.229.254.25:7001/play/a0a0/index.m3u8
-#EXTINF:-1 tvg-id="edge3/sony-ten-cricket" tvg-logo="" group-title="sports",Ten Cricket
+#EXTINF:-1,Ten Cricket
 http://sm-monirul.top/RoarZone/play.php?id=ZWRnZTMvc29ueS10ZW4tY3JpY2tldA==&e=.m3u8
-#EXTINF:-1 tvg-logo="" group-title="SM All TV",T Sports HD
+#EXTINF:-1,T Sports HD
 http://198.195.239.50:8095/Tsports/tracks-v1a1/mono.m3u8
 #EXTINF:0,A Sports HD 
 http://198.195.239.50:8095/Eurosport/tracks-v1a1/mono.m3u8
@@ -259,5 +257,3 @@ http://198.195.239.50:8095/PTV-kutta/video.m3u8
 http://202.70.146.135:8000/play/a04n/index.m3u8
 #EXTINF:-1,Sony Sports 5 HD
 http://202.70.146.135:8000/play/a09r/index.m3u8
-#EXTINF:-1,Jana Nayagan
-http://vod.cineplexbd.net:8081/movies/Bangla%20Dubbed/2026/Jana%20Nayagan%20%282026%29%20720p/Jana%20Nayagan%20%282026%29%20720p.mp4/tracks-v1a1/mono.m3u8
