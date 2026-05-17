@@ -47,16 +47,16 @@ https://owrcovcrpy.gpcdn.net/bpk-tv/1729/output/1729-audio_113592_eng=113200-vid
 https://ekusheyserver.com/hls-live/livepkgr/_definst_/liveevent/livestream3.m3u8
 #EXTINF:0,EKHON TV
 https://app24.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMFDEEHGcfRgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcEdsEfeDeKiNkVN3PTOmdFseWRtaW51aiPhnPTI2/globaltv.stream/tracks-v1a1/mono.m3u8
-##EXTINF:0, Madani TV
-#http://103.229.254.25:7001/play/a05p/index.m3u8
+#EXTINF:0, Madani TV
+https://streaming.madanichannel.tv/static/streaming-playlists/hls/d3e49b76-ac06-4689-a641-9200445b647f/3.m3u8
 ##EXTINF:0,GLOBAL TV HD
 #http://103.229.254.25:7001/play/a05o/index.m3u8
 ##EXTINF:-1,ATN Bangla
 #http://103.229.254.25:7001/play/a06b/index.m3u8
 ##EXTINF:-1,Mohona TV
 #http://103.229.254.25:7001/play/a05t/index.m3u8
-##EXTINF:-1,MY TV
-#http://103.229.254.25:7001/play/a05z/index.m3u8
+#EXTINF:-1,MY TV
+https://app24.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMFDEEHGcfRgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcEdsEfeDeKiNkVN3PTOmdFseWRtaW51aiPhnPTI2/mytv-up-off.stream/tracks-v1a1/mono.m3u8
 ##EXTINF:-1,Asian TV
 #http://103.229.254.25:7001/play/a063/index.m3u8
 ##EXTINF:-1,Bangla TV
@@ -121,6 +121,8 @@ http://103.121.61.218/tmp_hls/1ecfb463472ec9115b10c292ef8bc986/index.m3u8
 https://jagroniakash.ncare.live/unmochontv/unmochontv.stream/tracks-v1a1/mono.m3u8
 #EXTINF:0, Biswa Bangla 24
 https://app24.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMFDEEHGcfRgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcEdsEfeDeKiNkVN3PTOmdFseWRtaW51aiPhnPTI2/biswabanglatv.stream/tracks-v1a1/mono.m3u8
+#EXTINF:-1, Alpona TV
+https://app24.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMFDEEHGcfRgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcEdsEfeDeKiNkVN3PTOmdFseWRtaW51aiPhnPTI2/alponatv.stream/tracks-v1a1/mono.m3u8
 
 ########################## Kolkata Channels ##########################
 #EXTINF:-1,Star Jalsha HD
@@ -224,7 +226,7 @@ http://vmi3039524.contaboserver.net:5050/music/index.m3u8
 #EXTINF:-1,Bengali Beats
 https://app24.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMFDEEHGcfRgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcEdsEfeDeKiNkVN3PTOmdFseWRtaW51aiPhnPTI2/musicbangla44.stream/tracks-v1a1/mono.m3u8
 #EXTINF:-1,Sangeet Bangla
-http://sm-monirul.top/AyNa/play.php?id=75412270-ce20-4376-8e7f-21fc76f84ed4&e=.m3u8
+https://cdn-4.pishow.tv/live/1143/1143_1.m3u8
 #EXTINF:-1,B4U Music
 http://sm-monirul.top/RoarZone/play.php?id=ZWRnZTMvYjR1LW11c2lj&e=.m3u8
 #EXTINF:-1,24/7 Shinchan
