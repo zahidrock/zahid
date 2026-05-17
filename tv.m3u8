@@ -52,7 +52,7 @@ https://streaming.madanichannel.tv/static/streaming-playlists/hls/d3e49b76-ac06-
 #EXTINF:-1,SA TV
 https://tvsen6.aynaott.com/satv/index.m3u8
 #EXTINF:0,GLOBAL TV HD
-https://tvsen6.aynaott.com/globaltvhd/index.m3u8
+https://tvsen6.aynaott.com/globaltvhd/index.m3u8?e=1779001954&u=78be6644-0a65-48ec-81a4-089ac65a2619&token=378b3ecbe273094d552851f85fe1fcd4
 #EXTINF:-1,ATN Bangla
 https://tvsen5.aynaott.com/atnbangla/index.m3u8
 #EXTINF:-1,Mohona TV
