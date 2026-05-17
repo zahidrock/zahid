@@ -49,28 +49,30 @@ https://ekusheyserver.com/hls-live/livepkgr/_definst_/liveevent/livestream3.m3u8
 https://app24.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMFDEEHGcfRgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcEdsEfeDeKiNkVN3PTOmdFseWRtaW51aiPhnPTI2/globaltv.stream/tracks-v1a1/mono.m3u8
 #EXTINF:0, Madani TV
 https://streaming.madanichannel.tv/static/streaming-playlists/hls/d3e49b76-ac06-4689-a641-9200445b647f/3.m3u8
-##EXTINF:0,GLOBAL TV HD
-#http://103.229.254.25:7001/play/a05o/index.m3u8
-##EXTINF:-1,ATN Bangla
-#http://103.229.254.25:7001/play/a06b/index.m3u8
-##EXTINF:-1,Mohona TV
-#http://103.229.254.25:7001/play/a05t/index.m3u8
+#EXTINF:-1,SA TV
+https://tvsen6.aynaott.com/satv/index.m3u8
+#EXTINF:0,GLOBAL TV HD
+https://tvsen6.aynaott.com/globaltvhd/index.m3u8
+#EXTINF:-1,ATN Bangla
+https://tvsen5.aynaott.com/atnbangla/index.m3u8
+#EXTINF:-1,Mohona TV
+https://tvsen6.aynaott.com/mohonatv/index.m3u8
 #EXTINF:-1,MY TV
 https://app24.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMFDEEHGcfRgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcEdsEfeDeKiNkVN3PTOmdFseWRtaW51aiPhnPTI2/mytv-up-off.stream/tracks-v1a1/mono.m3u8
-##EXTINF:-1,Asian TV
-#http://103.229.254.25:7001/play/a063/index.m3u8
-##EXTINF:-1,Bangla TV
-#http://103.229.254.25:7001/play/a06c/index.m3u8
-##EXTINF:-1,Anando TV
-#http://103.229.254.25:7001/play/a05v/index.m3u8
-##EXTINF:-1,Bijoy TV
-#http://103.229.254.25:7001/play/a066/index.m3u8
-##EXTINF:-1,Nexus TV HD
-#http://103.229.254.25:7001/play/a05m/index.m3u8
+#EXTINF:-1,Asian TV
+https://tvsen6.aynaott.com/asiantv/index.m3u8
+#EXTINF:-1,Bangla TV
+https://tvsen6.aynaott.com/banglatv/index.m3u8
+#EXTINF:-1,Anando TV
+https://tvsen6.aynaott.com/anandatv/index.m3u8
+#EXTINF:-1,Bijoy TV
+https://tvsen6.aynaott.com/bijoytv/index.m3u8
+#EXTINF:-1,Nexus TV HD
+https://tvsen6.aynaott.com/nexustv/index.m3u8
 ##EXTINF:0,Channel S
 #http://103.229.254.25:7001/play/a060/index.m3u8
-##EXTINF:-1,RTV
-#http://103.229.254.25:7001/play/a068/index.m3u8
+#EXTINF:-1,RTV
+https://tvsen5.aynaott.com/RtvHD/index.m3u8
 #EXTINF:-1,Nagorik TV
 https://ultra02jibon02by1.jibon02premium.workers.dev/JIBON-BD-VS-PK/index.m3u8
 #EXTINF:-1,Channel 1
@@ -78,7 +80,7 @@ https://app24.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMFDEEHGcfRgzQ6NTAgdEoaeFzbF9
 #EXTINF:0,Desh TV
 https://bozztv.com/rongo/rongo-DeshTV/index.m3u8
 #EXTINF:0,Gazi TV
-https://tvsen1.aynaott.com/Ravc7gPCZpxk/tracks-v1a1/mono.ts.m3u8
+https://tvsen5.aynaott.com/Ravc7gPCZpxk/index.m3u8
 #EXTINF:-1,NRB TV
 https://app.ncare.live/live-orgin/nrb-eu.stream/playlist.m3u8
 #EXTINF:-1,US-BD Journal 24 TV
@@ -123,6 +125,7 @@ https://jagroniakash.ncare.live/unmochontv/unmochontv.stream/tracks-v1a1/mono.m3
 https://app24.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMFDEEHGcfRgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcEdsEfeDeKiNkVN3PTOmdFseWRtaW51aiPhnPTI2/biswabanglatv.stream/tracks-v1a1/mono.m3u8
 #EXTINF:-1, Alpona TV
 https://app24.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMFDEEHGcfRgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcEdsEfeDeKiNkVN3PTOmdFseWRtaW51aiPhnPTI2/alponatv.stream/tracks-v1a1/mono.m3u8
+
 
 ########################## Kolkata Channels ##########################
 #EXTINF:-1,Star Jalsha HD
