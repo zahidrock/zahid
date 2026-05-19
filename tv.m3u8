@@ -294,10 +294,6 @@ http://103.229.254.25:7001/play/a07o/index.m3u8
 http://202.70.146.135:8000/play/a06m/index.m3u8
 
 ########################## Sports Channels ##########################
-#EXTINF:-1,Star Sports 1 HD
-http://103.229.254.25:7001/play/a0a0/index.m3u8
-#EXTINF:-1,Ten Cricket
-http://sm-monirul.top/RoarZone/play.php?id=ZWRnZTMvc29ueS10ZW4tY3JpY2tldA==&e=.m3u8
 #EXTINF:-1,T Sports HD
 #https://tvsen7.aynaott.com/tsports-hd/index.m3u8
 http://198.195.239.50:8095/Tsports/tracks-v1a1/mono.m3u8
@@ -310,7 +306,3 @@ http://198.195.239.50:8095/WiLLow/tracks-v1a1/mono.m3u8
 #EXTINF:-1,PTV Sports
 #https://tvsen5.aynaott.com/PtvSports/index.m3u8
 http://198.195.239.50:8095/PTV-kutta/video.m3u8
-#EXTINF:-1,Zee Cafe HD
-http://202.70.146.135:8000/play/a04n/index.m3u8
-#EXTINF:-1,Sony Sports 5 HD
-http://202.70.146.135:8000/play/a09r/index.m3u8
