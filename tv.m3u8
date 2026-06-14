@@ -281,6 +281,11 @@ http://202.70.146.135:8000/play/a04c/index.m3u8
 ########################## Sports Channels ##########################
 #EXTINF:-1,T Sports HD
 http://rgkkw.live/live/1Aoen7elp5/IgMJ60tmAa/130714.ts
+#http://198.195.239.50:8095/tsports/index.m3u8
+#EXTINF:-1,Unite8 Sports 1 HD
+http://starhub.pro/live/farhat-3379/67897-913379/741567.ts
+#EXTINF:-1,Caze TV BR
+https://dfr80qz435crc.cloudfront.net/MNOP/Amagi/Caze/Caze_TV_BR/Caze_TV.m3u8
 #EXTINF:-1,Bein Sports 1
 https://1nyaler.streamhostingcdn.top/stream/23/index.m3u8
 #EXTINF:-1,FIFA+
