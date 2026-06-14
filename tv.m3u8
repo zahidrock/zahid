@@ -278,27 +278,6 @@ http://202.70.146.135:8000/play/a02t/index.m3u8
 #EXTINF:-1,Nick Hindi
 http://202.70.146.135:8000/play/a04c/index.m3u8
 
-########################## Music Channels ##########################
-#EXTINF:-1,Music Bangla
-http://vmi3039524.contaboserver.net:5050/music/index.m3u8
-#EXTINF:-1,Bengali Beats
-https://app24.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMFDEEHGcfRgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcEdsEfeDeKiNkVN3PTOmdFseWRtaW51aiPhnPTI2/musicbangla44.stream/tracks-v1a1/mono.m3u8
-#EXTINF:-1,Sangeet Bangla
-https://cdn-4.pishow.tv/live/1143/1143_1.m3u8
-#EXTINF:-1,B4U Music
-http://sm-monirul.top/RoarZone/play.php?id=ZWRnZTMvYjR1LW11c2lj&e=.m3u8
-#EXTINF:-1,24/7 Shinchan
-https://cloudfrontnet.vercel.app/tplay/playout/209901/master.m3u8
-#EXTINF:-1,Hindi Hits HD
-http://146.59.253.52:8080/hindihitshd/index.m3u8
-#EXTINF:-1,YRF Music HD
-https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg01412-xiaomiasia-yrfmusic-xiaomi/playlist.m3u8
-#EXTINF:-1,9X JALWA
-http://103.229.254.25:7001/play/a07r/index.m3u8
-#EXTINF:-1,9XM
-http://103.229.254.25:7001/play/a07o/index.m3u8
-
-
 ########################## Sports Channels ##########################
 #EXTINF:-1,T Sports HD
 http://rgkkw.live/live/1Aoen7elp5/IgMJ60tmAa/130714.ts
