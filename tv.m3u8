@@ -300,6 +300,8 @@ http://103.229.254.25:7001/play/a07o/index.m3u8
 
 
 ########################## Sports Channels ##########################
+#EXTINF:-1,T Sports HD
+http://rgkkw.live/live/1Aoen7elp5/IgMJ60tmAa/130714.ts
 #EXTINF:-1,FIFA
 https://1nyaler.streamhostingcdn.top/stream/23/index.m3u8
 #EXTINF:-1,FIFA 1
@@ -310,3 +312,7 @@ https://a62dad94.wurl.com/manifest/f36d25e7e52f1ba8d7e56eb859c636563214f541/UmFr
 http://cablemaxsigloxxi.com:8000/play/a0l4/index.m3u8
 #EXTINF:-1,ESPN 7
 http://cablemaxsigloxxi.com:8000/play/a0l5/index.m3u8
+#EXTINF:-1,Sports Range
+https://nomawnoijl.gpcdn.net/akash/sportrange/playlist.m3u8
+#EXTINF:-1,PTV Sports
+https://cdn6.zohanayaan.com:1686/hls/ptvpk.m3u8?md5=At7Nd4r5OVHlcP-bsNe7wg&expires=1781424014
