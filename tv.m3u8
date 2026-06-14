@@ -306,10 +306,9 @@ https://tvsen7.aynaott.com/tsports-hd/index.m3u8
 #EXTINF:-1,A Sports HD 
 https://tvsen6.aynaott.com/asports/index.m3u8
 ##http://198.195.239.50:8095/Eurosport/tracks-v1a1/mono.m3u8
-#EXTINF:-1,Willow Sports HD 
-https://tvsen5.aynaott.com/willowhd/index.m3u8
-##http://198.195.239.50:8095/WiLLow/tracks-v1a1/mono.m3u8
 #EXTINF:-1,FIFA
 https://1nyaler.streamhostingcdn.top/stream/23/index.m3u8
 #EXTINF:-1,FIFA 1
 https://fifaexclusive.myziboplay.xyz/Fifa/index.m3u8?token=w-u1u1kQuxLcg3
+#EXTINF:-1,FIFA 2
+https://a62dad94.wurl.com/manifest/f36d25e7e52f1ba8d7e56eb859c636563214f541/UmFrdXRlblRWLWV1X0ZJRkFQbHVzRW5nbGlzaF9ITFM/8a0a56ad-585f-4d15-ae66-eeb9723aa6e9/2.m3u8
