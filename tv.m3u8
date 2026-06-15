@@ -291,7 +291,7 @@ http://198.195.239.50:8095/tsports/index.m3u8
 https://aponn.vercel.app/iptv.m3u
 #EXTINF:-1,Unite8 Sports 1 HD
 http://starhub.pro/live/farhat-3379/67897-913379/741567.ts
-#EXTINF:-1,Fussball TV 1
+#EXTINF:-1,Somoy TV
 https://live.thebosstv.com:30443/dwlive/Somoy-TV/playlist.m3u8
 #EXTINF:-1,Fussball TV 2
 http://103.151.60.188:1111/Somoy-TV-SD-700kb/tracks-v1a1/mono.m3u8
