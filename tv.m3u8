@@ -291,6 +291,10 @@ http://198.195.239.50:8095/tsports/index.m3u8
 https://aponn.vercel.app/iptv.m3u
 #EXTINF:-1,Unite8 Sports 1 HD
 http://starhub.pro/live/farhat-3379/67897-913379/741567.ts
+#EXTINF:-1,EN Vivo
+http://daleplay.vip/live/hghc4@3gf(n)!/kmgd56(e)3@400/454944.ts
+#EXTINF:-1,DSports
+http://daleplay.vip/live/hghc4@3gf(n)!/kmgd56(e)3@400/50724.ts
 #EXTINF:-1,Fussball TV 2
 http://103.151.60.188:1111/Somoy-TV-SD-700kb/tracks-v1a1/mono.m3u8
 #EXTINF:-1,Caze TV BR
