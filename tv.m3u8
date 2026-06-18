@@ -57,7 +57,7 @@ https://live.thebosstv.com:30443/dwlive/Somoy-TV/playlist.m3u8
 #EXTINF:-1, Somoy TV (Backup)
 http://103.151.60.188:1111/Somoy-TV-SD-700kb/tracks-v1a1/mono.m3u8
 #EXTINF:-1, Somoy TV (Backup)
-http://114.130.57.224:8080/Somoy-TV-3Mb/tracks-v1a1/mono.m3u8?token=SkQuhAXZxgBan1
+http://114.130.57.224:8080/Somoy-TV-3Mb/tracks-v1a1/mono.m3u8
 #EXTINF:-1,EKHON TV
 #https://tvsen6.aynaott.com/ekhontv/index.m3u8
 https://app24.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMFDEEHGcfRgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcEdsEfeDeKiNkVN3PTOmdFseWRtaW51aiPhnPTI2/globaltv.stream/tracks-v1a1/mono.m3u8
@@ -310,4 +310,4 @@ https://tv.alii.uk/api/public/s/v2-BBsCEVhDShVHWkNST1gdXkNfSlZLGUpDGwQAAQcWAAVFE
 #EXTINF:-1,Sports Range
 https://nomawnoijl.gpcdn.net/akash/sportrange/playlist.m3u8
 #EXTINF:-1,PTV Sports
-https://cdn6.zohanayaan.com:1686/hls/ptvpk.m3u8?md5=At7Nd4r5OVHlcP-bsNe7wg&expires=1781424014
+http://premiumtvs.space/live/jen12345/Jen54321/89.ts
