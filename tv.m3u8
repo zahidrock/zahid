@@ -1,7 +1,5 @@
 #EXTM3U
 ########################## Bangladeshi CHANNELS ##########################
-#EXTINF:-1,BTV
-https://streams.btvlive.gov.bd/live/d626bd95-9c31-4baf-a879-f0649e2e9b3f/BD/355ba051-9a60-48aa-adcf-5a6c64da8c5c/index.m3u8
 #EXTINF:-1 group-title="Bangladeshi 🇧🇩" tvg-logo=" ", Jumuna TV
 #https://tvsen6.aynaott.com/jamunatv/index.m3u8
 https://owrcovcrpy.gpcdn.net/bpk-tv/1701/output/1701-audio_113312_eng=113200-video=1692000.m3u8
@@ -285,6 +283,8 @@ http://202.70.146.135:8000/play/a02t/index.m3u8
 http://202.70.146.135:8000/play/a04c/index.m3u8
 
 ########################## Sports Channels ##########################
+#EXTINF:-1,BTV
+https://streams.btvlive.gov.bd/live/d626bd95-9c31-4baf-a879-f0649e2e9b3f/BD/355ba051-9a60-48aa-adcf-5a6c64da8c5c/index.m3u8
 #EXTINF:-1,T Sports HD
 http://rgkkw.live/live/1Aoen7elp5/IgMJ60tmAa/130714.ts
 #EXTINF:-1,T Sports HD (Backup)
