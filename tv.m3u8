@@ -265,6 +265,8 @@ https://nomawnoijl.gpcdn.net/akash/crimes/playlist.m3u8
 https://nomawnoijl.gpcdn.net/akash/truestories/playlist.m3u8
 #EXTINF:-1,Intelligence
 https://nomawnoijl.gpcdn.net/akash/intelligence/playlist.m3u8
+#EXTINF:-1,Originals
+https://nomawnoijl.gpcdn.net/akash/originals/playlist.m3u8
 
 ########################## Documentary Channels ##########################
 #EXTINF:-1,TravelXP HD Hindi
@@ -299,6 +301,8 @@ http://202.70.146.135:8000/play/a04c/index.m3u8
 https://nomawnoijl.gpcdn.net/akash/joy/playlist.m3u8
 #EXTINF:-1,Funny Junior HD
 https://nomawnoijl.gpcdn.net/akash/funnyjunior/playlist.m3u8
+#EXTINF:-1,Nikki
+https://nomawnoijl.gpcdn.net/akash/nikky/playlist.m3u8
 
 ########################## Sports Channels ##########################
 #EXTINF:-1,BTV
