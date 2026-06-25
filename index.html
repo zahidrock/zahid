@@ -1,0 +1,22 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>My TV Site</title>
+</head>
+<body>
+    <h1>Live TV</h1>
+
+    <video id="video" controls width="100%"></video>
+
+    <script src="https://cdn.jsdelivr.net/npm/hls.js@latest"></script>
+    <script>
+    var video = document.getElementById('video');
+
+    if (Hls.isSupported()) {
+        var hls = new Hls();
+        hls.loadSource('YOUR_M3U8_URL');
+        hls.attachMedia(video);
+    }
+    </script>
+</body>
+</html>
