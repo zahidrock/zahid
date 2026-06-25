@@ -1,22 +1,132 @@
 <!DOCTYPE html>
-<html>
+<html lang="en">
 <head>
-    <title>My TV Site</title>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>My TV Player</title>
+
+<script src="https://cdn.jsdelivr.net/npm/hls.js@latest"></script>
+
+<style>
+body{
+    margin:0;
+    background:#111;
+    color:#fff;
+    font-family:Arial,sans-serif;
+}
+.header{
+    padding:15px;
+    text-align:center;
+    font-size:24px;
+    background:#222;
+}
+.container{
+    max-width:1200px;
+    margin:auto;
+    padding:15px;
+}
+video{
+    width:100%;
+    background:#000;
+    border-radius:10px;
+}
+#channels{
+    margin-top:15px;
+    display:grid;
+    grid-template-columns:repeat(auto-fill,minmax(200px,1fr));
+    gap:10px;
+}
+.channel{
+    background:#222;
+    padding:10px;
+    border-radius:8px;
+    cursor:pointer;
+    text-align:center;
+}
+.channel:hover{
+    background:#444;
+}
+</style>
 </head>
 <body>
-    <h1>Live TV</h1>
 
-    <video id="video" controls width="100%"></video>
+<div class="header">Live TV</div>
 
-    <script src="https://cdn.jsdelivr.net/npm/hls.js@latest"></script>
-    <script>
-    var video = document.getElementById('video');
+<div class="container">
+    <video id="video" controls autoplay></video>
 
-    if (Hls.isSupported()) {
-        var hls = new Hls();
-        hls.loadSource('YOUR_M3U8_URL');
+    <div id="channels">
+        Loading channels...
+    </div>
+</div>
+
+<script>
+const playlistUrl =
+'https://raw.githubusercontent.com/zahidrock/zahid/refs/heads/main/tv.m3u8';
+
+const video = document.getElementById('video');
+const channelsDiv = document.getElementById('channels');
+
+function playStream(url){
+
+    if(Hls.isSupported()){
+        if(window.hls){
+            window.hls.destroy();
+        }
+
+        const hls = new Hls();
+        window.hls = hls;
+
+        hls.loadSource(url);
         hls.attachMedia(video);
     }
-    </script>
+    else if(video.canPlayType('application/vnd.apple.mpegurl')){
+        video.src = url;
+    }
+}
+
+fetch(playlistUrl)
+.then(res => res.text())
+.then(text => {
+
+    channelsDiv.innerHTML = '';
+
+    const lines = text.split('\n');
+
+    for(let i=0;i<lines.length;i++){
+
+        if(lines[i].startsWith('#EXTINF')){
+
+            const name = lines[i].split(',').pop().trim();
+            const streamUrl = (lines[i+1] || '').trim();
+
+            if(streamUrl.startsWith('http')){
+
+                const btn = document.createElement('div');
+                btn.className = 'channel';
+                btn.textContent = name;
+
+                btn.onclick = () => {
+                    playStream(streamUrl);
+                };
+
+                channelsDiv.appendChild(btn);
+            }
+        }
+    }
+
+    const firstChannel = channelsDiv.firstChild;
+
+    if(firstChannel){
+        firstChannel.click();
+    }
+})
+.catch(err=>{
+    channelsDiv.innerHTML =
+    'Playlist load failed. Check URL and CORS settings.';
+    console.error(err);
+});
+</script>
+
 </body>
 </html>
