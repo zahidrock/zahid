@@ -211,102 +211,46 @@ http://198.195.239.50:8095/ColorsBanglaChinema/tracks-v1a1/mono.m3u8
 #EXTINF:-1, D24
 https://digitalbangla.livebox.co.in/D24ENTERTAINMENThls/live.m3u8
 
-########################## Hindi Movies Channels ##########################
-#EXTINF:-1,Zee Cinema HD
-http://103.157.248.140:8000/play/a00q/index.m3u8
-#EXTINF:-1,&Pictures HD
-http://103.157.248.140:8000/play/a01d/index.m3u8
-#EXTINF:-1,Bollywood Action
-http://103.229.254.25:7001/play/a0es/index.m3u8
-#EXTINF:-1,The Movie Club
-https://cc-r5hupcym5oehh.akamaized.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-r5hupcym5oehh/SBUM/RunnTV/BollyFlix_IN/BollyFlix_IN.m3u8
-#EXTINF:-1,Hindi Dubbed Movie
-https://live20.bozztv.com/giatvplayout7/giatv-209593/tracks-v1a1/mono.ts.m3u8
-#EXTINF:-1,Sony Max HD
-https://padmaonline.duckdns.org:8088/SonyMaxHD/tracks-v1a1/mono.m3u8
-#EXTINF:-1,Star Gold Select HD
-http://103.229.254.25:7001/play/a032/index.m3u8
-#EXTINF:-1,Star Gold 2 HD
-http://202.70.146.135:8000/play/a04q/index.m3u8
-#EXTINF:-1,Color Cineplex HD
-http://202.70.146.135:8000/play/a01x/index.m3u8
-#EXTINF:-1,Zee Action
-https://amg00862-amg00862c8-amgplt0173.playout.now3.amagi.tv/playlist/amg00862-amg00862c8-amgplt0173/playlist.m3u8
-
 ########################## English Movies Channels ##########################
-#EXTINF:-1,Movies Now HD
-https://times-ott-live.akamaized.net/moviesnow_wv_drm/index.mpd
-#http://103.157.248.140:8000/play/a00w/index.m3u8
-#EXTINF:-1 ,Sony PIX HD
-http://103.157.248.140:8000/play/a01r/index.m3u8
-#EXTINF:-1 ,Star Movies Select HD
-http://103.157.248.140:8000/play/a01s/index.m3u8
-#EXTINF:-1,MAX Movie
-http://103.229.254.25:7001/play/a0et/index.m3u8
-#EXTINF:-1,Star Movies
-http://198.195.239.50:8095/StarMovies/tracks-v1a1/mono.m3u8
-#EXTINF:-1,HBO
-http://103.213.31.111/HBOHD/index.m3u8
-#EXTINF:-1,MNX
-http://202.70.146.135:8000/play/a052/index.m3u8
-#EXTINF:-1,SyFy
-https://tvsen7.aynaott.com/syfy/tracks-v1a1/mono.ts.m3u8
-#EXTINF:-1,Cineedge HD
-https://nomawnoijl.gpcdn.net/akash/cineedge/playlist.m3u8
-#EXTINF:-1,Uniques HD
-https://nomawnoijl.gpcdn.net/akash/uniques/playlist.m3u8
-#EXTINF:-1,Superrix HD
-https://nomawnoijl.gpcdn.net/akash/superrix/playlist.m3u8
-#EXTINF:-1,Screem
-https://nomawnoijl.gpcdn.net/akash/screem/playlist.m3u8
-#EXTINF:-1,Crimes
-https://nomawnoijl.gpcdn.net/akash/crimes/playlist.m3u8
-#EXTINF:-1,True Stories
-https://nomawnoijl.gpcdn.net/akash/truestories/playlist.m3u8
-#EXTINF:-1,Intelligence
-https://nomawnoijl.gpcdn.net/akash/intelligence/playlist.m3u8
-#EXTINF:-1,Originals
-https://nomawnoijl.gpcdn.net/akash/originals/playlist.m3u8
-
-########################## Documentary Channels ##########################
-#EXTINF:-1,TravelXP HD Hindi
-http://202.70.146.135:8000/play/a04o/index.m3u8
-#EXTINF:-1,TLC HD Hindi
-http://202.70.146.135:8000/play/a05i/index.m3u8
-#EXTINF:-1,Wild HD Hindi
-http://202.70.146.135:8000/play/a05j/index.m3u8
-#EXTINF:-1,National Geographic HD Hindi
-http://202.70.146.135:8000/play/a05o/index.m3u8
-#EXTINF:-1,Investigation Discovery HD Hidni
-http://202.70.146.135:8000/play/a05v/index.m3u8
-#EXTINF:-1,Discovery HD Hindi
-http://202.70.146.135:8000/play/a05z/index.m3u8
-#EXTINF:-1,History TV HD Hindi
-http://202.70.146.135:8000/play/a065/index.m3u8
-#EXTINF:-1,Sony BBC Earth HD Hindi
-http://202.70.146.135:8000/play/a067/index.m3u8
+##EXTINF:-1,Movies Now HD
+#https://times-ott-live.akamaized.net/moviesnow_wv_drm/index.mpd
+##http://103.157.248.140:8000/play/a00w/index.m3u8
+##EXTINF:-1 ,Sony PIX HD
+#http://103.157.248.140:8000/play/a01r/index.m3u8
+##EXTINF:-1 ,Star Movies Select HD
+#http://103.157.248.140:8000/play/a01s/index.m3u8
+##EXTINF:-1,MAX Movie
+#http://103.229.254.25:7001/play/a0et/index.m3u8
+##EXTINF:-1,Star Movies
+#http://198.195.239.50:8095/StarMovies/tracks-v1a1/mono.m3u8
+##EXTINF:-1,HBO
+#http://103.213.31.111/HBOHD/index.m3u8
+##EXTINF:-1,MNX
+#http://202.70.146.135:8000/play/a052/index.m3u8
+##EXTINF:-1,SyFy
+#https://tvsen7.aynaott.com/syfy/tracks-v1a1/mono.ts.m3u8
+##EXTINF:-1,Cineedge HD
+#https://nomawnoijl.gpcdn.net/akash/cineedge/playlist.m3u8
+##EXTINF:-1,Uniques HD
+#https://nomawnoijl.gpcdn.net/akash/uniques/playlist.m3u8
+##EXTINF:-1,Superrix HD
+#https://nomawnoijl.gpcdn.net/akash/superrix/playlist.m3u8
+##EXTINF:-1,Screem
+#https://nomawnoijl.gpcdn.net/akash/screem/playlist.m3u8
+##EXTINF:-1,Crimes
+#https://nomawnoijl.gpcdn.net/akash/crimes/playlist.m3u8
+##EXTINF:-1,True Stories
+#https://nomawnoijl.gpcdn.net/akash/truestories/playlist.m3u8
+##EXTINF:-1,Intelligence
+#https://nomawnoijl.gpcdn.net/akash/intelligence/playlist.m3u8
+##EXTINF:-1,Originals
+#https://nomawnoijl.gpcdn.net/akash/originals/playlist.m3u8
 
 ########################## Cartoons Channels ##########################
 #EXTINF:-1,Gopal Bhar
 https://live20.bozztv.com/giatvplayout7/giatv-209611/tracks-v1a1/mono.ts.m3u8
-#EXTINF:-1,Doraemon
-https://live20.bozztv.com/giatvplayout7/giatv-209902/tracks-v1a1/mono.ts.m3u8
-#EXTINF:-1, Sony YAY Bangla
-http://103.229.254.25:7001/play/a0im/index.m3u8
-#EXTINF:-1,Sonic Hindi
-http://202.70.146.135:8000/play/a02t/index.m3u8
-#EXTINF:-1,Nick Hindi
-http://202.70.146.135:8000/play/a04c/index.m3u8
-#EXTINF:-1,Joy
-https://nomawnoijl.gpcdn.net/akash/joy/playlist.m3u8
-#EXTINF:-1,Funny Junior HD
-https://nomawnoijl.gpcdn.net/akash/funnyjunior/playlist.m3u8
-#EXTINF:-1,Nikki
-https://nomawnoijl.gpcdn.net/akash/nikky/playlist.m3u8
 
 ########################## Sports Channels ##########################
-#EXTINF:-1,BTV
-https://streams.btvlive.gov.bd/live/d626bd95-9c31-4baf-a879-f0649e2e9b3f/BD/355ba051-9a60-48aa-adcf-5a6c64da8c5c/index.m3u8
 #EXTINF:-1,T Sports HD
 http://rgkkw.live/live/1Aoen7elp5/IgMJ60tmAa/130714.ts
 #EXTINF:-1,T Sports HD (Backup)
