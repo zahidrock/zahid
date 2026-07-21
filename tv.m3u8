@@ -176,8 +176,6 @@ http://158.69.24.53:8080/probashi_tv/tracks-v1a1/mono.m3u8
 http://103.121.61.218/tmp_hls/1ecfb463472ec9115b10c292ef8bc986/index.m3u8
 #EXTINF:-1,UNMOCHON TV
 https://jagroniakash.ncare.live/unmochontv/unmochontv.stream/tracks-v1a1/mono.m3u8
-#EXTINF:-1,Bangla One
-https://video1.getstreamhosting.com:1936/eycqczsxka/eycqczsxka/chunklist_w503212627.m3u8
 #EXTINF:24,JonmoBhumi TV
 https://jtvs.ncare.live/Gznr84Woj7UEye3OPVeWq2ForboWAgdV/jonmobhumitv.stream/tracks-v1a1/mono.m3u8
 
@@ -190,8 +188,6 @@ https://jtvs.ncare.live/Gznr84Woj7UEye3OPVeWq2ForboWAgdV/jonmobhumitv.stream/tra
 #https://yupptvcatchupire.yuppcdn.net/preview/colorsbanglahd/800.m3u8
 ##EXTINF:-1 tvg-logo=""group-title="Kolkata Bangla",Sun Bangla HD
 #http://premimum.online:80/live/jen12345/jen54321/3753.ts
-#EXTINF:-1,Sony Aath
-http://198.195.239.50:8095/SonyAath/tracks-v1a1/mono.m3u8
 ##EXTINF:-1,Akash 8
 #https://mumt03.tangotv.in/AAKASHAATH/tracks-v2a1/mono.m3u8
 ##EXTINF:-1,Tara Bangla
@@ -200,16 +196,6 @@ http://198.195.239.50:8095/SonyAath/tracks-v1a1/mono.m3u8
 ########################## Bangla Movies Channel ##########################
 #EXTINF:-1,Bangla Plus
 https://live-stream.utkalbongo.com/hls/livebanglatvstream.m3u8
-#EXTINF:-1,Star Bangla
-http://103.229.254.25:7001/play/a0eo/index.m3u8
-#EXTINF:-1,Jalsha Movies
-http://103.59.176.72:8083/live4/tracks-v1a1/mono.m3u8
-#EXTINF:-1,Zee Bangla Sonar
-http://198.195.239.50:8095/ZeeBanglaCinema/tracks-v1a1/mono.m3u8
-#EXTINF:-1,Colors Bangla Cinema
-http://198.195.239.50:8095/ColorsBanglaChinema/tracks-v1a1/mono.m3u8
-#EXTINF:-1, D24
-https://digitalbangla.livebox.co.in/D24ENTERTAINMENThls/live.m3u8
 
 ########################## English Movies Channels ##########################
 ##EXTINF:-1,Movies Now HD
@@ -253,30 +239,5 @@ https://live20.bozztv.com/giatvplayout7/giatv-209611/tracks-v1a1/mono.ts.m3u8
 ########################## Sports Channels ##########################
 #EXTINF:-1,T Sports HD
 http://rgkkw.live/live/1Aoen7elp5/IgMJ60tmAa/130714.ts
-#EXTINF:-1,T Sports HD (Backup)
-http://198.195.239.50:8095/tsports/index.m3u8
-#EXTINF:-1,T Sports HD (Backup)
-https://aponn.vercel.app/iptv.m3u
-#EXTINF:-1,Unite8 Sports 1 HD
-http://starhub.pro/live/farhat-3379/67897-913379/741567.ts
-#EXTINF:-1,EN Vivo
-http://daleplay.vip/live/hghc4@3gf(n)!/kmgd56(e)3@400/454944.ts
-#EXTINF:-1,DSports
-http://daleplay.vip/live/hghc4@3gf(n)!/kmgd56(e)3@400/50724.ts
-#EXTINF:-1,Fussball TV 2
-http://103.151.60.188:1111/Somoy-TV-SD-700kb/tracks-v1a1/mono.m3u8
-#EXTINF:-1,Caze TV BR
-https://dfr80qz435crc.cloudfront.net/MNOP/Amagi/Caze/Caze_TV_BR/Caze_TV.m3u8
-#EXTINF:-1,D Sports
-http://cablemaxsigloxxi.com:8000/play/a0l4/index.m3u8
 #EXTINF:-1,Willow Sports
 http://27.124.71.27/Willow_Extra/index.m3u8
-#EXTINF:-1,Fox Sports
-https://tv.alii.uk/api/public/s/v2-BBsCEVhDShVHWkNST1gdXkNfSlZLGUpDGwQAAQcWAAVFE1ROAEIeHUEMCgMbARlX/playlist.m3u8
-#EXTINF:-1,Sports Range
-https://nomawnoijl.gpcdn.net/akash/sportrange/playlist.m3u8
-#EXTINF:-1,PTV Sports
-http://premiumtvs.space/live/jen12345/Jen54321/89.ts
-
-#EXTINF:-1,Test
-https://www.upload.ee/download/19508713/2e8427fa1e1022d0d2df/01.Future_Shock_-_The_Girl_From_Tomorrow_-_Season_1_Episode_1.mp4
