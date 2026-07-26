@@ -193,51 +193,6 @@ https://jtvs.ncare.live/Gznr84Woj7UEye3OPVeWq2ForboWAgdV/jonmobhumitv.stream/tra
 ##EXTINF:-1,Tara Bangla
 #https://legitpro.co.in/taratv/taratv/tracks-v1a1/mono.m3u8
 
-########################## Bangla Movies Channel ##########################
-#EXTINF:-1,Bangla Plus
-https://live-stream.utkalbongo.com/hls/livebanglatvstream.m3u8
-
-########################## English Movies Channels ##########################
-##EXTINF:-1,Movies Now HD
-#https://times-ott-live.akamaized.net/moviesnow_wv_drm/index.mpd
-##http://103.157.248.140:8000/play/a00w/index.m3u8
-##EXTINF:-1 ,Sony PIX HD
-#http://103.157.248.140:8000/play/a01r/index.m3u8
-##EXTINF:-1 ,Star Movies Select HD
-#http://103.157.248.140:8000/play/a01s/index.m3u8
-##EXTINF:-1,MAX Movie
-#http://103.229.254.25:7001/play/a0et/index.m3u8
-##EXTINF:-1,Star Movies
-#http://198.195.239.50:8095/StarMovies/tracks-v1a1/mono.m3u8
-##EXTINF:-1,HBO
-#http://103.213.31.111/HBOHD/index.m3u8
-##EXTINF:-1,MNX
-#http://202.70.146.135:8000/play/a052/index.m3u8
-##EXTINF:-1,SyFy
-#https://tvsen7.aynaott.com/syfy/tracks-v1a1/mono.ts.m3u8
-##EXTINF:-1,Cineedge HD
-#https://nomawnoijl.gpcdn.net/akash/cineedge/playlist.m3u8
-##EXTINF:-1,Uniques HD
-#https://nomawnoijl.gpcdn.net/akash/uniques/playlist.m3u8
-##EXTINF:-1,Superrix HD
-#https://nomawnoijl.gpcdn.net/akash/superrix/playlist.m3u8
-##EXTINF:-1,Screem
-#https://nomawnoijl.gpcdn.net/akash/screem/playlist.m3u8
-##EXTINF:-1,Crimes
-#https://nomawnoijl.gpcdn.net/akash/crimes/playlist.m3u8
-##EXTINF:-1,True Stories
-#https://nomawnoijl.gpcdn.net/akash/truestories/playlist.m3u8
-##EXTINF:-1,Intelligence
-#https://nomawnoijl.gpcdn.net/akash/intelligence/playlist.m3u8
-##EXTINF:-1,Originals
-#https://nomawnoijl.gpcdn.net/akash/originals/playlist.m3u8
-
 ########################## Cartoons Channels ##########################
 #EXTINF:-1,Gopal Bhar
 https://live20.bozztv.com/giatvplayout7/giatv-209611/tracks-v1a1/mono.ts.m3u8
-
-########################## Sports Channels ##########################
-#EXTINF:-1,T Sports HD
-http://rgkkw.live/live/1Aoen7elp5/IgMJ60tmAa/130714.ts
-#EXTINF:-1,Willow Sports
-http://27.124.71.27/Willow_Extra/index.m3u8
