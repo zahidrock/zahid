@@ -1,9 +1,7 @@
 #EXTM3U
 ########################## Bangladeshi CHANNELS ##########################
-#EXTINF:-1, Maasranga TV
-#https://tvsen5.aynaott.com/maasrangatv/index.m3u8
-#https://owrcovcrpy.gpcdn.net/bpk-tv/1722/output/1722-audio_113522_eng=113200-video=1692000.m3u8
-http://premiumtvs.space/live/YqXTywueEV/damp2purchase/1036.ts
+#EXTINF:-1, BTV News
+https://tvsen6.aynaott.com/opREbXLqJ2HFYPCXTJBa/index.m3u8
 #EXTINF:-1 group-title="Bangladeshi 🇧🇩" tvg-logo=" ", Jumuna TV
 #https://tvsen6.aynaott.com/jamunatv/index.m3u8
 #https://owrcovcrpy.gpcdn.net/bpk-tv/1701/output/1701-audio_113312_eng=113200-video=1692000.m3u8
@@ -37,14 +35,19 @@ https://go.skym3u.top/live/3b1f0d3d095a7023085f000e000c1c01337d110c024a34325d5e5
 #https://owrcovcrpy.gpcdn.net/bpk-tv/1709/output/1709-audio_113392_eng=113200-video=1692000.m3u8
 #EXTINF:-1,Gazi TV
 https://app24.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMFDEEHGcfRgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcEdsEfeDeKiNkVN3PTOmdFseWRtaW51aiPhnPTI2/gazibdz.stream/tracks-v1a1/mono.m3u8
-##EXTINF:-1 group-title="Bangladeshi 🇧🇩" tvg-logo=" ",Star News
+#EXTINF:-1 group-title="Bangladeshi 🇧🇩" tvg-logo=" ",Star News
 #https://owrcovcrpy.gpcdn.net/bpk-tv/1710/output/1710-audio_113402_eng=113200-video=1692000.m3u8
+https://app24.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMFDEEHGcfRgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcEdsEfeDeKiNkVN3PTOmdFseWRtaW51aiPhnPTI2/starnewsbd.stream/playlist.m3u8
 #EXTINF:-1 group-title="Bangladeshi 🇧🇩" tvg-logo=" ", Dipto TV
 #https://tvsen5.aynaott.com/DeeptoTVHD/index.m3u8
 #https://owrcovcrpy.gpcdn.net/bpk-tv/1711/output/1711-audio_113412_eng=113200-video=1692000.m3u8
 https://byphdgllyk.gpcdn.net/hls/deeptotv/index.m3u8
-##EXTINF:-1 group-title="Bangladeshi 🇧🇩" tvg-logo=" ",Saudi TV
-#https://owrcovcrpy.gpcdn.net/bpk-tv/1713/output/1713-audio_113432_eng=113200-video=1692000.m3u8
+#EXTINF:-1, Maasranga TV
+#https://tvsen5.aynaott.com/maasrangatv/index.m3u8
+#https://owrcovcrpy.gpcdn.net/bpk-tv/1722/output/1722-audio_113522_eng=113200-video=1692000.m3u8
+http://premiumtvs.space/live/YqXTywueEV/damp2purchase/1036.ts
+#EXTINF:-1,Jago News 24
+https://app.ncare.live/live-orgin/jagonews24.stream/playlist.m3u8
 #EXTINF:-1 group-title="Bangladeshi 🇧🇩" tvg-logo=" ", Bangla Vision TV
 #https://owrcovcrpy.gpcdn.net/bpk-tv/1715/output/1715-audio_113452_eng=113200-video=1692000.m3u8
 https://go.skym3u.top/live/3b1f0d3d095a7023085f000e000c1c01337d110c024a34325d5e5b442607260440193e3d3a21204e1e17010c267d150b025a1d3b0f52535834071812451c2c390a1c4b07011703152b6e4b0e41104c.m3u8
@@ -167,8 +170,6 @@ http://103.121.61.218/tmp_hls/f64eac11f2cd8f0efa196f8ad173178e/index.m3u8
 https://stream.channeleuropetvboxlondon.co.uk/live/channeleurope/chunklist_w572284654.m3u8
 #EXTINF:-1,Deshi TV
 https://deshitv.deshitv24.net/live/myStream/playlist.m3u8
-#EXTINF:-1,Jago News 24
-https://app.ncare.live/live-orgin/jagonews24.stream/playlist.m3u8
 #EXTINF:-1,ME TV
 https://iptvbd.live/metv1080/1080.m3u8
 #EXTINF:-1,NAN TV
