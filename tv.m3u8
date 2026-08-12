@@ -1,7 +1,5 @@
 #EXTM3U
 ########################## Bangladeshi CHANNELS ##########################
-#EXTINF:-1 tvg-logo="" group-title="Bangla", Channel 52
-https://tvsen6.aynaott.com/N8Xbo5vdwVU6sF43RsW0/index.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Bangla", Jumuna TV
 https://tvsen6.aynaott.com/KGdZEdA7qQ43dmPkgk1j/index.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Bangla", Somoy TV 
@@ -22,13 +20,12 @@ https://app24.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMFDEEHGcfRgzQ6NTAgdEoaeFzbF9
 #EXTINF:-1 tvg-logo="" group-title="Bangla",Star News
 https://app24.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMFDEEHGcfRgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcEdsEfeDeKiNkVN3PTOmdFseWRtaW51aiPhnPTI2/starnewsbd.stream/playlist.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Bangla", Deepto TV
-https://byphdgllyk.gpcdn.net/hls/deeptotv/index.m3u8
-#EXTINF:-1 tvg-logo="" group-title="Bangla", Deepto TV
-https://tvsen5.aynaott.com/tK2BNdfsdfsdf/index.m3u8
-#EXTINF:-1 tvg-logo="" group-title="Bangla", Deepto TV TEST
 #EXTVLCOPT:http-referrer=https://obiramtvlive.pages.dev/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 15; Pixel 9) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/151.0.0.0 Mobile Safari/537.36
 https://akashgo-obiramtv.emonsa4.workers.dev/15.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Bangla", Deepto TV
+#https://byphdgllyk.gpcdn.net/hls/deeptotv/index.m3u8
+https://tvsen5.aynaott.com/tK2BNdfsdfsdf/index.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Bangla", Maasranga TV
 https://mtv.sunplex.live/MAASRANGA/index.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Bangla",Jago News 24
