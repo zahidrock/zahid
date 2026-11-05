@@ -307,8 +307,6 @@ https://app24.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMFDEEHGcfRgzQ6NTAgdEoaeFzbF9
 https://app24.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMFDEEHGcfRgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcEdsEfeDeKiNkVN3PTOmdFseWRtaW51aiPhnPTI2/channels.stream/playlist.m3u8
 #EXTINF:-1 tvg-id="jagobd-dbcnews" tvg-name="Dbcnews" group-title="International", Dbcnews
 https://app24.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMFDEEHGcfRgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcEdsEfeDeKiNkVN3PTOmdFseWRtaW51aiPhnPTI2/dbcnews.stream/playlist.m3u8
-#EXTINF:-1 tvg-id="jagobd-deshitv" tvg-name="Deshitv" group-title="International", Deshitv
-https://app24.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMFDEEHGcfRgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcEdsEfeDeKiNkVN3PTOmdFseWRtaW51aiPhnPTI2/deshitv.stream/playlist.m3u8
 #EXTINF:-1 tvg-id="jagobd-deshtv" tvg-name="Deshtv" group-title="International", Deshtv
 https://app24.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMFDEEHGcfRgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcEdsEfeDeKiNkVN3PTOmdFseWRtaW51aiPhnPTI2/deshtv.stream/playlist.m3u8
 #EXTINF:-1 tvg-id="jagobd-deentvuk" tvg-name="Deentvuk" group-title="International", Deentvuk
@@ -321,8 +319,6 @@ https://app24.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMFDEEHGcfRgzQ6NTAgdEoaeFzbF9
 https://app24.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMFDEEHGcfRgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcEdsEfeDeKiNkVN3PTOmdFseWRtaW51aiPhnPTI2/uatv.stream/playlist.m3u8
 #EXTINF:-1 tvg-id="jagobd-france24" tvg-name="France24" group-title="International", France24
 https://app24.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMFDEEHGcfRgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcEdsEfeDeKiNkVN3PTOmdFseWRtaW51aiPhnPTI2/fr24.stream/playlist.m3u8
-#EXTINF:-1 tvg-id="jagobd-ranacablemusic" tvg-name="Ranacablemusic" group-title="International", Ranacablemusic
-https://app24.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMFDEEHGcfRgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcEdsEfeDeKiNkVN3PTOmdFseWRtaW51aiPhnPTI2/ranacablemusic.stream/playlist.m3u8
 #EXTINF:-1 tvg-id="jagobd-globaltelevision" tvg-name="Globaltelevision" group-title="International", Globaltelevision
 https://app24.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMFDEEHGcfRgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcEdsEfeDeKiNkVN3PTOmdFseWRtaW51aiPhnPTI2/Global-tv.stream/playlist.m3u8
 #EXTINF:-1 tvg-id="jagobd-aamarbanglatv" tvg-name="Aamarbanglatv" group-title="International", Aamarbanglatv
@@ -343,12 +339,8 @@ https://tvsen6.aynaott.com/mzwbzfZ4/index.m3u8
 https://app24.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMFDEEHGcfRgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcEdsEfeDeKiNkVN3PTOmdFseWRtaW51aiPhnPTI2/musicbangla2025.stream/playlist.m3u8
 #EXTINF:-1 tvg-id="jagobd-deshebideshe-tv" tvg-name="Deshebideshe Tv" group-title="International", Deshebideshe Tv
 https://app24.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMFDEEHGcfRgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcEdsEfeDeKiNkVN3PTOmdFseWRtaW51aiPhnPTI2/deshebideshe.stream/playlist.m3u8
-#EXTINF:-1 tvg-id="aynaott-9x-tashan" tvg-name="9X Tashan" group-title="International", 9X Tashan
-https://tvsen6.aynaott.com/9X_Tashan/index.m3u8?e=1784102590&u=ee5437a7-c16b-4700-b317-a41b77d5cba9&token=c021d7a607b33144aa5b0b83089b0fb5
 #EXTINF:-1 tvg-id="aynaott-hindi-khabar" tvg-name="Hindi Khabar" group-title="International", Hindi Khabar
 https://d1msejlow1t3l4.cloudfront.net/fta/hindikhabar/playlist.m3u8
-#EXTINF:-1 tvg-id="aynaott-cbs-tv" tvg-name="CBS TV" group-title="International", CBS TV
-https://tvsen7.aynaott.com/cbs/index.m3u8?e=1784102616&u=ee5437a7-c16b-4700-b317-a41b77d5cba9&token=090e7d0dc284e7ec6ad993c1a8c9fc18
 #EXTINF:-1 tvg-id="aynaott-goldmines-movies" tvg-name="Goldmines Movies" group-title="International", Goldmines Movies
 http://103.175.73.12:8080/live/51/51_0.m3u8
 #EXTINF:-1 tvg-id="aynaott-sangeet-bangla" tvg-name="Sangeet Bangla" group-title="International", Sangeet Bangla
@@ -1207,8 +1199,6 @@ https://streams.tangotv.in/SAAMTV/ORIGIN/index.m3u8
 https://samitaorigin.tangotv.in/SAANGTV/SAMITAORIGIN/index.m3u8
 #EXTINF:-1 tvg-name="Sach Bedhadak (576p)" group-title="International", Sach Bedhadak (576p)
 https://sbnews.nexcdn.online/sbnews/live/index.m3u8
-#EXTINF:-1 tvg-name="Sada TV (1080p) [Not 24/7]" group-title="International", Sada TV (1080p) [Not 24/7]
-http://cdn12.henico.net:8080/live/sadatv/index.m3u8
 #EXTINF:-1 tvg-name="Sadhna (576p)" group-title="International", Sadhna (576p)
 https://fta.ektv.in/live/340/master.m3u8
 #EXTINF:-1 tvg-name="Sadhna (720p)" group-title="International", Sadhna (720p)
@@ -1937,284 +1927,48 @@ https://cdn.pishow.tv/ott/live/39/master.m3u8
 https://server.playontv.in/swastiktv/index.m3u8
 #EXTINF:-1 tvg-id="aynaott-trt-world" tvg-name="TRT World" group-title="International", TRT World
 https://tv-trtworld.medya.trt.com.tr/master.m3u8
-#EXTINF:-1 tvg-name="&TV International (1080p)" group-title="International", &TV International (1080p)
-https://amg01117-amg01117c1-amgplt0029.playout.now3.amagi.tv/playlist/amg01117-amg01117c1-amgplt0029/playlist.m3u8
 #EXTINF:-1 tvg-name="30A Music" group-title="International", 30A Music
 https://30a-tv.com/music.m3u8
-#EXTINF:-1 tvg-name="6 TV Telugu (360p)" group-title="International", 6 TV Telugu (360p)
-https://mumt03.tangotv.in/Dsly5z3H6TVTELUGU/index.m3u8
-#EXTINF:-1 tvg-name="7S Music (360p)" group-title="International", 7S Music (360p)
-https://mumt03.tangotv.in/Dsly5z3H7SMUSIC/index.m3u8
-#EXTINF:-1 tvg-name="9X Jhakaas (1080p)" group-title="International", 9X Jhakaas (1080p)
-https://amg01281-9xmediapvtltd-9xjhakaas-samsungin-ci2cs.amagi.tv/playlist/amg01281-9xmediapvtltd-9xjhakaas-samsungin/playlist.m3u8
-#EXTINF:-1 tvg-name="9X Jhakaas (576p)" group-title="International", 9X Jhakaas (576p)
-https://mumt03.tangotv.in/Dsly5z3H9XJHAKAAS/index.m3u8
-#EXTINF:-1 tvg-name="9XM (1080p)" group-title="International", 9XM (1080p)
-https://9xjio.wiseplayout.com/9XM/master.m3u8
-#EXTINF:-1 tvg-name="[BD] & Pictures HD" group-title="International", [BD] & Pictures HD
-https://bldcmprod-cdn.toffeelive.com/cdn/live/andpicture_hd/playlist.m3u8
-#EXTINF:-1 tvg-name="[BD] &TV HD" group-title="International", [BD] &TV HD
-https://bldcmprod-cdn.toffeelive.com/cdn/live/and_tv_hd/playlist.m3u8
-#EXTINF:-1 tvg-name="[BD] B4U Music" group-title="International", [BD] B4U Music
-https://bldcmprod-cdn.toffeelive.com/cdn/live/b4u_music/playlist.m3u8
-#EXTINF:-1 tvg-name="[BD] Cartoon Network" group-title="International", [BD] Cartoon Network
-https://bldcmprod-cdn.toffeelive.com/cdn/live/cartoon_network_sd/playlist.m3u8
-#EXTINF:-1 tvg-name="[BD] Discovery" group-title="International", [BD] Discovery
-https://bldcmprod-cdn.toffeelive.com/cdn/live/discovery_sd/playlist.m3u8
-#EXTINF:-1 tvg-name="[BD] Eurosport HD" group-title="International", [BD] Eurosport HD
-https://bldcmprod-cdn.toffeelive.com/cdn/live/euro_sports_hd/playlist.m3u8
-#EXTINF:-1 tvg-name="[BD] HUM" group-title="International", [BD] HUM
-https://bldcmprod-cdn.toffeelive.com/cdn/live/hum_tv/playlist.m3u8
-#EXTINF:-1 tvg-name="[BD] Investigation Discovery HD" group-title="International", [BD] Investigation Discovery HD
-https://bldcmprod-cdn.toffeelive.com/cdn/live/discovary_investigation_hd/playlist.m3u8
-#EXTINF:-1 tvg-name="[BD] POGO" group-title="International", [BD] POGO
-https://bldcmprod-cdn.toffeelive.com/cdn/live/pogo_sd/playlist.m3u8
-#EXTINF:-1 tvg-name="[BD] Sony BBC Earth HD" group-title="International", [BD] Sony BBC Earth HD
-https://bldcmprod-cdn.toffeelive.com/cdn/live/sonybbc_earth_hd/playlist.m3u8
-#EXTINF:-1 tvg-name="[BD] Sony Entertainment Television HD" group-title="International", [BD] Sony Entertainment Television HD
-https://bldcmprod-cdn.toffeelive.com/cdn/live/sonyentertainmnt_hd/playlist.m3u8
-#EXTINF:-1 tvg-name="[BD] Sony MAX HD" group-title="International", [BD] Sony MAX HD
-https://bldcmprod-cdn.toffeelive.com/cdn/live/sony_max_hd/playlist.m3u8
-#EXTINF:-1 tvg-name="[BD] Sony PIX HD" group-title="International", [BD] Sony PIX HD
-https://bldcmprod-cdn.toffeelive.com/cdn/live/sonypix_hd/playlist.m3u8
-#EXTINF:-1 tvg-name="[BD] Sony SAB HD" group-title="International", [BD] Sony SAB HD
-https://bldcmprod-cdn.toffeelive.com/cdn/live/sonysab_hd/playlist.m3u8
-#EXTINF:-1 tvg-name="[BD] Sony Ten Cricket" group-title="International", [BD] Sony Ten Cricket
-https://bldcmprod-cdn.toffeelive.com/cdn/live/ten_cricket/playlist.m3u8
-#EXTINF:-1 tvg-name="[BD] Sony Ten Sports 1 HD" group-title="International", [BD] Sony Ten Sports 1 HD
-https://bldcmprod-cdn.toffeelive.com/cdn/live/sony_sports_1_hd/playlist.m3u8
-#EXTINF:-1 tvg-name="[BD] Sony YAY" group-title="International", [BD] Sony YAY
-https://bldcmprod-cdn.toffeelive.com/cdn/live/sonyyay/playlist.m3u8
-#EXTINF:-1 tvg-name="[BD] Toffee Movies" group-title="International", [BD] Toffee Movies
-https://bldcmprod-cdn.toffeelive.com/cdn/live/toffee_movie/playlist.m3u8
-#EXTINF:-1 tvg-name="[BD] Zee Action" group-title="International", [BD] Zee Action
-https://bldcmprod-cdn.toffeelive.com/cdn/live/zee_action/playlist.m3u8
-#EXTINF:-1 tvg-name="[BD] Zee Anmol" group-title="International", [BD] Zee Anmol
-https://bldcmprod-cdn.toffeelive.com/cdn/live/zee_anmol/playlist.m3u8
-#EXTINF:-1 tvg-name="[BD] Zee Bangla" group-title="International", [BD] Zee Bangla
-https://bldcmprod-cdn.toffeelive.com/cdn/live/zee_bangla/playlist.m3u8
-#EXTINF:-1 tvg-name="[BD] Zee Bollywood" group-title="International", [BD] Zee Bollywood
-https://bldcmprod-cdn.toffeelive.com/cdn/live/zee_bollywood/playlist.m3u8
-#EXTINF:-1 tvg-name="[BD] Zee Cafe" group-title="International", [BD] Zee Cafe
-https://bldcmprod-cdn.toffeelive.com/cdn/live/zee_cafe_hd/playlist.m3u8
-#EXTINF:-1 tvg-name="[BD] Zee Cinema HD" group-title="International", [BD] Zee Cinema HD
-https://bldcmprod-cdn.toffeelive.com/cdn/live/zee_cinema_hd/playlist.m3u8
-#EXTINF:-1 tvg-name="[BD] Zee TV HD" group-title="International", [BD] Zee TV HD
-https://bldcmprod-cdn.toffeelive.com/cdn/live/zee_tv_hd/playlist.m3u8
-#EXTINF:-1 tvg-name="[BD] Zing" group-title="International", [BD] Zing
-https://bldcmprod-cdn.toffeelive.com/cdn/live/zing_sd/playlist.m3u8
 #EXTINF:-1 tvg-name="A sports" group-title="International", A sports
 https://tvsen6.aynaott.com/zv68oqPDu7MZZwmHhRxt/index.m3u8?e=1784102512&u=ee5437a7-c16b-4700-b317-a41b77d5cba9&token=968935df4fd0678de5d7fe392c0610d9
-#EXTINF:-1 tvg-name="Aaj Tak (1080p)" group-title="International", Aaj Tak (1080p)
-http://103.213.31.109:90/AajtakHD/playlist.m3u8
-#EXTINF:-1 tvg-name="ABC 7 Bay" group-title="International", ABC 7 Bay
-https://content.uplynk.com/channel/ext/4413701bf5a1488db55b767f8ae9d4fa/kgo_24x7_news.m3u8
 #EXTINF:-1 tvg-name="Action Hollywood Movies" group-title="International", Action Hollywood Movies
 https://cdn-apse1-prod.tsv2.amagi.tv/linear/amg01076-lightningintern-actionhollywood-samsungnz/playlist.m3u8
-#EXTINF:-1 tvg-name="AKD Calcutta News (576p)" group-title="International", AKD Calcutta News (576p)
-https://mumt03.tangotv.in/Dsly5z3HAKDCALCUTTANEWS/index.m3u8
-#EXTINF:-1 tvg-name="AmarUjala (1080p)" group-title="International", AmarUjala (1080p)
-https://amarujala.ottlive.co.in/amarujala/index.m3u8
-#EXTINF:-1 tvg-name="AMN TV (576p)" group-title="International", AMN TV (576p)
-https://live.onecloudlive.in/amn/amntv/index.m3u8
-#EXTINF:-1 tvg-name="Anand Wari TV (576p)" group-title="International", Anand Wari TV (576p)
-https://mumt03.tangotv.in/Dsly5z3HANANDWARITV/index.m3u8
-#EXTINF:-1 tvg-name="Ananda TV (480p)" group-title="International", Ananda TV (480p)
-http://103.99.249.139/anandatv/index.m3u8
-#EXTINF:-1 tvg-name="Andy Haryana (576p)" group-title="International", Andy Haryana (576p)
-https://mumt03.tangotv.in/Dsly5z3HANDYHARYANA/index.m3u8
-#EXTINF:-1 tvg-name="Angel TV (576p)" group-title="International", Angel TV (576p)
-https://mumt01.tangotv.in/O5aw8Zn3ANGELTVHD/index.m3u8
-#EXTINF:-1 tvg-name="Anmol TV (576p)" group-title="International", Anmol TV (576p)
-https://fta.ektv.in/live/256/master.m3u8
-#EXTINF:-1 tvg-name="Anmol TV (720p)" group-title="International", Anmol TV (720p)
-https://drk6xq0vhn.gpcdn.net/live/zee_anmol_abr/index.m3u8
-#EXTINF:-1 tvg-name="Aradana TV (576p)" group-title="International", Aradana TV (576p)
-https://mumbai-edge.smartplaytv.in/AradanaTV/index.m3u8
-#EXTINF:-1 tvg-name="Aryan TV National (576p)" group-title="International", Aryan TV National (576p)
-https://mumt04.tangotv.in/m18aqlK4ARYANTVNATIONAL/index.m3u8
-#EXTINF:-1 tvg-name="Asianet News (1080p)" group-title="International", Asianet News (1080p)
-https://amg13737-amg13737c1-amgplt0016.playout.now3.amagi.tv/playlist/amg13737-amg13737c1-amgplt0016/playlist.m3u8
-#EXTINF:-1 tvg-name="Asom Live 24 (576p)" group-title="International", Asom Live 24 (576p)
-https://mumt06.tangotv.in/qYyB8fXVASHOMLIVE/index.m3u8
-#EXTINF:-1 tvg-name="ATN Music (360p)" group-title="International", ATN Music (360p)
-https://app.ncare.live/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI/atnmusic.stream/playlist.m3u8
-#EXTINF:-1 tvg-id="jagobd-aynatv" tvg-name="Aynatv" group-title="International", Aynatv
-https://app24.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMFDEEHGcfRgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcEdsEfeDeKiNkVN3PTOmdFseWRtaW51aiPhnPTI2/ayna.stream/playlist.m3u8
 #EXTINF:-1 tvg-id="jagobd-azan-tv" tvg-name="Azan Tv" group-title="International", Azan Tv
 https://app24.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMFDEEHGcfRgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcEdsEfeDeKiNkVN3PTOmdFseWRtaW51aiPhnPTI2/azantv.stream/playlist.m3u8
-#EXTINF:-1 tvg-name="B4U Bhojpuri (1080p)" group-title="International", B4U Bhojpuri (1080p)
-https://cdnb4u.wiseplayout.com/B4U_Bhojpuri/master.m3u8
-#EXTINF:-1 tvg-name="Bada Khabar (576p)" group-title="International", Bada Khabar (576p)
-https://mumbai-edge.smartplaytv.in/BADAKHABAR/index.m3u8
 #EXTINF:-1 tvg-id="aynaott-bahrain-sports-2" tvg-name="Bahrain Sports 2" group-title="International", Bahrain Sports 2
 https://tvsen6.aynaott.com/BahrainSports2/index.m3u8
-#EXTINF:-1 tvg-name="Bangla Radio" group-title="International", Bangla Radio
-https://apollo.ihostman.com:8002/stream?icy=https
-#EXTINF:-1 tvg-name="Bein Sports 1" group-title="International", Bein Sports 1
-https://1nyaler.streamhostingcdn.top/stream/23/index.m3u8
 #EXTINF:-1 tvg-name="Bein Sports Extra 2" group-title="International", Bein Sports Extra 2
 https://bein-esp-xumo.amagi.tv/playlistR1080p.m3u8
 #EXTINF:-1 tvg-name="BEK TV News" group-title="International", BEK TV News
 https://cdn3.wowza.com/5/ZWQ1K2NYTmpFbGsr/BEK-WOWZA-1/smil:BEKPRIMEeast.smil/playlist.m3u8
-#EXTINF:-1 tvg-name="Bhagyam TV (576p) [Not 24/7]" group-title="International", Bhagyam TV (576p) [Not 24/7]
-https://bhagyam.iptv.pics/bhagyam/index.m3u8
-#EXTINF:-1 tvg-name="Bhakthi Siri (576p)" group-title="International", Bhakthi Siri (576p)
-https://mumbai-edge.smartplaytv.in/Bhakthisiri/index.m3u8
-#EXTINF:-1 tvg-name="Bleav Football" group-title="International", Bleav Football
-https://linear-493.frequency.stream/dist/glewedtv/493/hls/master/playlist.m3u8
-#EXTINF:-1 tvg-name="BRAVO" group-title="International", BRAVO
-https://tvsen7.aynaott.com/bravo/index.m3u8?e=1784102619&u=ee5437a7-c16b-4700-b317-a41b77d5cba9&token=3b78032bd928888aede14d2a4c6d4232
-#EXTINF:-1 tvg-name="BTV NATIONAL HD" group-title="International", BTV NATIONAL HD
-https://tvsen6.aynaott.com/AQLYTPfXtjm5x7zj7AsM/index.m3u8?e=1784102574&u=ee5437a7-c16b-4700-b317-a41b77d5cba9&token=c77a7f71fb9c8690eec45bed699ba960
-#EXTINF:-1 tvg-name="BTV News" group-title="International", BTV News
-https://tvsen6.aynaott.com/tV8mB2zP7rX4kL1w/index.m3u8?e=1784102532&u=ee5437a7-c16b-4700-b317-a41b77d5cba9&token=20448821bed8f397806d492c1b39da46
-#EXTINF:-1 tvg-name="BTV World" group-title="International", BTV World
-https://tvsen6.aynaott.com/opREbXLqJ2HFYPCXTJBa/index.m3u8?e=1784102575&u=ee5437a7-c16b-4700-b317-a41b77d5cba9&token=c85b53f4cee30af4a19d4b9ad0cd60c7
 #EXTINF:-1 tvg-id="jagobd-channelsuk" tvg-name="Channelsuk" group-title="International", Channelsuk
 https://app24.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMFDEEHGcfRgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcEdsEfeDeKiNkVN3PTOmdFseWRtaW51aiPhnPTI2/chsukoff.stream/playlist.m3u8
-#EXTINF:-1 tvg-name="Chintpurni Live (360p)" group-title="International", Chintpurni Live (360p)
-https://mumt03.tangotv.in/Dsly5z3HCHINTPURNILIVE/index.m3u8
-#EXTINF:-1 tvg-name="Cine Jomjomat (1080p)" group-title="International", Cine Jomjomat (1080p)
-https://amg13779-amg13779c1-amgplt0016.playout.now3.amagi.tv/ts-eu-w1-n2/playlist/amg13779-amg13779c1-amgplt0016/playlist.m3u8
-#EXTINF:-1 tvg-name="Colors Bangla Cinema (576p)" group-title="International", Colors Bangla Cinema (576p)
-http://103.151.60.162:2122/play/a02m/index.m3u8?hls
-#EXTINF:-1 tvg-name="Colors Cineplex HD (1080p)" group-title="International", Colors Cineplex HD (1080p)
-http://103.151.60.162:2122/play/a02s/index.m3u8?hls
-#EXTINF:-1 tvg-name="Colors Infinity HD (1080p)" group-title="International", Colors Infinity HD (1080p)
-http://103.151.60.162:2122/play/a02r/index.m3u8?hls
 #EXTINF:-1 tvg-name="Court TV" group-title="International", Court TV
 https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg01438-ewscrippscompan-courttv-tablo/playlist.m3u8
 #EXTINF:-1 tvg-name="Cowboy Movie Channel" group-title="International", Cowboy Movie Channel
 https://streams2.sofast.tv/sofastplayout/32eb332e-f644-46e5-ad91-e55ad80d14f7_0_HLS/master.m3u8
-#EXTINF:-1 tvg-name="DD Assam (576p)" group-title="International", DD Assam (576p)
-https://fta.ektv.in/live/672/master.m3u8
-#EXTINF:-1 tvg-name="DD Manipur (576p)" group-title="International", DD Manipur (576p)
-https://fta.ektv.in/live/671/master.m3u8
-#EXTINF:-1 tvg-name="DD Nagaland (576p)" group-title="International", DD Nagaland (576p)
-https://fta.ektv.in/live/670/master.m3u8
-#EXTINF:-1 tvg-name="DD National HD (576p)" group-title="International", DD National HD (576p)
-https://mumt01.tangotv.in/O5aw8Zn3DDNATIONALHD/index.m3u8
-#EXTINF:-1 tvg-name="DD Punjabi (576p)" group-title="International", DD Punjabi (576p)
-https://fta.ektv.in/live/177/master.m3u8
-#EXTINF:-1 tvg-name="DD Tripura (576p)" group-title="International", DD Tripura (576p)
-https://fta.ektv.in/live/661/master.m3u8
-#EXTINF:-1 tvg-name="DD Urdu (576p)" group-title="International", DD Urdu (576p)
-https://mumbai-edge.smartplaytv.in/DDUrdu/index.m3u8
 #EXTINF:-1 tvg-id="jagobd-deshbanglatv" tvg-name="Deshbanglatv" group-title="International", Deshbanglatv
 https://app24.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMFDEEHGcfRgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcEdsEfeDeKiNkVN3PTOmdFseWRtaW51aiPhnPTI2/deshbanglatv.stream/playlist.m3u8
 #EXTINF:-1 tvg-name="Deshe Bideshe" group-title="International", Deshe Bideshe
 https://dbcanada.sonarbanglatv.com/deshebideshe/dbtv/index.m3u8
-#EXTINF:-1 tvg-name="Dhamaal (576p) [Geo-blocked]" group-title="International", Dhamaal (576p) [Geo-blocked]
-https://tvsen6.aynaott.com/F4Z6es8E/index.m3u8
-#EXTINF:-1 tvg-name="Dharsan TV (720p)" group-title="International", Dharsan TV (720p)
-https://cable91tataplay.akamaized.net/live/dharshantv/index.m3u8
-#EXTINF:-1 tvg-name="Dhinchaak" group-title="International", Dhinchaak
-https://tvsen6.aynaott.com/a2cKGQtB/index.m3u8?e=1784102597&u=ee5437a7-c16b-4700-b317-a41b77d5cba9&token=18f202477e23fba0f1d6d5e94ac5c4f3
-#EXTINF:-1 tvg-name="Disney International HD (576p)" group-title="International", Disney International HD (576p)
-http://103.151.60.162:2122/play/a018/index.m3u8?hls
 #EXTINF:-1 tvg-name="Disney JR" group-title="International", Disney JR
 https://tvsen7.aynaott.com/disneyjr/index.m3u8?e=1784102580&u=ee5437a7-c16b-4700-b317-a41b77d5cba9&token=6a87c2e077df270ccd0de2c2e611177c
-#EXTINF:-1 tvg-name="Disney Junior (576p)" group-title="International", Disney Junior (576p)
-http://103.151.60.162:2122/play/a016/index.m3u8?hls
-#EXTINF:-1 tvg-name="Disney XD" group-title="International", Disney XD
-https://tvsen5.aynaott.com/disneyxd/index.m3u8?e=1784102583&u=ee5437a7-c16b-4700-b317-a41b77d5cba9&token=ef40738201244a8d2cd440ce648b5fc6
 #EXTINF:-1 tvg-name="Doraemon" group-title="International", Doraemon
 https://live20.bozztv.com/giatvplayout7/giatv-209902/tracks-v1a1/mono.ts.m3u8
-#EXTINF:-1 tvg-name="Dukhniwaran (576p)" group-title="International", Dukhniwaran (576p)
-https://mumt03.tangotv.in/Dsly5z3HDUKHNIWARAN/index.m3u8
-#EXTINF:-1 tvg-name="E-Vidya 10 (576p)" group-title="International", E-Vidya 10 (576p)
-http://103.72.101.252:8080/live/411.m3u8
-#EXTINF:-1 tvg-name="E-Vidya 11 (576p)" group-title="International", E-Vidya 11 (576p)
-http://103.72.101.252:8080/live/1410.m3u8
-#EXTINF:-1 tvg-name="E-Vidya 12 (576p)" group-title="International", E-Vidya 12 (576p)
-http://103.72.101.252:8080/live/1532.m3u8
-#EXTINF:-1 tvg-name="E-Vidya 4 (576p)" group-title="International", E-Vidya 4 (576p)
-http://103.72.101.252:8080/live/406.m3u8
-#EXTINF:-1 tvg-name="E-Vidya 5 (576p)" group-title="International", E-Vidya 5 (576p)
-http://103.72.101.252:8080/live/407.m3u8
-#EXTINF:-1 tvg-name="E-Vidya 6 (576p)" group-title="International", E-Vidya 6 (576p)
-http://103.72.101.252:8080/live/408.m3u8
-#EXTINF:-1 tvg-name="E-Vidya 7 (576p)" group-title="International", E-Vidya 7 (576p)
-http://103.72.101.252:8080/live/404.m3u8
-#EXTINF:-1 tvg-name="E-Vidya 8 (576p)" group-title="International", E-Vidya 8 (576p)
-http://103.72.101.252:8080/live/409.m3u8
-#EXTINF:-1 tvg-name="E-Vidya 9 (576p)" group-title="International", E-Vidya 9 (576p)
-http://103.72.101.252:8080/live/410.m3u8
 #EXTINF:-1 tvg-name="Ekattor TV" group-title="International", Ekattor TV
 https://tvsen6.aynaott.com/EWDrV5QskgarZEUBb3pU/index.m3u8?e=1784102532&u=ee5437a7-c16b-4700-b317-a41b77d5cba9&token=3b9afdda2bd5332e8f49ed7dfa321a06
-#EXTINF:-1 tvg-name="Eman Channel" group-title="International", Eman Channel
-https://tvsen6.aynaott.com/eman/index.m3u8?e=1784102626&u=ee5437a7-c16b-4700-b317-a41b77d5cba9&token=ac68781519dc02fa881bb036e27720d6
-#EXTINF:-1 tvg-name="Epic Parivar (576p)" group-title="International", Epic Parivar (576p)
-http://103.151.60.162:2122/play/a01p/index.m3u8?hls
-#EXTINF:-1 tvg-name="ET Now (720p) [Geo-blocked]" group-title="International", ET Now (720p) [Geo-blocked]
-https://dztlhgid9me95.cloudfront.net/live-tv/Vidgyor/etnow/etnow_master.m3u8
-#EXTINF:-1 tvg-name="ET Now Swadesh (1080p) [Geo-blocked]" group-title="International", ET Now Swadesh (1080p) [Geo-blocked]
-https://dztlhgid9me95.cloudfront.net/live-tv/Vidgyor/etswadesh/etswadesh_master.m3u8
-#EXTINF:-1 tvg-name="Family JR" group-title="International", Family JR
-https://tvsen5.aynaott.com/familyjr/index.m3u8?e=1784102583&u=ee5437a7-c16b-4700-b317-a41b77d5cba9&token=f07cdf73f07a49d18a334d98b734ddf4
-#EXTINF:-1 tvg-name="FashionTV (576p)" group-title="International", FashionTV (576p)
-https://fta.ektv.in/live/144/144_0.m3u8
 #EXTINF:-1 tvg-name="Fox Sports 2" group-title="International", Fox Sports 2
 https://tvsen7.aynaott.com/foxsports2/index.m3u8?e=1784102513&u=ee5437a7-c16b-4700-b317-a41b77d5cba9&token=d99d64707b3804bb93d8e2a7dc7c2ec3
-#EXTINF:-1 tvg-name="Gazi TV (1080p)" group-title="International", Gazi TV (1080p)
-http://tvn1.chowdhury-shaheb.com/gazitv/index.m3u8
-#EXTINF:-1 tvg-name="Geo ENT" group-title="International", Geo ENT
-https://jk3lz82elw79-hls-live.5centscdn.com/harPalGeo/955ad3298db330b5ee880c2c9e6f23a0.sdp/playlist.m3u8
 #EXTINF:-1 tvg-name="Golf Channel" group-title="International", Golf Channel
 https://tvsen6.aynaott.com/golfchannel/index.m3u8?e=1784102520&u=ee5437a7-c16b-4700-b317-a41b77d5cba9&token=b1b12d40a9966b3fbfc1653626e09f42
-#EXTINF:-1 tvg-name="Good News Today (720p)" group-title="International", Good News Today (720p)
-https://aajtaklive.vgcdn.net/v1/master/611d79b11b77e2f571934fd80ca1413453772ac7/3196cced-ce29-4219-9809-f07ccdaa02b9/vglive-sk-848805/master.m3u8
-#EXTINF:-1 tvg-name="GTC News (576p)" group-title="International", GTC News (576p)
-https://mumt03.tangotv.in/Dsly5z3HGTCNEWS/index.m3u8
-#EXTINF:-1 tvg-name="Guarantee News (576p)" group-title="International", Guarantee News (576p)
-https://mumt03.tangotv.in/Dsly5z3HGAURANTEENEWS/index.m3u8
-#EXTINF:-1 tvg-name="Hare Krsna TV (1080p)" group-title="International", Hare Krsna TV (1080p)
-https://hktv.harekrsnatv.com/HKTV/HKWebApp/manifest.mpd
-#EXTINF:-1 tvg-name="Harvest TV (1080p)" group-title="International", Harvest TV (1080p)
-https://mumbai-edge.smartplaytv.in/HarvestTV/index.m3u8
 #EXTINF:-1 tvg-name="Hindi Movies" group-title="International", Hindi Movies
 https://live20.bozztv.com/giatvplayout7/giatv-209612/tracks-v1a1/mono.ts.m3u8
-#EXTINF:-1 tvg-name="Hindu Dharmam (1080p)" group-title="International", Hindu Dharmam (1080p)
-https://mumbai-edge.smartplaytv.in/Hindudharmam/index.m3u8
-#EXTINF:-1 tvg-name="Hindu Dharmam (576p)" group-title="International", Hindu Dharmam (576p)
-https://mumt01.tangotv.in/O5aw8Zn3HINDUDHARMAM/index.m3u8
 #EXTINF:-1 tvg-name="Horse & Country" group-title="International", Horse & Country
 https://hncfree-samsungau.amagi.tv/playlist.m3u8
-#EXTINF:-1 tvg-name="IBTV USA" group-title="International", IBTV USA
-https://tvsen7.aynaott.com/ibtvusa/index.m3u8?e=1784102566&u=ee5437a7-c16b-4700-b317-a41b77d5cba9&token=3bc7a2a5fe20a69e8fadc40261b2cbba
-#EXTINF:-1 tvg-name="India TV Aap Ki Adalat (1080p) [Geo-blocked]" group-title="International", India TV Aap Ki Adalat (1080p) [Geo-blocked]
-https://amg01550-amg01550c6-samsung-in-4679.playouts.now.amagi.tv/playlist/amg01550-indiatvfast-indiatvakasamsung-samsungin/playlist.m3u8
 #EXTINF:-1 tvg-name="InTravel" group-title="International", InTravel
 https://amg00861-amg00861c10-rakuten-uk-3152.playouts.now.amagi.tv/playlist.m3u8
-#EXTINF:-1 tvg-name="Iran Press" group-title="International", Iran Press
-https://live.presstv.ir/hls/presstv_5_482/index.m3u8
 #EXTINF:-1 tvg-name="Jamuna TV" group-title="International", Jamuna TV
 https://tvsen6.aynaott.com/KGdZEdA7qQ43dmPkgk1j/index.m3u8?e=1784102531&u=ee5437a7-c16b-4700-b317-a41b77d5cba9&token=d17e86aa2e6745043e84e0547d4fb69a
-#EXTINF:-1 tvg-name="Janam TV (576p)" group-title="International", Janam TV (576p)
-https://mumt03.tangotv.in/Dsly5z3HJANAMTV/index.m3u8
-#EXTINF:-1 tvg-name="Jaya Plus (576p)" group-title="International", Jaya Plus (576p)
-https://mumbai-edge.smartplaytv.in/JayaPLus/index.m3u8
-#EXTINF:-1 tvg-name="K News India (720p)" group-title="International", K News India (720p)
-https://legitpro.co.in/knews/index.m3u8
-#EXTINF:-1 tvg-name="Kairali Arabia (576p)" group-title="International", Kairali Arabia (576p)
-https://mumt03.tangotv.in/Dsly5z3HKAIRALIARABIA/index.m3u8
-#EXTINF:-1 tvg-name="Kairali News (576p)" group-title="International", Kairali News (576p)
-https://mumt01.tangotv.in/O5aw8Zn3KAIRALINEWS/index.m3u8
-#EXTINF:-1 tvg-name="Kairali TV (576p)" group-title="International", Kairali TV (576p)
-https://mumt01.tangotv.in/O5aw8Zn3KAIRALI/index.m3u8
-#EXTINF:-1 tvg-name="Kalika TV (576p)" group-title="International", Kalika TV (576p)
-http://server.applelive.in/kalikatv/kalikatv.m3u8
-#EXTINF:-1 tvg-name="Kids Pang TV" group-title="International", Kids Pang TV
-https://newidco-kidspangtv-1-us.roku.wurl.tv/playlist.m3u8
-#EXTINF:-1 tvg-name="Live Times (576p)" group-title="International", Live Times (576p)
-https://mumt01.tangotv.in/O5aw8Zn3LIVETIMES/index.m3u8
-#EXTINF:-1 tvg-name="Mahimai TV (576p)" group-title="International", Mahimai TV (576p)
-https://mahimai.iptelevision.live/mahimaitv/video.m3u8
-#EXTINF:-1 tvg-name="Malai Murasu TV (1080p) [Geo-blocked]" group-title="International", Malai Murasu TV (1080p) [Geo-blocked]
-https://amg17783-amg17783c1-amgplt0173.playout.now3.amagi.tv/playlist/amg17783-amg17783c1-amgplt0173/playlist.m3u8
-#EXTINF:-1 tvg-name="Mango Mobile TV (1080p)" group-title="International", Mango Mobile TV (1080p)
-https://amg01911-mangotv-amg01911c1-xiaomi-in-1270.playouts.now.amagi.tv/playlist/amg01911-mangomassmedia-mangotv-xiaomiin/playlist.m3u8
 #EXTINF:-1 tvg-id="aynaott-manoranjan-tv" tvg-name="Manoranjan TV" group-title="International", Manoranjan TV
 https://tvsen6.aynaott.com/vhu6qz5Nsd/index.m3u8
 #EXTINF:-1 tvg-name="More Then Sports TV" group-title="International", More Then Sports TV
@@ -2223,249 +1977,91 @@ https://mts1.iptv-playoutcenter.de/mts/mts-web/playlist.m3u8
 https://live20.bozztv.com/giatvplayout7/giatv-209622/tracks-v1a1/mono.ts.m3u8
 #EXTINF:-1 tvg-name="Movie Sphere" group-title="International", Movie Sphere
 https://moviesphereuk-samsunguk.amagi.tv/playlist.m3u8
-#EXTINF:-1 tvg-name="Movies Now HD (1080p)" group-title="International", Movies Now HD (1080p)
-http://103.151.60.162:2122/play/a02w/index.m3u8?hls
 #EXTINF:-1 tvg-name="MTRSPT" group-title="International", MTRSPT
 https://amg02873-kravemedia-mtrspt1-sportstribal-ajosc.amagi.tv/playlist/amg02873-kravemedia-mtrspt1-sportstribal/playlist.m3u8
-#EXTINF:-1 tvg-name="MUSIC BANGLA" group-title="International", MUSIC BANGLA
-http://live.matribhumitv.com/music-bangla/index.m3u8
 #EXTINF:-1 tvg-name="Music TV" group-title="International", Music TV
 http://bitcdn-kronehit.bitmovin.com/v2/hls/chunklist_b3128000.m3u8
-#EXTINF:-1 tvg-name="Nagaland TV (576p)" group-title="International", Nagaland TV (576p)
-https://mumt06.tangotv.in/qYyB8fXVNAGALANDTV/index.m3u8
-#EXTINF:-1 tvg-name="Naxatra News (576p)" group-title="International", Naxatra News (576p)
-https://fta.ektv.in/live/668/master.m3u8
 #EXTINF:-1 tvg-name="NBC Sports" group-title="International", NBC Sports
 https://xumo-xumoent-vc-122-sjv70.fast.nbcuni.com/live/master.m3u8
-#EXTINF:-1 tvg-name="NDTV Good Times (1080p)" group-title="International", NDTV Good Times (1080p)
-https://amg01448-samsungin-ndtvgoodtimes-samsungin-ad-gp.amagi.tv/playlist/amg01448-samsungin-ndtvgoodtimes-samsungin/playlist.m3u8
-#EXTINF:-1 tvg-name="News 24 (576p)" group-title="International", News 24 (576p)
-http://tvsen5.aynascope.net/News24/index.m3u8
-#EXTINF:-1 tvg-name="News 24 (720p)" group-title="International", News 24 (720p)
-https://vidcdn.vidgyor.com/news24-origin/liveabr/playlist.m3u8
 #EXTINF:-1 tvg-name="News 24 BD" group-title="International", News 24 BD
 https://tvsen6.aynaott.com/cdgr3tw6WoG7JyRnLbi0/index.m3u8?e=1784102534&u=ee5437a7-c16b-4700-b317-a41b77d5cba9&token=ff40b53535a0e90b724ac25ff41c590c
-#EXTINF:-1 tvg-name="News Capital Market (1080p)" group-title="International", News Capital Market (1080p)
-https://newscapital.com/hls/stream.m3u8?token=Nc360PermanentSecureKey987
-#EXTINF:-1 tvg-name="News Time Bangla" group-title="International", News Time Bangla
-https://tvsen6.aynaott.com/NewsTime/index.m3u8?e=1784102637&u=ee5437a7-c16b-4700-b317-a41b77d5cba9&token=31255bb35aab8fb1f34e5e741754152c
 #EXTINF:-1 tvg-name="News18 Kerala (1080p)" group-title="International", News18 Kerala (1080p)
 https://n18syndication.akamaized.net/bpk-tv/News18_Kerala_NW18_MOB/output01/master.m3u8
-#EXTINF:-1 tvg-name="NewsX (720p)" group-title="International", NewsX (720p)
-https://mumbai-edge.smartplaytv.in/NewsX/index.m3u8
-#EXTINF:-1 tvg-name="NHK World" group-title="International", NHK World
-https://tvsen6.aynaott.com/xfJ3PuYS/index.m3u8?e=1784102545&u=ee5437a7-c16b-4700-b317-a41b77d5cba9&token=dbc117649b51bf27bb2048647c01a038
-#EXTINF:-1 tvg-name="Nickelodeon (576p)" group-title="International", Nickelodeon (576p)
-http://103.185.24.134:3001/NICK/index.m3u8
 #EXTINF:-1 tvg-name="Nickjr" group-title="International", Nickjr
 https://tvsen5.aynaott.com/nickjr/index.m3u8?e=1784102581&u=ee5437a7-c16b-4700-b317-a41b77d5cba9&token=1a9cf0bc5e79f08de29d345545216d31
 #EXTINF:-1 tvg-name="Nicktoons" group-title="International", Nicktoons
 https://tvsen5.aynaott.com/nicktoons/index.m3u8?e=1784102580&u=ee5437a7-c16b-4700-b317-a41b77d5cba9&token=8eaa14af29c832e9b2b22399a5dfd762
-#EXTINF:-1 tvg-name="NK TV 24x7 (1080p)" group-title="International", NK TV 24x7 (1080p)
-https://nktv.smartstream.video/smartstream-us/nktvplus/nktvplus/chunks.m3u8
-#EXTINF:-1 tvg-name="NK TV Bangla (1080p)" group-title="International", NK TV Bangla (1080p)
-https://nktv.smartstream.video/smartstream-us/nkbangla/nkbangla/playlist.m3u8
-#EXTINF:-1 tvg-name="OM TV (576p)" group-title="International", OM TV (576p)
-https://mumt01.tangotv.in/O5aw8Zn3OMTV/index.m3u8
 #EXTINF:-1 tvg-name="Pardesi TV" group-title="International", Pardesi TV
 http://stream.pardesitv.online/pardesi/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-name="Peace TV Bangla HD" group-title="International", Peace TV Bangla HD
-https://tvsen7.aynaott.com/xM9hpJpqLqs83ZrvkeBG/index.m3u8?e=1784102568&u=ee5437a7-c16b-4700-b317-a41b77d5cba9&token=90ea05f54cbc7e469d26591ca7a526e4
-#EXTINF:-1 tvg-name="Peace TV Urdu HD" group-title="International", Peace TV Urdu HD
-https://tvsen6.aynaott.com/PeaceTVUrduHD/index.m3u8?e=1784102628&u=ee5437a7-c16b-4700-b317-a41b77d5cba9&token=7cf820bc700fe8ed9e8b0084f0c6f84b
-#EXTINF:-1 tvg-name="Peoples Radio" group-title="International", Peoples Radio
-http://s3.myradiostream.com:14498/;stream.mp3
 #EXTINF:-1 tvg-name="Persiana Korea" group-title="International", Persiana Korea
 https://korhls.persiana.live/hls/stream.m3u8
 #EXTINF:-1 tvg-name="Persiana Travel" group-title="International", Persiana Travel
 https://ptravelhls.persiana.live/hls/stream.m3u8
-#EXTINF:-1 tvg-name="Pogo (576p)" group-title="International", Pogo (576p)
-http://103.151.60.162:2122/play/a01e/index.m3u8?hls
-#EXTINF:-1 tvg-name="Prameya News7 (576p)" group-title="International", Prameya News7 (576p)
-https://mumt03.tangotv.in/Dsly5z3HPRAMEYANEWS7/index.m3u8
-#EXTINF:-1 tvg-name="Pratham News (576p)" group-title="International", Pratham News (576p)
-https://mumt03.tangotv.in/Dsly5z3HPRATHAMNEWS/index.m3u8
-#EXTINF:-1 tvg-name="Prime9 News (576p)" group-title="International", Prime9 News (576p)
-https://mumt01.tangotv.in/O5aw8Zn3PRIME9NEWS/index.m3u8
-#EXTINF:-1 tvg-name="Punjabi Beats HD (576p)" group-title="International", Punjabi Beats HD (576p)
-https://mumt01.tangotv.in/O5aw8Zn3STVHARYANANEWS/index.m3u8
-#EXTINF:-1 tvg-name="Punjabi Beats HD (720p)" group-title="International", Punjabi Beats HD (720p)
-https://mumt01.tangotv.in/O5aw8Zn3PUNJABIBEATSHD/index.m3u8
-#EXTINF:-1 tvg-name="Radio Bangladesh CO" group-title="International", Radio Bangladesh CO
-http://radiobangladesh.co.uk:8000/live
 #EXTINF:-1 tvg-name="Radio BBC" group-title="International", Radio BBC
 https://a.files.bbci.co.uk/ms6/live/3441A116-B12E-4D2F-ACA8-C1984642FA4B/audio/simulcast/hls/nonuk/audio_syndication_vlow_sbr_v1/cfs/bbc_world_service_news_internet.m3u8
-#EXTINF:-1 tvg-name="Radio Bhumi 92.80 FM" group-title="International", Radio Bhumi 92.80 FM
-https://apollo.ihostman.com/8002/stream
-#EXTINF:-1 tvg-name="Raftaar Media (240p)" group-title="International", Raftaar Media (240p)
-https://6n3yorwpy9ok-hls-live.5centscdn.com/raftaarmedia/243bd1ce0387f18005abfc43b001646a.sdp/playlist.m3u8
-#EXTINF:-1 tvg-name="Raj Musix Kannada (576p)" group-title="International", Raj Musix Kannada (576p)
-https://mumt01.tangotv.in/O5aw8Zn3RAJMUSIXKANDA/index.m3u8
 #EXTINF:-1 tvg-name="Rakuten Movies" group-title="International", Rakuten Movies
 https://0145451975a64b35866170fd2e8fa486.mediatailor.eu-west-1.amazonaws.com/v1/master/0547f18649bd788bec7b67b746e47670f558b6b2/production-LiveChannel-5987/master.m3u8
-#EXTINF:-1 tvg-name="Ramdhenu (576p)" group-title="International", Ramdhenu (576p)
-https://mumt01.tangotv.in/O5aw8Zn3RAMDHENU/index.m3u8
 #EXTINF:-1 tvg-name="Relaks Radio" group-title="International", Relaks Radio
 http://stream.spicefmbd.com/stream.m3u8
-#EXTINF:-1 tvg-name="Republic TV Bharat" group-title="International", Republic TV Bharat
-https://tvsen6.aynaott.com/faGd3tuq/index.m3u8?e=1784102553&u=ee5437a7-c16b-4700-b317-a41b77d5cba9&token=8133079644fb0609090a409e519aaa73
-#EXTINF:-1 tvg-name="Sadhna Plus News (576p)" group-title="International", Sadhna Plus News (576p)
-https://mumt03.tangotv.in/Dsly5z3HSADHNAPLUSNEWS/index.m3u8
 #EXTINF:-1 tvg-name="Sadhna Prime News" group-title="International", Sadhna Prime News
 https://tvsen6.aynaott.com/WZUs6gAU/index.m3u8?e=1784102556&u=ee5437a7-c16b-4700-b317-a41b77d5cba9&token=49ac20f3ecb8e9577b16afd7195615fa
-#EXTINF:-1 tvg-name="Sahana News (576p)" group-title="International", Sahana News (576p)
-https://mumt03.tangotv.in/Dsly5z3HSAHANANEWS/index.m3u8
 #EXTINF:-1 tvg-name="Sai TV (576p)" group-title="International", Sai TV (576p)
 https://cdn.pishow.tv/ott/live/1235/master.m3u8
-#EXTINF:-1 tvg-name="Sandesh News (576p)" group-title="International", Sandesh News (576p)
-https://mumt01.tangotv.in/O5aw8Zn3SANDESHNEWS/index.m3u8
-#EXTINF:-1 tvg-name="Sarv Dharam Sangam (720p)" group-title="International", Sarv Dharam Sangam (720p)
-https://live.castmaxcloud.com/live/sdsangam2.m3u8
-#EXTINF:-1 tvg-name="Saudia Radio" group-title="International", Saudia Radio
-https://live.kwikmotion.com/sbrksasaudiaradiolive/srpksasaudiaradio/playlist.m3u8
-#EXTINF:-1 tvg-name="Shaheedan Live (576p)" group-title="International", Shaheedan Live (576p)
-https://mumt06.tangotv.in/qYyB8fXVSHAHEEDDANLIVE/index.m3u8
-#EXTINF:-1 tvg-name="Shaheedan Shahib (576p)" group-title="International", Shaheedan Shahib (576p)
-https://mumt03.tangotv.in/Dsly5z3HSHAHEEDBABADEEPSINGH/index.m3u8
-#EXTINF:-1 tvg-name="Shalom (576p)" group-title="International", Shalom (576p)
-https://mumt01.tangotv.in/O5aw8Zn3SHALOMTVINDIA/index.m3u8
-#EXTINF:-1 tvg-name="Shekinah TV (1080p)" group-title="International", Shekinah TV (1080p)
-https://livetv.timeiptv.in/ShekinahNewsIndia/955ad3298db330b5ee880c2c9e6f23a0.sdp/playlist.m3u8
 #EXTINF:-1 tvg-name="Shemaroo Bollywood" group-title="International", Shemaroo Bollywood
 https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg00864-shemarooenterta-shemabollywood-ono/playlist.m3u8
-#EXTINF:-1 tvg-name="Shemaroo Filmi Gaane (1080p)" group-title="International", Shemaroo Filmi Gaane (1080p)
-https://prod-runn.cdn.runn.tv/shemaroo/stream/smrfgn/playlist.m3u8
-#EXTINF:-1 tvg-name="Siri Kannada (576p)" group-title="International", Siri Kannada (576p)
-https://mumt03.tangotv.in/Dsly5z3HSIRIKANNADA/index.m3u8
-#EXTINF:-1 tvg-name="Soham TV (576p)" group-title="International", Soham TV (576p)
-https://mumt03.tangotv.in/Dsly5z3HSOHAMTV/index.m3u8
-#EXTINF:-1 tvg-name="Sony BBC Earth HD (1080p)" group-title="International", Sony BBC Earth HD (1080p)
-http://103.185.24.134:3001/SONY-BBC/index.m3u8
-#EXTINF:-1 tvg-name="Sony Max HD (1080p)" group-title="International", Sony Max HD (1080p)
-http://103.151.60.162:2122/play/a014/index.m3u8?hls
-#EXTINF:-1 tvg-name="Sony Pal (576p)" group-title="International", Sony Pal (576p)
-http://59.103.38.46:8000/play/a0ac/index.m3u8
-#EXTINF:-1 tvg-name="Sony Pix HD (1080p)" group-title="International", Sony Pix HD (1080p)
-http://103.151.60.162:2122/play/a01d/index.m3u8?hls
-#EXTINF:-1 tvg-name="Sony SAB (576p)" group-title="International", Sony SAB (576p)
-http://103.151.60.162:2122/play/a01q/index.m3u8?hls
-#EXTINF:-1 tvg-name="Sony SAB (720p)" group-title="International", Sony SAB (720p)
-https://drk6xq0vhn.gpcdn.net/live/sub_hd_abr/index.m3u8
-#EXTINF:-1 tvg-name="Sony Sports Ten 1 (576p)" group-title="International", Sony Sports Ten 1 (576p)
-http://103.151.60.162:2122/play/a01c/index.m3u8?hls
-#EXTINF:-1 tvg-name="Sony Sports Ten 1 HD (1080p)" group-title="International", Sony Sports Ten 1 HD (1080p)
-http://103.185.24.134:3001/SonyTenSports1/index.m3u8
-#EXTINF:-1 tvg-name="Sony Sports Ten 3 Hindi (576p)" group-title="International", Sony Sports Ten 3 Hindi (576p)
-http://103.151.60.162:2122/play/a01t/index.m3u8?hls
-#EXTINF:-1 tvg-name="Sony Sports Ten 4 Kannada (576p)" group-title="International", Sony Sports Ten 4 Kannada (576p)
-http://103.151.60.162:2122/play/a021/index.m3u8?hls
-#EXTINF:-1 tvg-name="Sony TV HD" group-title="International", Sony TV HD
-http://premimum.online:80/live/jen12345/jen54321/98854.ts
 #EXTINF:-1 tvg-name="South Movies" group-title="International", South Movies
 https://live20.bozztv.com/giatvplayout7/giatv-209593/tracks-v1a1/mono.ts.m3u8
 #EXTINF:-1 tvg-name="speed sports 1" group-title="International", speed sports 1
 https://linear-599.frequency.stream/dist/stirr/599/hls/master/playlist.m3u8
 #EXTINF:-1 tvg-name="Spice FM" group-title="International", Spice FM
 https://stream.spicefmbd.com/stream.m3u8
-#EXTINF:-1 tvg-name="Spondon (1080p)" group-title="International", Spondon (1080p)
-https://nktv.smartstream.video/smartstream-us/spondon/spondon/playlist.m3u8
 #EXTINF:-1 tvg-name="Sports Grid" group-title="International", Sports Grid
 https://tvsen6.aynaott.com/SportsGrid/index.m3u8?e=1784102516&u=ee5437a7-c16b-4700-b317-a41b77d5cba9&token=805223f37eb8e43994f002e68e736eea
-#EXTINF:-1 tvg-name="Star Jalsha (576p)" group-title="International", Star Jalsha (576p)
-http://103.151.60.162:2122/play/a00w/index.m3u8?hls
-#EXTINF:-1 tvg-name="Star Kiran (576p)" group-title="International", Star Kiran (576p)
-http://103.151.60.162:2122/play/a032/index.m3u8?hls
-#EXTINF:-1 tvg-id="ch-1377" tvg-name="Star Movies HD (1080p)" group-title="International", Star Movies HD (1080p)
-http://103.151.60.162:2122/play/a02k/index.m3u8?hls
-#EXTINF:-1 tvg-name="Star News" group-title="International", Star News
-https://owrcovcrpy.gpcdn.net/bpk-tv/1710/output/1701.m3u8
-#EXTINF:-1 tvg-name="Star Sports 2 (576p)" group-title="International", Star Sports 2 (576p)
-http://103.151.60.162:2122/play/a00v/index.m3u8?hls
-#EXTINF:-1 tvg-name="Star Sports 2 HD (720p)" group-title="International", Star Sports 2 HD (720p)
-http://tvsen5.aynascope.net/cXPB2LKkErN9/index.m3u8
-#EXTINF:-1 tvg-name="Star Sports 2 Hindi (720p)" group-title="International", Star Sports 2 Hindi (720p)
-https://tvsen5.aynaott.com/cXPB2LKkErN9/index.m3u8
-#EXTINF:-1 tvg-name="Star Sports 3 (576p)" group-title="International", Star Sports 3 (576p)
-http://103.151.60.162:2122/play/a029/index.m3u8?hls
-#EXTINF:-1 tvg-name="Star Sports Select 1 HD (1080p)" group-title="International", Star Sports Select 1 HD (1080p)
-http://103.151.60.162:2122/play/a026/index.m3u8?hls
-#EXTINF:-1 tvg-name="StarPlus HD (1080p)" group-title="International", StarPlus HD (1080p)
-http://66.102.126.10:8000/play/a008/index.m3u8
-#EXTINF:-1 tvg-name="STV Haryana News (576p)" group-title="International", STV Haryana News (576p)
-https://fta.ektv.in/live/607/master.m3u8
-#EXTINF:-1 tvg-name="Superhitz (576p)" group-title="International", Superhitz (576p)
-http://103.151.60.162:2122/play/a02f/index.m3u8?hls
-#EXTINF:-1 tvg-name="SVBC 2 (576p)" group-title="International", SVBC 2 (576p)
-https://mumt03.tangotv.in/Dsly5z3HSVBC2TAMIL/index.m3u8
-#EXTINF:-1 tvg-name="SVBC 3 (576p)" group-title="International", SVBC 3 (576p)
-https://mumt01.tangotv.in/O5aw8Zn3SVBC3KANNADA/index.m3u8
 #EXTINF:-1 tvg-name="SYFY TV" group-title="International", SYFY TV
 https://tvsen7.aynaott.com/syfy/index.m3u8?e=1784102623&u=ee5437a7-c16b-4700-b317-a41b77d5cba9&token=5e174d1f2948823df1ef557767e4aa8d
-#EXTINF:-1 tvg-name="Tamil Janam (576p)" group-title="International", Tamil Janam (576p)
-https://mumt01.tangotv.in/O5aw8Zn3JANAMTVTAMIL/index.m3u8
-#EXTINF:-1 tvg-name="TAQBEER" group-title="International", TAQBEER
-https://tvsen7.aynaott.com/takbeer/index.m3u8?e=1784102625&u=ee5437a7-c16b-4700-b317-a41b77d5cba9&token=81782f6025584e79ffd591d834ff3fb0
-#EXTINF:-1 tvg-name="Tarang TV (576p)" group-title="International", Tarang TV (576p)
-https://mumbai-edge.smartplaytv.in/tarang/index.m3u8
-#EXTINF:-1 tvg-name="Ten Cricket (576p)" group-title="International", Ten Cricket (576p)
-http://103.151.60.162:2122/play/a0fj/index.m3u8?hls
-#EXTINF:-1 tvg-name="The Q" group-title="International", The Q
-https://tvsen6.aynaott.com/3PjZZahm/index.m3u8?e=1784102596&u=ee5437a7-c16b-4700-b317-a41b77d5cba9&token=92ddc6a5821e135aef133dbd8b8b6fc7
-#EXTINF:-1 tvg-name="Times Now (720p) [Geo-blocked]" group-title="International", Times Now (720p) [Geo-blocked]
-https://dztlhgid9me95.cloudfront.net/live-tv/Vidgyor/timesnow/timesnow_master.m3u8
 #EXTINF:-1 tvg-name="Times Now Navbharat (1080p)" group-title="International", Times Now Navbharat (1080p)
 https://d3qs3d2rkhfqrt.cloudfront.net/out/v1/a5ee7c4e7a2a4b15a22a3bcf523b9776/index.m3u8
 #EXTINF:-1 tvg-name="TNT Music" group-title="International", TNT Music
 https://tntm.mediacdn.ru/cdn/tntmusic/playlist.m3u8
 #EXTINF:-1 tvg-name="Trace Sport" group-title="International", Trace Sport
 https://lightning-tracesport-samsungau.amagi.tv/playlist.m3u8
-#EXTINF:-1 tvg-name="Travelxp 4K HDR (2160p) [Geo-blocked]" group-title="International", Travelxp 4K HDR (2160p) [Geo-blocked]
-https://deltatesttatasky.akamaized.net/out/i/968284.m3u8
-#EXTINF:-1 tvg-name="Travelxp HD (1080p)" group-title="International", Travelxp HD (1080p)
-http://103.151.60.162:2122/play/a01s/index.m3u8?hls
-#EXTINF:-1 tvg-name="TV Punjab (720p) [Geo-blocked]" group-title="International", TV Punjab (720p) [Geo-blocked]
-https://932y483pdjv8-hls-live.5centscdn.com/stream/deb10bae362f810630ec3abedcae5894.sdp/playlist.m3u8
-#EXTINF:-1 tvg-name="TV13 Gujarati (480p)" group-title="International", TV13 Gujarati (480p)
-https://live.wrencdn.in/wrencdn/hls/tv13_web/index.m3u8
-#EXTINF:-1 tvg-name="Unite8 Sports 1" group-title="International", Unite8 Sports 1
-https://tvsen6.aynaott.com/superlaliga/index.m3u8?e=1784102509&u=ee5437a7-c16b-4700-b317-a41b77d5cba9&token=b6e220b27addbd7e852fe6671bff5738
-#EXTINF:-1 tvg-name="Unite8 Sports 2 (576p)" group-title="International", Unite8 Sports 2 (576p)
-http://103.151.60.162:2122/play/a01m/index.m3u8?hls
-#EXTINF:-1 tvg-name="Vaanavil TV (576p)" group-title="International", Vaanavil TV (576p)
-https://mumt01.tangotv.in/O5aw8Zn3VAANAVILTV/index.m3u8
-#EXTINF:-1 tvg-name="Valam TV Dayro (576p)" group-title="International", Valam TV Dayro (576p)
-https://mumt03.tangotv.in/Dsly5z3HVALAMDAIRO/index.m3u8
-#EXTINF:-1 tvg-name="Vijay Takkar APAC (1080p)" group-title="International", Vijay Takkar APAC (1080p)
-https://tglmp01.akamaized.net/out/v1/c1071012b73f4f189b202e1529e8f802/manifest.mpd
-#EXTINF:-1 tvg-name="VIP News (360p)" group-title="International", VIP News (360p)
-https://live.vipnews24x7.co.in/vipnews24x7/d0dbe915091d400bd8ee7f27f0791303.sdp/playlist.m3u8
-#EXTINF:-1 tvg-name="Vokta TV (720p)" group-title="International", Vokta TV (720p)
-https://vokta.raytahost.com/live/voktatv/index.m3u8
-#EXTINF:-1 tvg-name="WEATHER CHANNEL" group-title="International", WEATHER CHANNEL
-https://tvsen6.aynaott.com/TheWeatherChannel/index.m3u8?e=1784102549&u=ee5437a7-c16b-4700-b317-a41b77d5cba9&token=c4aa612a94336a51a339dd5c52d6242d
 #EXTINF:-1 tvg-name="Welcome to PlayZ TV" group-title="International", Welcome to PlayZ TV
 https://playztv.pages.dev/promo/master.m3u8
 #EXTINF:-1 tvg-name="Willow Extra" group-title="International", Willow Extra
 http://27.124.71.27/Willow_Extra/index.m3u8
 #EXTINF:-1 tvg-name="WOF 1" group-title="International", WOF 1
 https://mainstreammedia-worldoffreesportsintl-rakuten.amagi.tv/hls/amagi_hls_data_rakutenAA-mainstreammediafreesportsintl-rakuten/CDN/master.m3u8
-#EXTINF:-1 tvg-name="Zee Action (576p)" group-title="International", Zee Action (576p)
-https://fta.ektv.in/live/270/master.m3u8
-#EXTINF:-1 tvg-name="Zee Bangla (576p)" group-title="International", Zee Bangla (576p)
-http://103.151.60.162:2122/play/a011/index.m3u8?hls
-#EXTINF:-1 tvg-name="Zee Cine Classic (1080p)" group-title="International", Zee Cine Classic (1080p)
-https://amg00862-amg00862c8-amgplt0173.playout.now3.amagi.tv/playlist/amg00862-amg00862c8-amgplt0173/playlist.m3u8
-#EXTINF:-1 tvg-name="Zee Comedy Nation (1080p)" group-title="International", Zee Comedy Nation (1080p)
-https://amg00862-amg00862c5-amgplt0173.playout.now3.amagi.tv/playlist/amg00862-amg00862c5-amgplt0173/playlist.m3u8
-#EXTINF:-1 tvg-name="Zee Dil Se (1080p)" group-title="International", Zee Dil Se (1080p)
-https://amg00862-amg00862c6-amgplt0173.playout.now3.amagi.tv/playlist/amg00862-amg00862c6-amgplt0173/playlist.m3u8
-#EXTINF:-1 tvg-name="Zee Horror Nights (1080p)" group-title="International", Zee Horror Nights (1080p)
-https://amg00862-amg00862c7-amgplt0173.playout.now3.amagi.tv/playlist/amg00862-amg00862c7-amgplt0173/playlist.m3u8
-#EXTINF:-1 tvg-name="Zee South Flix (1080p)" group-title="International", Zee South Flix (1080p)
-https://amg00862-amg00862c9-amgplt0173.playout.now3.amagi.tv/playlist/amg00862-amg00862c9-amgplt0173/playlist.m3u8
-#EXTINF:-1 tvg-name="Zee Tamil (576p) [Geo-blocked]" group-title="International", Zee Tamil (576p) [Geo-blocked]
-https://ev-eu-hw-fast-mpd.starzplayarabia.com/Zee_Tamil/dash/drm/index.mpd
-#EXTINF:-1 tvg-name="Zee TV (576p)" group-title="International", Zee TV (576p)
-http://103.151.60.162:2122/play/a01u/index.m3u8?hls
-#EXTINF:-1 tvg-name="Zee TV HD (720p) [Geo-blocked]" group-title="International", Zee TV HD (720p) [Geo-blocked]
-http://41.205.93.154/ZEE-TV/index.m3u8
+#EXTINF:-1 tvg-id="jagobd-anandabarta" tvg-name="Anandabarta" group-title="International", Anandabarta
+https://app24.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMFDEEHGcfRgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcEdsEfeDeKiNkVN3PTOmdFseWRtaW51aiPhnPTI2/anandabarta.stream/playlist.m3u8
+#EXTINF:-1 tvg-id="jagobd-bprimebangla" tvg-name="Bprimebangla" group-title="International", Bprimebangla
+https://app24.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMFDEEHGcfRgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcEdsEfeDeKiNkVN3PTOmdFseWRtaW51aiPhnPTI2/Bprimebangla.stream/playlist.m3u8
+#EXTINF:-1 tvg-name="Captain (576p)" group-title="International", Captain (576p)
+https://fta.ektv.in/live/173/master.m3u8
+#EXTINF:-1 tvg-name="Colors Bangla HD (1080p)" group-title="International", Colors Bangla HD (1080p)
+http://103.151.60.162:2122/play/a02o/index.m3u8?hls
+#EXTINF:-1 tvg-id="aynaott-kids-tv" tvg-name="Kids TV" group-title="International", Kids TV
+http://origin5.mediacdn.ru/live/kidstv/index.m3u8
+#EXTINF:-1 tvg-name="Nanaksar Live (720p)" group-title="International", Nanaksar Live (720p)
+https://mumt01.tangotv.in/O5aw8Zn3NANAKSARLIVE/index.m3u8
+#EXTINF:-1 tvg-name="Nick Jr. (576p)" group-title="International", Nick Jr. (576p)
+http://103.151.60.162:2122/play/a00s/index.m3u8?hls
+#EXTINF:-1 tvg-id="aynaott-oan" tvg-name="OAN " group-title="International", OAN
+https://a-cdn.klowdtv.com/live1/oan_720p/playlist.m3u8
+#EXTINF:-1 tvg-name="Rajdhani TV (1080p)" group-title="International", Rajdhani TV (1080p)
+https://stream.shariarsuvo.com/hls5/rajdhanicable.m3u8
+#EXTINF:-1 tvg-id="jagobd-ruposhibangla" tvg-name="Ruposhibangla" group-title="International", Ruposhibangla
+https://static.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMFDEEHGcfRgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcEdsEfeDeKiNkVN3PTOmdFseWRtaW51aiPhnPTI2/ruposhibangla.stream/playlist.m3u8?wmsAuthSign=|Referer=https://www.jagobd.com/
+#EXTINF:-1 tvg-name="Sonic (576p)" group-title="International", Sonic (576p)
+http://103.151.60.162:2122/play/a02v/index.m3u8?hls
+#EXTINF:-1 tvg-name="Star Gold 2 HD (1080p)" group-title="International", Star Gold 2 HD (1080p)
+http://103.151.60.162:2122/play/a01v/index.m3u8?hls
+#EXTINF:-1 tvg-name="Star Jalsha (1080p) [Geo-blocked]" group-title="International", Star Jalsha (1080p) [Geo-blocked]
+http://cdn98.com/play/live.php?extension=ts&mac=00:1A:79:99:54:11&play_token=o1cczsG9wV&stream=225805
+#EXTINF:-1 tvg-name="Vanitha TV (576p)" group-title="International", Vanitha TV (576p)
+https://mumbai-edge.smartplaytv.in/VanithaTV/index.m3u8
+#EXTINF:-1 tvg-name="Win TV (576p)" group-title="International", Win TV (576p)
+https://mumbai-edge.smartplaytv.in/WINTV/index.m3u8
+#EXTINF:-1 tvg-name="Zee Bharat (576p)" group-title="International", Zee Bharat (576p)
+https://fta.ektv.in/live/244/master.m3u8
+#EXTINF:-1 tvg-name="Zee Cinema HD (1080p)" group-title="International", Zee Cinema HD (1080p)
+http://103.151.60.162:2122/play/a012/index.m3u8?hls
