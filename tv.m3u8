@@ -65,12 +65,6 @@ https://ekusheyserver.com/hls-live/livepkgr/_definst_/liveevent/livestream3.m3u8
 https://tvsen6.aynaott.com/39ee93nUbCCmm5LsyD4t/index.m3u8
 #EXTINF:-1 tvg-name="Bijoy TV" group-title="Bangla", Bijoy TV
 https://tvsen6.aynaott.com/N8Xbo5vdwVU6sF43RsW0/index.m3u8
-#EXTINF:-1 tvg-name="TIKANA TV" group-title="Bangla", TIKANA TV
-https://app24.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMFDEEHGcfRgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcEdsEfeDeKiNkVN3PTOmdFseWRtaW51aiPhnPTI2/thikanatv.stream/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-name="Matri Bhumi TV" group-title="Bangla", Matri Bhumi TV
-https://app24.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMFDEEHGcfRgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcEdsEfeDeKiNkVN3PTOmdFseWRtaW51aiPhnPTI2/matribhumitv.stream/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-name="Prime TV" group-title="Bangla", Prime TV
-https://app24.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMFDEEHGcfRgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcEdsEfeDeKiNkVN3PTOmdFseWRtaW51aiPhnPTI2/primetv.stream/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-name="Sananda TV" group-title="Bangla", Sananda TV
 https://tvsen6.aynaott.com/LeUAm4F1iixYns3s3Non/index.m3u8
 #EXTINF:-1 tvg-name="RAJDHANI TV HD" group-title="Bangla", RAJDHANI TV HD
@@ -79,26 +73,14 @@ https://stream.shariarsuvo.com/hls5/rajdhanicable.m3u8
 http://103.190.133.68:1935/news21live/live/playlist.m3u8
 #EXTINF:-1 tvg-name="Deshi TV" group-title="Bangla", Deshi TV
 https://deshitv.deshitv24.net/live/myStream/playlist.m3u8
-#EXTINF:-1 tvg-name="ME TV" group-title="Bangla", ME TV
-https://iptvbd.live/metv1080/1080.m3u8
-#EXTINF:-1 tvg-name="NAN TV" group-title="Bangla", NAN TV
-https://app.ncare.live/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI2/nantv.stream/playlist.m3u8
-#EXTINF:-1 tvg-name="JonmoBhumi TV" group-title="Bangla", JonmoBhumi TV
-https://jtvs.ncare.live/Gznr84Woj7UEye3OPVeWq2ForboWAgdV/jonmobhumitv.stream/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-id="aynaott-channel-52" tvg-name="Channel 52" group-title="Bangla", Channel 52
 https://tvsen6.aynaott.com/channel52/index.m3u8
 #EXTINF:-1 tvg-id="aynaott-btv-ctg" tvg-name="BTV CTG" group-title="Bangla", BTV CTG
 https://tvsen6.aynaott.com/TjGR1GcxKetHNVcMVxbq/index.m3u8
 #EXTINF:-1 tvg-id="aynaott-goldmines-bollywood" tvg-name="Goldmines Bollywood" group-title="Bangla", Goldmines Bollywood
 https://fta.ektv.in/live/52/52_0.m3u8
-#EXTINF:-1 tvg-id="aynaott-tbs" tvg-name="TBS" group-title="Bangla", TBS
-https://tvsen6.aynaott.com/tbs/index.m3u8
 #EXTINF:-1 tvg-id="aynaott-drama-24" tvg-name="Drama 24" group-title="Bangla", Drama 24
 https://vods2.aynaott.com/gseriesDrama/index.m3u8
-#EXTINF:-1 tvg-id="aynaott-madani-tv" tvg-name="MADANI TV" group-title="Bangla", MADANI TV
-https://tvsen3.aynaott.com/z24qLsqV/index.m3u8
-#EXTINF:-1 tvg-id="aynaott-deen-tv" tvg-name="Deen TV" group-title="Bangla", Deen TV
-https://tvsen3.aynaott.com/TJcnZW3U/index.m3u8
 #EXTINF:-1 tvg-id="aynaott-sony-aath" tvg-name="Sony AATH" group-title="Indian", Sony AATH
 https://live20.bozztv.com/giatvplayout7/giatv-209611/index.m3u8
 #EXTINF:-1 tvg-id="aynaott-abn" tvg-name="ABN" group-title="Bangla", ABN
@@ -107,20 +89,12 @@ https://mediaserver.abnvideos.com/streams/abnurdu.m3u8
 https://tvsen3.aynaott.com/u3NjUrny/index.m3u8
 #EXTINF:-1 tvg-id="aynaott-hindi-movie-classic-24" tvg-name="Hindi Movie Classic 24" group-title="Indian", Hindi Movie Classic 24
 https://vods2.aynaott.com/hindimovies/index.m3u8
-#EXTINF:-1 tvg-id="aynaott-b4u-kadak" tvg-name="B4U Kadak" group-title="Bangla", B4U Kadak
-https://tvsen3.aynaott.com/X9E6bxg3/index.m3u8
-#EXTINF:-1 tvg-id="aynaott-enter-10-bangla" tvg-name="Enter 10 Bangla" group-title="Bangla", Enter 10 Bangla
-https://live-bangla.akamaized.net/liveabr/playlist.m3u8
-#EXTINF:-1 tvg-id="aynaott-thikana" tvg-name="Thikana" group-title="Bangla", Thikana
-https://5dd3981940faa.streamlock.net:443/thikanatv/thikanatv/playlist.m3u8
 #EXTINF:-1 tvg-id="aynaott-etv" tvg-name="ETV" group-title="Bangla", ETV
 https://tvsen5.aynaott.com/SyQuXz8sC3TB/index.m3u8
 #EXTINF:-1 tvg-id="jagobd-ruposhibangla" tvg-name="Ruposhibangla" group-title="Bangla", Ruposhibangla
 https://app24.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMFDEEHGcfRgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcEdsEfeDeKiNkVN3PTOmdFseWRtaW51aiPhnPTI2/ruposhibangla.stream/playlist.m3u8
 #EXTINF:-1 tvg-id="jagobd-peacetvbangla" tvg-name="Peacetvbangla" group-title="Bangla", Peacetvbangla
 https://app24.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMFDEEHGcfRgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcEdsEfeDeKiNkVN3PTOmdFseWRtaW51aiPhnPTI2/peacetvban.stream/playlist.m3u8
-#EXTINF:-1 tvg-id="jagobd-deshebideshe-tv" tvg-name="Deshebideshe Tv" group-title="Bangla", Deshebideshe Tv
-https://app24.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMFDEEHGcfRgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcEdsEfeDeKiNkVN3PTOmdFseWRtaW51aiPhnPTI2/deshebideshe.stream/playlist.m3u8
 #EXTINF:-1 tvg-id="aynaott-goldmines-movies" tvg-name="Goldmines Movies" group-title="Bangla", Goldmines Movies
 http://103.175.73.12:8080/live/51/51_0.m3u8
 #EXTINF:-1 tvg-id="aynaott-sangeet-bangla" tvg-name="Sangeet Bangla" group-title="Bangla", Sangeet Bangla
@@ -245,3 +219,7 @@ https://shd-amg-fast.edgenextcdn.net/tx011/playlist.m3u8
 https://shd-amg-fast.edgenextcdn.net/tx012/playlist.m3u8
 #EXTINF:-1 tvg-name="SYFY (720p)" group-title="Movies", SYFY (720p)
 http://23.237.104.106:8080/USA_SYFY/index.m3u8
+#EXTINF:-1 tvg-name="Star Movies (India) HD (1080p)" group-title="English Movies", Star Movies (India) HD (1080p)
+http://103.135.253.32:8080/STAR-MOVIES/index.m3u8
+#EXTINF:-1 tvg-name="Star Movies Select HD (1080p)" group-title="English Movies", Star Movies Select HD (1080p)
+https://livetv.shamon-cable.net:8443/Star-movies-select/index.m3u8
