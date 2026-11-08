@@ -45,8 +45,6 @@ https://tvsen6.aynaott.com/AkyX5dunzju4cpo26dr7/index.m3u8
 https://app24.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMFDEEHGcfRgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcEdsEfeDeKiNkVN3PTOmdFseWRtaW51aiPhnPTI2/mytv-up-off.stream/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-name="Asian TV" group-title="Bangla", Asian TV
 https://app24.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMFDEEHGcfRgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcEdsEfeDeKiNkVN3PTOmdFseWRtaW51aiPhnPTI2/asian-test-sample-ok-d.stream/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-name="Anando TV" group-title="Bangla", Anando TV
-https://app24.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMFDEEHGcfRgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcEdsEfeDeKiNkVN3PTOmdFseWRtaW51aiPhnPTI2/anandatv.stream/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-name="Nexus TV HD" group-title="Bangla", Nexus TV HD
 https://tvsen6.aynaott.com/Epm7WrFa/index.m3u8
 #EXTINF:-1 tvg-name="Channel S" group-title="Bangla", Channel S
@@ -77,34 +75,32 @@ https://deshitv.deshitv24.net/live/myStream/playlist.m3u8
 https://tvsen6.aynaott.com/channel52/index.m3u8
 #EXTINF:-1 tvg-id="aynaott-btv-ctg" tvg-name="BTV CTG" group-title="Bangla", BTV CTG
 https://tvsen6.aynaott.com/TjGR1GcxKetHNVcMVxbq/index.m3u8
-#EXTINF:-1 tvg-id="aynaott-goldmines-bollywood" tvg-name="Goldmines Bollywood" group-title="Bangla", Goldmines Bollywood
-https://fta.ektv.in/live/52/52_0.m3u8
-#EXTINF:-1 tvg-id="aynaott-drama-24" tvg-name="Drama 24" group-title="Bangla", Drama 24
-https://vods2.aynaott.com/gseriesDrama/index.m3u8
-#EXTINF:-1 tvg-id="aynaott-sony-aath" tvg-name="Sony AATH" group-title="Indian", Sony AATH
-https://live20.bozztv.com/giatvplayout7/giatv-209611/index.m3u8
-#EXTINF:-1 tvg-id="aynaott-abn" tvg-name="ABN" group-title="Bangla", ABN
-https://mediaserver.abnvideos.com/streams/abnurdu.m3u8
-#EXTINF:-1 tvg-id="aynaott-hbo-2" tvg-name="HBO 2" group-title="Movies", HBO 2
-https://tvsen3.aynaott.com/u3NjUrny/index.m3u8
-#EXTINF:-1 tvg-id="aynaott-hindi-movie-classic-24" tvg-name="Hindi Movie Classic 24" group-title="Indian", Hindi Movie Classic 24
-https://vods2.aynaott.com/hindimovies/index.m3u8
 #EXTINF:-1 tvg-id="aynaott-etv" tvg-name="ETV" group-title="Bangla", ETV
 https://tvsen5.aynaott.com/SyQuXz8sC3TB/index.m3u8
-#EXTINF:-1 tvg-id="jagobd-ruposhibangla" tvg-name="Ruposhibangla" group-title="Bangla", Ruposhibangla
-https://app24.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMFDEEHGcfRgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcEdsEfeDeKiNkVN3PTOmdFseWRtaW51aiPhnPTI2/ruposhibangla.stream/playlist.m3u8
+#EXTINF:-1 tvg-name="Green TV" group-title="Bangla", Green TV
+https://tvsen6.aynaott.com/cLuA3hJR/index.m3u8?e=1784102578&u=ee5437a7-c16b-4700-b317-a41b77d5cba9&token=57bcdefd396bd85d72461ff29cbde00d
+#EXTINF:-1 tvg-name="Gazi TV" group-title="Bangla", Gazi TV
+https://tvsen5.aynaott.com/Ravc7gPCZpxk/index.m3u8?e=1784102565&u=ee5437a7-c16b-4700-b317-a41b77d5cba9&token=36497099fc726a799b13d41016259efc
+#EXTINF:-1 tvg-name="Channel 16" group-title="Bangla", Channel 16
+http://103.121.61.218/tmp_hls/f64eac11f2cd8f0efa196f8ad173178e/index.m3u8
 #EXTINF:-1 tvg-id="jagobd-peacetvbangla" tvg-name="Peacetvbangla" group-title="Bangla", Peacetvbangla
 https://app24.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMFDEEHGcfRgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcEdsEfeDeKiNkVN3PTOmdFseWRtaW51aiPhnPTI2/peacetvban.stream/playlist.m3u8
+#EXTINF:-1 tvg-id="aynaott-drama-24" tvg-name="Drama 24" group-title="Bangla", Drama 24
+https://vods2.aynaott.com/gseriesDrama/index.m3u8
+#EXTINF:-1 tvg-id="aynaott-abn" tvg-name="ABN" group-title="Bangla", ABN
+https://mediaserver.abnvideos.com/streams/abnurdu.m3u8
+#EXTINF:-1 tvg-id="aynaott-goldmines-bollywood" tvg-name="Goldmines Bollywood" group-title="Bangla", Goldmines Bollywood
+https://fta.ektv.in/live/52/52_0.m3u8
+#EXTINF:-1 tvg-id="aynaott-sony-aath" tvg-name="Sony AATH" group-title="Indian", Sony AATH
+https://live20.bozztv.com/giatvplayout7/giatv-209611/index.m3u8
+#EXTINF:-1 tvg-id="aynaott-hbo-2" tvg-name="HBO 2" group-title="Movies", HBO 2
+https://tvsen3.aynaott.com/u3NjUrny/index.m3u8
 #EXTINF:-1 tvg-id="aynaott-goldmines-movies" tvg-name="Goldmines Movies" group-title="Bangla", Goldmines Movies
 http://103.175.73.12:8080/live/51/51_0.m3u8
 #EXTINF:-1 tvg-id="aynaott-sangeet-bangla" tvg-name="Sangeet Bangla" group-title="Bangla", Sangeet Bangla
 https://mumt05.tangotv.in/87NeALx2SANGEETBANGLA/index.m3u8
-#EXTINF:-1 tvg-name="Green TV" group-title="Bangla", Green TV
-https://app.ncare.live/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI2/greentv.stream/live-orgin/greentv.stream/playlist.m3u8
-#EXTINF:-1 tvg-name="Channel 16" group-title="Bangla", Channel 16
-http://103.121.61.218/tmp_hls/f64eac11f2cd8f0efa196f8ad173178e/index.m3u8
 #EXTINF:-1 tvg-name="Aakaash Aath (576p)" group-title="Bangla", Aakaash Aath (576p)
-http://tvsen5.aynascope.net/Wm9Lv2RjZGT6/index.m3u8
+https://cdn.pishow.tv/ott/live/969/master.m3u8
 #EXTINF:-1 tvg-name="Aamar Bangla (720p)" group-title="Bangla", Aamar Bangla (720p)
 https://app.ncare.live/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI/amarbanglatv.stream/playlist.m3u8
 #EXTINF:-1 tvg-name="Bangla Jago (720p)" group-title="Bangla", Bangla Jago (720p)
@@ -131,8 +127,6 @@ https://sl.vodep39240327.workers.dev/channel/SONY+WAH.m3u8
 https://da86m1sqpm3o0.cloudfront.net/28072023/smil:starjalsha.smil/chunklist_b1928000.m3u8
 #EXTINF:-1 tvg-name="Zee Bangla HD (720p)" group-title="Bangla", Zee Bangla HD (720p)
 https://raw.githubusercontent.com/amazeyourself/adaptive-streams/refs/heads/main/streams/in/YuppTV/ZeeBanglaHD.m3u8
-#EXTINF:-1 tvg-id="aynaott-zee-bangla-sonar" tvg-name="Zee Bangla Sonar" group-title="Bangla", Zee Bangla Sonar
-http://103.185.24.134:3001/ZEE-BANGLA-CINEMA/index.m3u8
 #EXTINF:-1 tvg-name="Zee Cinema APAC (720p)" group-title="Indian", Zee Cinema APAC (720p)
 https://raw.githubusercontent.com/amazeyourself/adaptive-streams/refs/heads/main/streams/sg/YuppTV/ZeeCinemaAPAC.m3u8
 #EXTINF:-1 tvg-name="[BD] Animal Planet" group-title="Bangla", [BD] Animal Planet
@@ -147,8 +141,6 @@ https://tvsen3.aynaott.com/9tYGMmMS/index.m3u8
 https://live20.bozztv.com/giatvplayout7/giatv-209611/index.m3u8
 #EXTINF:-1 tvg-name="Doraemon" group-title="Bangla", Doraemon
 https://live20.bozztv.com/giatvplayout7/giatv-209902/tracks-v1a1/mono.ts.m3u8
-#EXTINF:-1 tvg-name="Gazi TV" group-title="Bangla", Gazi TV
-http://tvn1.chowdhury-shaheb.com/gazitv/index.m3u8
 #EXTINF:-1 tvg-id="ch-16" tvg-name="Gazi TV (720p)" group-title="Bangla", Gazi TV (720p)
 https://app.ncare.live/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI2/gazibdz.stream/live-orgin/gazibdz.stream/playlist.m3u8
 #EXTINF:-1 tvg-id="aynaott-hbo" tvg-name="HBO" group-title="Bangla", HBO
@@ -173,10 +165,8 @@ http://88.212.15.50/live/test_black/playlist.m3u8
 https://drk6xq0vhn.gpcdn.net/live/cn_sd_abr/index.m3u8
 #EXTINF:-1 tvg-name="Hindi Hits HD" group-title="Indian", Hindi Hits HD
 http://146.59.253.52:8080/hindihitshd/index.m3u8
-#EXTINF:-1 tvg-name="Hindi Movies" group-title="Indian", Hindi Movies
-https://live20.bozztv.com/giatvplayout7/giatv-209612/tracks-v1a1/mono.ts.m3u8
 #EXTINF:-1 tvg-name="Nick Jr. (India) (576p)" group-title="Indian", Nick Jr. (India) (576p)
-http://103.151.60.162:2122/play/a00s/index.m3u8?hls
+http://103.185.24.134:3001/NICK-JR/index.m3u8
 #EXTINF:-1 tvg-id="ch-6778" tvg-name="NickOnline HD (720p)" group-title="Indian", NickOnline HD (720p)
 https://x1colegal.com/hls/stream.m3u8
 #EXTINF:-1 tvg-name="Sony Movies (United States) (720p)" group-title="Indian", Sony Movies (United States) (720p)
@@ -195,16 +185,10 @@ https://live20.bozztv.com/giatvplayout7/giatv-209593/tracks-v1a1/mono.ts.m3u8
 http://actionlive.siliconweb.com/actionabr/actiontv/playlist.m3u8
 #EXTINF:-1 tvg-name="Action Hollywood Movies" group-title="Movies", Action Hollywood Movies
 https://cdn-apse1-prod.tsv2.amagi.tv/linear/amg01076-lightningintern-actionhollywood-samsungnz/playlist.m3u8
-#EXTINF:-1 tvg-name="ARTFLIX Movie Classics (720p)" group-title="Movies", ARTFLIX Movie Classics (720p)
-https://amogonetworx-artflix-1-nl.samsung.wurl.tv/playlist.m3u8
-#EXTINF:-1 tvg-name="HBO (United States) (720p)" group-title="Movies", HBO (United States) (720p)
-http://tvsen7.aynascope.net/hbo/index.m3u8
 #EXTINF:-1 tvg-name="HBO Asia HD (1080p)" group-title="Movies", HBO Asia HD (1080p)
 http://202.150.165.66:8088/play/100-HBO/index.m3u8
 #EXTINF:-1 tvg-id="ch-4767" tvg-name="HBO Family Asia HD (1080p)" group-title="Movies", HBO Family Asia HD (1080p)
 http://202.150.165.66:8088/play/103-HBOFamily/index.m3u8
-#EXTINF:-1 tvg-name="HBO Hits (720p)" group-title="Movies", HBO Hits (720p)
-http://tvsen7.aynascope.net/hbo2/index.m3u8
 #EXTINF:-1 tvg-name="HBO Hits Asia HD (1080p)" group-title="Movies", HBO Hits Asia HD (1080p)
 http://202.150.165.66:8088/play/102-HBOHits/index.m3u8
 #EXTINF:-1 tvg-id="ch-4771" tvg-name="HBO Latin America (1080p)" group-title="Movies", HBO Latin America (1080p)
@@ -219,7 +203,9 @@ https://shd-amg-fast.edgenextcdn.net/tx011/playlist.m3u8
 https://shd-amg-fast.edgenextcdn.net/tx012/playlist.m3u8
 #EXTINF:-1 tvg-name="SYFY (720p)" group-title="Movies", SYFY (720p)
 http://23.237.104.106:8080/USA_SYFY/index.m3u8
-#EXTINF:-1 tvg-name="Star Movies (India) HD (1080p)" group-title="English Movies", Star Movies (India) HD (1080p)
+#EXTINF:-1 tvg-name="Star Movies (India) HD (1080p)" group-title="Indian", Star Movies (India) HD (1080p)
 http://103.135.253.32:8080/STAR-MOVIES/index.m3u8
-#EXTINF:-1 tvg-name="Star Movies Select HD (1080p)" group-title="English Movies", Star Movies Select HD (1080p)
+#EXTINF:-1 tvg-name="Star Movies Select HD (1080p)" group-title="Movies", Star Movies Select HD (1080p)
 https://livetv.shamon-cable.net:8443/Star-movies-select/index.m3u8
+#EXTINF:-1 tvg-name="AXN Black (United States) Hungary (576p)" group-title="English Drama", AXN Black (United States) Hungary (576p)
+http://141.94.193.53/axn_black/index.m3u8
