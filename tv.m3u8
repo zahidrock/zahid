@@ -75,12 +75,14 @@ https://deshitv.deshitv24.net/live/myStream/playlist.m3u8
 https://tvsen6.aynaott.com/channel52/index.m3u8
 #EXTINF:-1 tvg-id="aynaott-btv-ctg" tvg-name="BTV CTG" group-title="Bangla", BTV CTG
 https://tvsen6.aynaott.com/TjGR1GcxKetHNVcMVxbq/index.m3u8
+#EXTINF:-1 tvg-name="Channel 9" group-title="Bangla", Channel 9
+https://tvsen6.aynaott.com/kajlsd57jnzxyo/index.m3u8
 #EXTINF:-1 tvg-id="aynaott-etv" tvg-name="ETV" group-title="Bangla", ETV
 https://tvsen5.aynaott.com/SyQuXz8sC3TB/index.m3u8
 #EXTINF:-1 tvg-name="Green TV" group-title="Bangla", Green TV
 https://tvsen6.aynaott.com/cLuA3hJR/index.m3u8?e=1784102578&u=ee5437a7-c16b-4700-b317-a41b77d5cba9&token=57bcdefd396bd85d72461ff29cbde00d
 #EXTINF:-1 tvg-name="Gazi TV" group-title="Bangla", Gazi TV
-https://tvsen5.aynaott.com/Ravc7gPCZpxk/index.m3u8?e=1784102565&u=ee5437a7-c16b-4700-b317-a41b77d5cba9&token=36497099fc726a799b13d41016259efc
+http://103.135.253.32:8080/Gazi-TV/index.m3u8
 #EXTINF:-1 tvg-name="Channel 16" group-title="Bangla", Channel 16
 http://103.121.61.218/tmp_hls/f64eac11f2cd8f0efa196f8ad173178e/index.m3u8
 #EXTINF:-1 tvg-id="jagobd-peacetvbangla" tvg-name="Peacetvbangla" group-title="Bangla", Peacetvbangla
@@ -165,8 +167,6 @@ http://88.212.15.50/live/test_black/playlist.m3u8
 https://drk6xq0vhn.gpcdn.net/live/cn_sd_abr/index.m3u8
 #EXTINF:-1 tvg-name="Hindi Hits HD" group-title="Indian", Hindi Hits HD
 http://146.59.253.52:8080/hindihitshd/index.m3u8
-#EXTINF:-1 tvg-name="Nick Jr. (India) (576p)" group-title="Indian", Nick Jr. (India) (576p)
-http://103.185.24.134:3001/NICK-JR/index.m3u8
 #EXTINF:-1 tvg-id="ch-6778" tvg-name="NickOnline HD (720p)" group-title="Indian", NickOnline HD (720p)
 https://x1colegal.com/hls/stream.m3u8
 #EXTINF:-1 tvg-name="Sony Movies (United States) (720p)" group-title="Indian", Sony Movies (United States) (720p)
@@ -209,3 +209,37 @@ http://103.135.253.32:8080/STAR-MOVIES/index.m3u8
 https://livetv.shamon-cable.net:8443/Star-movies-select/index.m3u8
 #EXTINF:-1 tvg-name="AXN Black (United States) Hungary (576p)" group-title="English Drama", AXN Black (United States) Hungary (576p)
 http://141.94.193.53/axn_black/index.m3u8
+#EXTINF:-1 tvg-name="Colors Bangla Cinema (576p)" group-title="Bangla Movies", Colors Bangla Cinema (576p)
+http://103.135.253.32:8080/COLORS-BANGLA-CINEMA/index.m3u8
+#EXTINF:-1 tvg-name="Colors Bangla HD (1080p)" group-title="Bangla", Colors Bangla HD (1080p)
+http://103.135.253.32:8080/COLORS-BANGLA-HD/index.m3u8
+#EXTINF:-1 tvg-name="Goldmines Action (576p)" group-title="Hindi Movies", Goldmines Action (576p)
+https://fta.ektv.in/live/584/master.m3u8
+#EXTINF:-1 tvg-name="Goldmines Bollywood" group-title="Hindi Movies", Goldmines Bollywood
+https://tvsen6.aynaott.com/55xNrLdf/index.m3u8
+#EXTINF:-1 tvg-name="Gopal Bhar" group-title="Kids", Gopal Bhar
+https://live20.bozztv.com/giatvplayout7/giatv-209611/tracks-v1a1/mono.ts.m3u8
+#EXTINF:-1 tvg-name="HBO 2" group-title="English Movies", HBO 2
+https://tvsen7.aynaott.com/hbo2/index.m3u8?e=1784102613&u=ee5437a7-c16b-4700-b317-a41b77d5cba9&token=40fc8084b5fc57624decaf17689aa4e3
+#EXTINF:-1 tvg-name="Movies Now + (1080p)" group-title="English Movies", Movies Now + (1080p)
+http://103.135.253.32:8080/MN-PLUS/index.m3u8
+#EXTINF:-1 tvg-name="Movies Now HD (1080p)" group-title="English Movies", Movies Now HD (1080p)
+http://103.135.253.32:8080/MOVIES-NOW/index.m3u8
+#EXTINF:-1 tvg-name="Pogo (576p)" group-title="Kids", Pogo (576p)
+http://103.135.253.32:8080/POGO/index.m3u8
+#EXTINF:-1 tvg-name="Star Gold HD (1080p)" group-title="Hindi Movies", Star Gold HD (1080p)
+https://livetv.shamon-cable.net:8443/StarGold/index.m3u8
+#EXTINF:-1 tvg-name="Star Movies HD (1080p)" group-title="Bangla Movies", Star Movies HD (1080p)
+https://livetv.shamon-cable.net:8443/Star-Movies/index.m3u8
+#EXTINF:-1 tvg-name="Supernatural Drama" group-title="English Drama", Supernatural Drama
+https://jmp2.uk/plu-5f24662bebe0f0000767de32.m3u8
+#EXTINF:-1 tvg-name="Zee Bangla HD (1080p)" group-title="Bangla", Zee Bangla HD (1080p)
+https://livetv.shamon-cable.net:8443/ZEE-Bangla/index.m3u8
+#EXTINF:-1 tvg-name="Zee Bangla HD (720p) [Geo-blocked]" group-title="Bangla", Zee Bangla HD (720p) [Geo-blocked]
+https://tvsen6.aynaott.com/ZeeBangla/index.m3u8
+#EXTINF:-1 tvg-name="Zee Bangla Sonar (576p)" group-title="Bangla", Zee Bangla Sonar (576p)
+http://103.135.253.32:8080/ZEE-BANGLA-CINEMA/index.m3u8
+#EXTINF:-1 tvg-name="Zee Cinema HD (1080p)" group-title="Hindi Movies", Zee Cinema HD (1080p)
+http://103.135.253.32:8080/ZEE-CINEMA/index.m3u8
+#EXTINF:-1 tvg-name="Zee Cinema HD (1080p)" group-title="Bangla Movies", Zee Cinema HD (1080p)
+https://livetv.shamon-cable.net:8443/Z-Cinema/index.m3u8
