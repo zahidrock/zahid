@@ -1,175 +1,155 @@
-#EXTM3U x-tvg-url=""
-#EXTINF:-1 tvg-name="Star Jalsha HD (720p)" group-title="Indian", Star Jalsha HD (720p)
+#EXTM3U
+#EXTINF:-1 tvg-name="Star Jalsha HD (720p)" group-title="Indian",Star Jalsha HD (720p)
 https://da86m1sqpm3o0.cloudfront.net/28072023/smil:starjalsha.smil/chunklist_b1928000.m3u8
-#EXTINF:-1 tvg-name="Zee Bangla HD (720p)" group-title="Bangla", Zee Bangla HD (720p)
+#EXTINF:-1 tvg-name="Zee Bangla HD (720p)" group-title="Bangla",Zee Bangla HD (720p)
 https://raw.githubusercontent.com/amazeyourself/adaptive-streams/refs/heads/main/streams/in/YuppTV/ZeeBanglaHD.m3u8
-#EXTINF:-1 tvg-name="Jumuna TV" group-title="Bangla", Jumuna TV
+#EXTINF:-1 tvg-name="Colors Bangla HD (1080p)" group-title="Bangla",Colors Bangla HD (1080p)
+https://yupptvcatchupire.yuppcdn.net/preview/colorsbanglahd/800.m3u8
+#EXTINF:-1 tvg-name="Jumuna TV" group-title="Bangla",Jumuna TV
 https://tvsen6.aynaott.com/KGdZEdA7qQ43dmPkgk1j/index.m3u8
-#EXTINF:-1 tvg-name="Somoy TV" group-title="Bangla", Somoy TV
+#EXTINF:-1 tvg-name="Somoy TV" group-title="Bangla",Somoy TV
 https://tvsen7.aynaott.com/somoytv/index.m3u8
-#EXTINF:-1 tvg-name="Channel 24" group-title="Bangla", Channel 24
+#EXTINF:-1 tvg-name="Channel 24" group-title="Bangla",Channel 24
 https://tvsen6.aynaott.com/YrVDF8gujkdh/index.m3u8
-#EXTINF:-1 tvg-name="Ekattor 71 HD" group-title="Bangla", Ekattor 71 HD
+#EXTINF:-1 tvg-name="Ekattor 71 HD" group-title="Bangla",Ekattor 71 HD
 https://tvsen6.aynaott.com/EWDrV5QskgarZEUBb3pU/index.m3u8
-#EXTINF:-1 tvg-name="ATN News" group-title="Bangla", ATN News
+#EXTINF:-1 tvg-name="ATN News" group-title="Bangla",ATN News
 https://tvsen6.aynaott.com/da6WMXAk/index.m3u8
-#EXTINF:-1 tvg-name="News24" group-title="Bangla", News24
+#EXTINF:-1 tvg-name="News24" group-title="Bangla",News24
 https://tvsen6.aynaott.com/cdgr3tw6WoG7JyRnLbi0/index.m3u8
-#EXTINF:-1 tvg-name="DBC News" group-title="Bangla", DBC News
+#EXTINF:-1 tvg-name="DBC News" group-title="Bangla",DBC News
 https://tvsen6.aynaott.com/pF66Tkz0qFwP2aMMqHyt/index.m3u8
-#EXTINF:-1 tvg-name="Independent TV" group-title="Bangla", Independent TV
+#EXTINF:-1 tvg-name="Independent TV" group-title="Bangla",Independent TV
 https://tvsen6.aynaott.com/Wef2Vj67njeYGDqQNFB9/index.m3u8
-#EXTINF:-1 tvg-name="Deepto TV" group-title="Bangla", Deepto TV
+#EXTINF:-1 tvg-name="Deepto TV" group-title="Bangla",Deepto TV
 https://byphdgllyk.gpcdn.net/hls/deeptotv/index.m3u8
-#EXTINF:-1 tvg-name="Deepto TV" group-title="Bangla", Deepto TV
+#EXTINF:-1 tvg-name="Deepto TV" group-title="Bangla",Deepto TV
 https://tvsen5.aynaott.com/tK2BNdfsdfsdf/index.m3u8
-#EXTINF:-1 tvg-name="Maasranga TV" group-title="Bangla", Maasranga TV
+#EXTINF:-1 tvg-name="Maasranga TV" group-title="Bangla",Maasranga TV
 https://mtv.sunplex.live/MAASRANGA/index.m3u8
-#EXTINF:-1 tvg-name="Jago News 24" group-title="Bangla", Jago News 24
+#EXTINF:-1 tvg-name="Jago News 24" group-title="Bangla",Jago News 24
 https://app.ncare.live/live-orgin/jagonews24.stream/playlist.m3u8
-#EXTINF:-1 tvg-name="Bangla Vision TV" group-title="Bangla", Bangla Vision TV
+#EXTINF:-1 tvg-name="Bangla Vision TV" group-title="Bangla",Bangla Vision TV
 https://tvsen5.aynaott.com/tgUzpPc9r6xw/index.m3u8
-#EXTINF:-1 tvg-name="NTV" group-title="Bangla", NTV
+#EXTINF:-1 tvg-name="NTV" group-title="Bangla",NTV
 https://tvsen5.aynaott.com/xV4jEKf3D9zc/index.m3u8
-#EXTINF:-1 tvg-name="Channel I" group-title="Bangla", Channel I
+#EXTINF:-1 tvg-name="Channel I" group-title="Bangla",Channel I
 https://tvsen6.aynaott.com/FNHpYvGZ7FkCE10PwTHm/index.m3u8
-#EXTINF:-1 tvg-name="Desh TV" group-title="Bangla", Desh TV
+#EXTINF:-1 tvg-name="Desh TV" group-title="Bangla",Desh TV
 https://tvsen6.aynaott.com/ryFkXfd1a4CQ7mMdc820/index.m3u8
-#EXTINF:-1 tvg-name="EKHON TV" group-title="Bangla", EKHON TV
+#EXTINF:-1 tvg-name="EKHON TV" group-title="Bangla",EKHON TV
 https://app24.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMFDEEHGcfRgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcEdsEfeDeKiNkVN3PTOmdFseWRtaW51aiPhnPTI2/globaltv.stream/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-name="SA TV" group-title="Bangla", SA TV
+#EXTINF:-1 tvg-name="SA TV" group-title="Bangla",SA TV
 https://app24.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMFDEEHGcfRgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcEdsEfeDeKiNkVN3PTOmdFseWRtaW51aiPhnPTI2/satvoff5666.stream/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-name="GLOBAL TV HD" group-title="Bangla", GLOBAL TV HD
+#EXTINF:-1 tvg-name="GLOBAL TV HD" group-title="Bangla",GLOBAL TV HD
 https://app24.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMFDEEHGcfRgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcEdsEfeDeKiNkVN3PTOmdFseWRtaW51aiPhnPTI2/Global-tv.stream/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-name="ATN Bangla" group-title="Bangla", ATN Bangla
+#EXTINF:-1 tvg-name="ATN Bangla" group-title="Bangla",ATN Bangla
 https://app24.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMFDEEHGcfRgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcEdsEfeDeKiNkVN3PTOmdFseWRtaW51aiPhnPTI2/atnbd-8-org.stream/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-name="Mohona TV" group-title="Bangla", Mohona TV
+#EXTINF:-1 tvg-name="Mohona TV" group-title="Bangla",Mohona TV
 https://tvsen6.aynaott.com/AkyX5dunzju4cpo26dr7/index.m3u8
-#EXTINF:-1 tvg-name="Asian TV" group-title="Bangla", Asian TV
+#EXTINF:-1 tvg-name="Asian TV" group-title="Bangla",Asian TV
 https://app24.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMFDEEHGcfRgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcEdsEfeDeKiNkVN3PTOmdFseWRtaW51aiPhnPTI2/asian-test-sample-ok-d.stream/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-name="Nexus TV HD" group-title="Bangla", Nexus TV HD
+#EXTINF:-1 tvg-name="Nexus TV HD" group-title="Bangla",Nexus TV HD
 https://tvsen6.aynaott.com/Epm7WrFa/index.m3u8
-#EXTINF:-1 tvg-name="RTV" group-title="Bangla", RTV
+#EXTINF:-1 tvg-name="RTV" group-title="Bangla",RTV
 https://app24.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMFDEEHGcfRgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcEdsEfeDeKiNkVN3PTOmdFseWRtaW51aiPhnPTI2/rtv-sg.stream/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-name="Channel 1" group-title="Bangla", Channel 1
+#EXTINF:-1 tvg-name="Channel 1" group-title="Bangla",Channel 1
 https://app24.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMFDEEHGcfRgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcEdsEfeDeKiNkVN3PTOmdFseWRtaW51aiPhnPTI2/channel1bd.stream/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-name="Boishakhi TV" group-title="Bangla", Boishakhi TV
+#EXTINF:-1 tvg-name="Boishakhi TV" group-title="Bangla",Boishakhi TV
 https://tvsen6.aynaott.com/1d3uG9VCgrR9DRtWZM57/index.m3u8
-#EXTINF:-1 tvg-name="Duronto TV" group-title="Bangla", Duronto TV
+#EXTINF:-1 tvg-name="Duronto TV" group-title="Bangla",Duronto TV
 https://tvsen6.aynaott.com/6xyZ3N4oHv2KBJdB6W4p/index.m3u8
-#EXTINF:-1 tvg-name="Ekushey TV" group-title="Bangla", Ekushey TV
+#EXTINF:-1 tvg-name="Ekushey TV" group-title="Bangla",Ekushey TV
 https://ekusheyserver.com/hls-live/livepkgr/_definst_/liveevent/livestream3.m3u8
-#EXTINF:-1 tvg-name="Bangla TV" group-title="Bangla", Bangla TV
+#EXTINF:-1 tvg-name="Bangla TV" group-title="Bangla",Bangla TV
 https://tvsen6.aynaott.com/39ee93nUbCCmm5LsyD4t/index.m3u8
-#EXTINF:-1 tvg-name="Bijoy TV" group-title="Bangla", Bijoy TV
+#EXTINF:-1 tvg-name="Bijoy TV" group-title="Bangla",Bijoy TV
 https://tvsen6.aynaott.com/N8Xbo5vdwVU6sF43RsW0/index.m3u8
-#EXTINF:-1 tvg-name="Sananda TV" group-title="Bangla", Sananda TV
+#EXTINF:-1 tvg-name="Sananda TV" group-title="Bangla",Sananda TV
 https://tvsen6.aynaott.com/LeUAm4F1iixYns3s3Non/index.m3u8
-#EXTINF:-1 tvg-name="RAJDHANI TV HD" group-title="Bangla", RAJDHANI TV HD
+#EXTINF:-1 tvg-name="RAJDHANI TV HD" group-title="Bangla",RAJDHANI TV HD
 https://stream.shariarsuvo.com/hls5/rajdhanicable.m3u8
-#EXTINF:-1 tvg-name="News21" group-title="Bangla", News21
+#EXTINF:-1 tvg-name="News21" group-title="Bangla",News21
 http://103.190.133.68:1935/news21live/live/playlist.m3u8
-#EXTINF:-1 tvg-name="Deshi TV" group-title="Bangla", Deshi TV
+#EXTINF:-1 tvg-name="Deshi TV" group-title="Bangla",Deshi TV
 https://deshitv.deshitv24.net/live/myStream/playlist.m3u8
-#EXTINF:-1 tvg-id="aynaott-channel-52" tvg-name="Channel 52" group-title="Bangla", Channel 52
+#EXTINF:-1 tvg-id="aynaott-channel-52" tvg-name="Channel 52" group-title="Bangla",Channel 52
 https://tvsen6.aynaott.com/channel52/index.m3u8
-#EXTINF:-1 tvg-name="Channel 9" group-title="Bangla", Channel 9
-https://tvsen6.aynaott.com/kajlsd57jnzxyo/index.m3u8
-#EXTINF:-1 tvg-id="aynaott-etv" tvg-name="ETV" group-title="Bangla", ETV
+#EXTINF:-1 tvg-name="Channel 9" group-title="Bangla",Channel 9
+https://raw.githubusercontent.com/zeroflixxyz/livetv/master/cast/channel9.m3u8
+#EXTINF:-1 tvg-id="aynaott-etv" tvg-name="ETV" group-title="Bangla",ETV
 https://tvsen5.aynaott.com/SyQuXz8sC3TB/index.m3u8
-#EXTINF:-1 tvg-name="Green TV" group-title="Bangla", Green TV
-https://tvsen6.aynaott.com/cLuA3hJR/index.m3u8?e=1784102578&u=ee5437a7-c16b-4700-b317-a41b77d5cba9&token=57bcdefd396bd85d72461ff29cbde00d
-#EXTINF:-1 tvg-name="Gazi TV" group-title="Bangla", Gazi TV
+#EXTINF:-1 tvg-name="Green TV" group-title="Bangla",Green TV
+https://raw.githubusercontent.com/zeroflixxyz/livetv/master/cast/and_tv_hd.m3u8
+#EXTINF:-1 tvg-name="Gazi TV" group-title="Bangla",Gazi TV
 https://app.ncare.live/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI2/gazibdz.stream/live-orgin/gazibdz.stream/playlist.m3u8
-#EXTINF:-1 tvg-name="Channel 16" group-title="Bangla", Channel 16
+#EXTINF:-1 tvg-id="ch-16" tvg-name="Gazi TV (720p)" group-title="Bangla",Gazi TV (720p)
+https://raw.githubusercontent.com/zeroflixxyz/livetv/master/cast/gazi_tv.m3u8
+#EXTINF:-1 tvg-name="Channel 16" group-title="Bangla",Channel 16
 http://103.121.61.218/tmp_hls/f64eac11f2cd8f0efa196f8ad173178e/index.m3u8
-#EXTINF:-1 tvg-id="aynaott-abn" tvg-name="ABN" group-title="Bangla", ABN
-https://mediaserver.abnvideos.com/streams/abnurdu.m3u8
-#EXTINF:-1 tvg-id="aynaott-sangeet-bangla" tvg-name="Sangeet Bangla" group-title="Bangla", Sangeet Bangla
+#EXTINF:-1 tvg-id="aynaott-sangeet-bangla" tvg-name="Sangeet Bangla" group-title="Bangla",Sangeet Bangla
 https://mumt05.tangotv.in/87NeALx2SANGEETBANGLA/index.m3u8
-#EXTINF:-1 tvg-name="Aakaash Aath (576p)" group-title="Bangla", Aakaash Aath (576p)
-https://cdn.pishow.tv/ott/live/969/master.m3u8
-#EXTINF:-1 tvg-name="Aamar Bangla (720p)" group-title="Bangla", Aamar Bangla (720p)
-https://app.ncare.live/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI/amarbanglatv.stream/playlist.m3u8
-#EXTINF:-1 tvg-name="Enterr 10 Bangla (576p)" group-title="Bangla", Enterr 10 Bangla (576p)
-https://mumt07.tangotv.in/zHjX9OFlENTERR10BANGLA/index.m3u8
-#EXTINF:-1 tvg-name="ZB Cinema (1080p)" group-title="Bangla", ZB Cinema (1080p)
-https://server.zillarbarta.com/ZBCINEMA/index.m3u8
-#EXTINF:-1 tvg-name="Sony Entertainment Television HD (1080p)" group-title="Indian", Sony Entertainment Television HD (1080p)
-http://38.96.178.205/SONYHD/index.m3u8
-#EXTINF:-1 tvg-name="Sony Wah (1080p) [Geo-blocked]" group-title="Indian", Sony Wah (1080p) [Geo-blocked]
-https://sl.vodep39240327.workers.dev/channel/SONY+WAH.m3u8
-#EXTINF:-1 tvg-name="Zee Cinema APAC (720p)" group-title="Indian", Zee Cinema APAC (720p)
-https://raw.githubusercontent.com/amazeyourself/adaptive-streams/refs/heads/main/streams/sg/YuppTV/ZeeCinemaAPAC.m3u8
-#EXTINF:-1 tvg-id="ch-16" tvg-name="Gazi TV (720p)" group-title="Bangla", Gazi TV (720p)
-https://app.ncare.live/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI2/gazibdz.stream/live-orgin/gazibdz.stream/playlist.m3u8
-#EXTINF:-1 tvg-id="aynaott-hbo" tvg-name="HBO" group-title="Bangla", HBO
-https://tvsen7.aynaott.com/hbo/index.m3u8
-#EXTINF:-1 tvg-id="ch-6243" tvg-name="MNTV" group-title="Bangla", MNTV
-https://www.khuwemultimedia.com/hls/mntv/mntv.m3u8
-#EXTINF:-1 tvg-id="aynaott-t-sports-hd" tvg-name="T Sports HD" group-title="Bangla", T Sports HD
+#EXTINF:-1 tvg-name="Colors Bangla Cinema (576p)" group-title="Bangla",Colors Bangla Cinema (576p)
+https://livetv.shamon-cable.net:8443/Colors-bangla-cinema/index.m3u8
+#EXTINF:-1 tvg-id="jalshamovieshd.in" tvg-name="JALSHA MOVIES HD" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Jalsa_Movies_HD.png" group-title="Kolkata Movies",JALSHA MOVIES HD
+https://raw.githubusercontent.com/channeliptv0/IPTV/refs/heads/main/STARM3U8/JalshaMoviesHd.m3u8
+#EXTINF:-1 tvg-name="Zee Bangla Sonar (576p)" group-title="Bangla",Zee Bangla Sonar (576p)
+https://alex4528.site/zee5/zee-bangla-sonar/manifest.m3u8
+#EXTINF:-1 tvg-id="aynaott-t-sports-hd" tvg-name="T Sports HD" group-title="Bangla",T Sports HD
 https://tvsen5.aynaott.com/TnMn5kZz8aLmjklkk/index.m3u8
-#EXTINF:-1 tvg-name="AXN Black (United States) Czech Republic" group-title="Indian", AXN Black (United States) Czech Republic
-http://88.212.15.50/live/test_black/playlist.m3u8
-#EXTINF:-1 tvg-name="Sony Movies (United States) (720p)" group-title="Indian", Sony Movies (United States) (720p)
-https://a-cdn.klowdtv.com/live1/smc_720p/playlist.m3u8
-#EXTINF:-1 tvg-id="ch-9076" tvg-name="Sony One Blacklist (1080p)" group-title="Indian", Sony One Blacklist (1080p)
-https://06cb85ad6ccb4a6b97f561e62d16ad3f.mediatailor.us-west-2.amazonaws.com/v1/master/ba62fe743df0fe93366eba3a257d792884136c7f/LINEAR-822-FR-SONYONETHEBLACKLIST-LG_FR/playlist.m3u8
-#EXTINF:-1 tvg-name="Sony One Favoris (1080p)" group-title="Indian", Sony One Favoris (1080p)
-https://49d735318d6b4c30a24a7997ea594e1b.mediatailor.us-west-2.amazonaws.com/v1/master/ba62fe743df0fe93366eba3a257d792884136c7f/LINEAR-820-FR-SONYONEFAVORIS-LG_FR/playlist.m3u8
-#EXTINF:-1 tvg-name="Sony One Hits Action (1080p)" group-title="Indian", Sony One Hits Action (1080p)
-https://5098a8b860504a3690fd2e7c0a18d68f.mediatailor.us-west-2.amazonaws.com/v1/master/ba62fe743df0fe93366eba3a257d792884136c7f/LINEAR-817-FR-SONYONEHITSACTION-LG_FR/playlist.m3u8
-#EXTINF:-1 tvg-name="Sony One Hits Comedie (1080p)" group-title="Indian", Sony One Hits Comedie (1080p)
-https://7aa9671895264ec9a384dfed1b992171.mediatailor.us-west-2.amazonaws.com/v1/master/ba62fe743df0fe93366eba3a257d792884136c7f/LINEAR-818-FR-SONYONEHITSCOMDIE-LG_FR/playlist.m3u8
-#EXTINF:-1 tvg-name="Action 24 (1080p) [Not 24/7]" group-title="Movies", Action 24 (1080p) [Not 24/7]
-http://actionlive.siliconweb.com/actionabr/actiontv/playlist.m3u8
-#EXTINF:-1 tvg-name="Action Hollywood Movies" group-title="Movies", Action Hollywood Movies
-https://cdn-apse1-prod.tsv2.amagi.tv/linear/amg01076-lightningintern-actionhollywood-samsungnz/playlist.m3u8
-#EXTINF:-1 tvg-name="HBO Asia HD (1080p)" group-title="Movies", HBO Asia HD (1080p)
-http://202.150.165.66:8088/play/100-HBO/index.m3u8
-#EXTINF:-1 tvg-id="ch-4767" tvg-name="HBO Family Asia HD (1080p)" group-title="Movies", HBO Family Asia HD (1080p)
-http://202.150.165.66:8088/play/103-HBOFamily/index.m3u8
-#EXTINF:-1 tvg-name="HBO Hits Asia HD (1080p)" group-title="Movies", HBO Hits Asia HD (1080p)
-http://202.150.165.66:8088/play/102-HBOHits/index.m3u8
-#EXTINF:-1 tvg-id="ch-4771" tvg-name="HBO Latin America (1080p)" group-title="Movies", HBO Latin America (1080p)
-https://streaming.onnethn.com/HBO/playlist.m3u8
-#EXTINF:-1 tvg-name="HBO Signature Asia HD (1080p)" group-title="Movies", HBO Signature Asia HD (1080p)
-http://202.150.165.66:8088/play/101-HBOSignature/index.m3u8
-#EXTINF:-1 tvg-id="ch-4774" tvg-name="HBO Signature Latin America" group-title="Movies", HBO Signature Latin America
-https://tvsen7.aynaott.com/hbo/index.m3u8
-#EXTINF:-1 tvg-name="Movies Action (1080p)" group-title="Movies", Movies Action (1080p)
-https://shd-amg-fast.edgenextcdn.net/tx011/playlist.m3u8
-#EXTINF:-1 tvg-name="Movies Thriller (1080p)" group-title="Movies", Movies Thriller (1080p)
-https://shd-amg-fast.edgenextcdn.net/tx012/playlist.m3u8
-#EXTINF:-1 tvg-name="Star Movies (India) HD (1080p)" group-title="Indian", Star Movies (India) HD (1080p)
-http://103.135.253.32:8080/STAR-MOVIES/index.m3u8
-#EXTINF:-1 tvg-name="Star Movies Select HD (1080p)" group-title="Movies", Star Movies Select HD (1080p)
-https://livetv.shamon-cable.net:8443/Star-movies-select/index.m3u8
-#EXTINF:-1 tvg-name="AXN Black (United States) Hungary (576p)" group-title="English Drama", AXN Black (United States) Hungary (576p)
-http://141.94.193.53/axn_black/index.m3u8
-#EXTINF:-1 tvg-name="Colors Bangla Cinema (576p)" group-title="Bangla", Colors Bangla Cinema (576p)
-http://103.135.253.32:8080/COLORS-BANGLA-CINEMA/index.m3u8
-#EXTINF:-1 tvg-name="Colors Bangla HD (1080p)" group-title="Bangla", Colors Bangla HD (1080p)
-http://103.165.93.31:8095/colorsBangla/index.m3u8
-#EXTINF:-1 tvg-name="HBO 2" group-title="Movies", HBO 2
-https://tvsen7.aynaott.com/hbo2/index.m3u8?e=1784102613&u=ee5437a7-c16b-4700-b317-a41b77d5cba9&token=40fc8084b5fc57624decaf17689aa4e3
-#EXTINF:-1 tvg-name="Movies Now + (1080p)" group-title="Movies", Movies Now + (1080p)
-http://103.135.253.32:8080/MN-PLUS/index.m3u8
-#EXTINF:-1 tvg-name="Movies Now HD (1080p)" group-title="Movies", Movies Now HD (1080p)
-http://103.135.253.32:8080/MN-PLUS/index.m3u8
-#EXTINF:-1 tvg-name="Star Gold HD (1080p)" group-title="Indian", Star Gold HD (1080p)
+#EXTINF:-1 tvg-name="Zee Cinema APAC (720p)" group-title="Indian",Zee Cinema APAC (720p)
+https://raw.githubusercontent.com/amazeyourself/adaptive-streams/refs/heads/main/streams/sg/YuppTV/ZeeCinemaAPAC.m3u8
+#EXTINF:-1 tvg-name="Star Gold HD (1080p)" group-title="Indian",Star Gold HD (1080p)
 https://livetv.shamon-cable.net:8443/StarGold/index.m3u8
-#EXTINF:-1 tvg-name="Star Movies HD (1080p)" group-title="Bangla", Star Movies HD (1080p)
-https://livetv.shamon-cable.net:8443/Star-Movies/index.m3u8
-#EXTINF:-1 tvg-name="Supernatural Drama" group-title="English Drama", Supernatural Drama
+#EXTINF:-1 tvg-name="Sony Entertainment Television HD (1080p)" group-title="Indian",Sony Entertainment Television HD (1080p)
+http://38.96.178.205/SONYHD/index.m3u8
+#EXTINF:-1 tvg-name="Sony Wah (1080p) [Geo-blocked]" group-title="Indian",Sony Wah (1080p) [Geo-blocked]
+http://195.26.87.217/live.ts?channelId=187&uid=7435&deviceMac=00:1A:79:51:4B:3A
+#EXTINF:-1 tvg-id="aynaott-hbo" tvg-name="HBO" group-title="Bangla",HBO
+https://tvsen7.aynaott.com/hbo/index.m3u8
+#EXTINF:-1 tvg-name="AXN Black (United States) Czech Republic" group-title="Indian",AXN Black (United States) Czech Republic
+http://88.212.15.50/live/test_black/playlist.m3u8
+#EXTINF:-1 tvg-name="AXN Black (United States) Hungary (576p)" group-title="English Drama",AXN Black (United States) Hungary (576p)
+http://141.94.193.53/axn_black/index.m3u8
+#EXTINF:-1 tvg-name="Sony Movies (United States) (720p)" group-title="Indian",Sony Movies (United States) (720p)
+https://a-cdn.klowdtv.com/live1/smc_720p/playlist.m3u8
+#EXTINF:-1 tvg-id="ch-9076" tvg-name="Sony One Blacklist (1080p)" group-title="Indian",Sony One Blacklist (1080p)
+https://06cb85ad6ccb4a6b97f561e62d16ad3f.mediatailor.us-west-2.amazonaws.com/v1/master/ba62fe743df0fe93366eba3a257d792884136c7f/LINEAR-822-FR-SONYONETHEBLACKLIST-LG_FR/playlist.m3u8
+#EXTINF:-1 tvg-name="Sony One Favoris (1080p)" group-title="Indian",Sony One Favoris (1080p)
+https://49d735318d6b4c30a24a7997ea594e1b.mediatailor.us-west-2.amazonaws.com/v1/master/ba62fe743df0fe93366eba3a257d792884136c7f/LINEAR-820-FR-SONYONEFAVORIS-LG_FR/playlist.m3u8
+#EXTINF:-1 tvg-name="Sony One Hits Action (1080p)" group-title="Indian",Sony One Hits Action (1080p)
+https://5098a8b860504a3690fd2e7c0a18d68f.mediatailor.us-west-2.amazonaws.com/v1/master/ba62fe743df0fe93366eba3a257d792884136c7f/LINEAR-817-FR-SONYONEHITSACTION-LG_FR/playlist.m3u8
+#EXTINF:-1 tvg-name="Sony One Hits Comedie (1080p)" group-title="Indian",Sony One Hits Comedie (1080p)
+https://7aa9671895264ec9a384dfed1b992171.mediatailor.us-west-2.amazonaws.com/v1/master/ba62fe743df0fe93366eba3a257d792884136c7f/LINEAR-818-FR-SONYONEHITSCOMDIE-LG_FR/playlist.m3u8
+#EXTINF:-1 tvg-name="Action 24 (1080p) [Not 24/7]" group-title="Movies",Action 24 (1080p) [Not 24/7]
+http://actionlive.siliconweb.com/actionabr/actiontv/playlist.m3u8
+#EXTINF:-1 tvg-name="Action Hollywood Movies" group-title="Movies",Action Hollywood Movies
+https://cdn-apse1-prod.tsv2.amagi.tv/linear/amg01076-lightningintern-actionhollywood-samsungnz/playlist.m3u8
+#EXTINF:-1 tvg-name="HBO Asia HD (1080p)" group-title="Movies",HBO Asia HD (1080p)
+https://raw.githubusercontent.com/zeroflixxyz/livetv/master/cast/hbo.m3u8
+#EXTINF:-1 tvg-id="ch-4767" tvg-name="HBO Family Asia HD (1080p)" group-title="Movies",HBO Family Asia HD (1080p)
+https://raw.githubusercontent.com/zeroflixxyz/livetv/master/cast/hbo.m3u8
+#EXTINF:-1 tvg-name="HBO Hits Asia HD (1080p)" group-title="Movies",HBO Hits Asia HD (1080p)
+https://raw.githubusercontent.com/zeroflixxyz/livetv/master/cast/hbo.m3u8
+#EXTINF:-1 tvg-id="ch-4771" tvg-name="HBO Latin America (1080p)" group-title="Movies",HBO Latin America (1080p)
+https://streaming.onnethn.com/HBO/playlist.m3u8
+#EXTINF:-1 tvg-name="HBO Signature Asia HD (1080p)" group-title="Movies",HBO Signature Asia HD (1080p)
+https://raw.githubusercontent.com/zeroflixxyz/livetv/master/cast/hbo.m3u8
+#EXTINF:-1 tvg-id="ch-4774" tvg-name="HBO Signature Latin America" group-title="Movies",HBO Signature Latin America
+https://tvsen7.aynaott.com/hbo/index.m3u8
+#EXTINF:-1 tvg-name="HBO 2" group-title="Movies",HBO 2
+https://tvsen7.aynaott.com/hbo2/index.m3u8?e=1784102613&u=ee5437a7-c16b-4700-b317-a41b77d5cba9&token=40fc8084b5fc57624decaf17689aa4e3
+#EXTINF:-1 tvg-name="Movies Action (1080p)" group-title="Movies",Movies Action (1080p)
+https://shd-amg-fast.edgenextcdn.net/tx011/playlist.m3u8
+#EXTINF:-1 tvg-name="Movies Thriller (1080p)" group-title="Movies",Movies Thriller (1080p)
+https://shd-amg-fast.edgenextcdn.net/tx012/playlist.m3u8
+#EXTINF:-1 tvg-name="Star Movies (India) HD (1080p)" group-title="Indian",Star Movies (India) HD (1080p)
+https://raw.githubusercontent.com/zeroflixxyz/livetv/master/cast/star_movies_hd.m3u8
+#EXTINF:-1 tvg-name="Star Movies Select HD (1080p)" group-title="Movies",Star Movies Select HD (1080p)
+https://livetv.shamon-cable.net:8443/Star-movies-select/index.m3u8
+#EXTINF:-1 tvg-name="Movies Now + (1080p)" group-title="Movies",Movies Now + (1080p)
+http://27.124.71.27/Movies_Now/index.m3u8
+#EXTINF:-1 tvg-name="Movies Now HD (1080p)" group-title="Movies",Movies Now HD (1080p)
+http://27.124.71.27/Movies_Now/index.m3u8
+#EXTINF:-1 tvg-name="Supernatural Drama" group-title="English Drama",Supernatural Drama
 https://jmp2.uk/plu-5f24662bebe0f0000767de32.m3u8
-#EXTINF:-1 tvg-name="Zee Bangla HD (1080p)" group-title="Bangla", Zee Bangla HD (1080p)
-https://livetv.shamon-cable.net:8443/ZEE-Bangla/index.m3u8
-#EXTINF:-1 tvg-name="Zee Bangla HD (720p) [Geo-blocked]" group-title="Bangla", Zee Bangla HD (720p) [Geo-blocked]
-https://tvsen6.aynaott.com/ZeeBangla/index.m3u8
-#EXTINF:-1 tvg-name="Zee Bangla Sonar (576p)" group-title="Bangla", Zee Bangla Sonar (576p)
-http://103.185.24.134:3001/ZEE-BANGLA-CINEMA/index.m3u8
-#EXTINF:-1 tvg-name="Zee Cinema HD (1080p)" group-title="Indian", Zee Cinema HD (1080p)
-http://103.135.253.32:8080/ZEE-CINEMA/index.m3u8
-#EXTINF:-1 tvg-name="Zee Cinema HD (1080p)" group-title="Bangla", Zee Cinema HD (1080p)
-https://livetv.shamon-cable.net:8443/Z-Cinema/index.m3u8
