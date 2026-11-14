@@ -83,8 +83,6 @@ https://tvsen5.aynaott.com/SyQuXz8sC3TB/index.m3u8
 https://raw.githubusercontent.com/zeroflixxyz/livetv/master/cast/and_tv_hd.m3u8
 #EXTINF:-1 tvg-name="Gazi TV" group-title="Bangla",Gazi TV
 https://app.ncare.live/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI2/gazibdz.stream/live-orgin/gazibdz.stream/playlist.m3u8
-#EXTINF:-1 tvg-id="ch-16" tvg-name="Gazi TV (720p)" group-title="Bangla",Gazi TV (720p)
-https://raw.githubusercontent.com/zeroflixxyz/livetv/master/cast/gazi_tv.m3u8
 #EXTINF:-1 tvg-name="Channel 16" group-title="Bangla",Channel 16
 http://103.121.61.218/tmp_hls/f64eac11f2cd8f0efa196f8ad173178e/index.m3u8
 #EXTINF:-1 tvg-id="aynaott-sangeet-bangla" tvg-name="Sangeet Bangla" group-title="Bangla",Sangeet Bangla
@@ -101,16 +99,30 @@ https://tvsen5.aynaott.com/TnMn5kZz8aLmjklkk/index.m3u8
 https://raw.githubusercontent.com/amazeyourself/adaptive-streams/refs/heads/main/streams/sg/YuppTV/ZeeCinemaAPAC.m3u8
 #EXTINF:-1 tvg-name="Star Gold HD (1080p)" group-title="Indian",Star Gold HD (1080p)
 https://livetv.shamon-cable.net:8443/StarGold/index.m3u8
+#EXTINF:-1 tvg-name="AND PICTURES" group-title="Hindi Movies",AND PICTURES
+https://d75dqofg5kmfk.cloudfront.net/bpk-tv/Andpictures/default/andpictures.m3u8
+#EXTINF:-1 tvg-id="AllTimeMovies.in@SD" tvg-name="All Time Movies (576p)" tvg-logo="https://yt3.googleusercontent.com/U4INXhwmEUOABHoemQBpI6C9t4jb9iBmDvZ3ZT3lAb9Au_jVl32NL8XDpy-9cBjRJ2LP69Ovzg=s900-c-k-c0x00ffffff-no-rj" group-title="Hindi Movies",All Time Movies (576p)
+https://fta.ektv.in/live/54/54_0.m3u8
+#EXTINF:-1 tvg-id="B4UKadak.in@SD" tvg-name="B4U Kadak (1080p)" tvg-logo="https://dtil.tmsimg.com/assets/s142695_ld_h15_aa.png?lock=720x540" group-title="Hindi Movies",B4U Kadak (1080p)
+https://amg00877-b4unew-amg00877c4-xiaomi-in-5473.playouts.now.amagi.tv/playlist.m3u8
+#EXTINF:-1 tvg-id="PC6F-JQBv9knK3AHlTUO" tvg-name="B4U Movies APAC" tvg-logo="https://assets-prod.services.toffeelive.com/PC6F-JQBv9knK3AHlTUO/posters/fb0243ba-39a0-4101-a78c-c197be550c6c.webp" group-title="Hindi Movies",B4U Movies APAC
+https://toffee.aliflaila.live/channel/27.m3u8
+#EXTINF:-1 tvg-id="Ii5_-JQBv9knK3AHLDV3" tvg-name="Sony MAX 2" tvg-logo="https://assets-prod.services.toffeelive.com/Ii5_-JQBv9knK3AHLDV3/posters/d961cc87-81b6-4b30-8414-8c0af2774818.webp" group-title="Hindi Movies",Sony MAX 2
+https://toffee.aliflaila.live/channel/57.m3u8
+#EXTINF:-1 tvg-name="Sony Max 2 UK(BD)" group-title="Hindi Movies",Sony Max 2 UK(BD)
+http://195.26.87.217/live.ts?channelId=40479&uid=7435&deviceMac=00:1A:79:51:4B:3A
+#EXTINF:-1 tvg-name="Sony Max 2 • US" tvg-logo="https://dtil.tmsimg.com/assets/s143801_ld_h15_aa.png" group-title="Hindi Movies",Sony Max 2 • US
+http://fortv.cc:8080/live/yd6H5yb2kK/nrkVd2ex3X/125795.ts
+#EXTINF:-1 tvg-id="General" tvg-name="Sony Max HD" tvg-logo="https://raw.githubusercontent.com/zeroflixxyz/livetv/master/logo/wide/sony_max_hd.png" group-title="Hindi Movies",Sony Max HD
+https://raw.githubusercontent.com/zeroflixxyz/livetv/master/cast/sony_max_hd.m3u8
+#EXTINF:-1 tvg-id="stargoldhd.in" tvg-name="Star GOLD 2 Hd" group-title="Hindi Movies",Star GOLD 2 Hd
+https://raw.githubusercontent.com/channeliptv0/IPTV/refs/heads/main/STARM3U8/StarGold2Hd.m3u8
+#EXTINF:-1 tvg-name="ZEE ACTION" tvg-logo="https://upload.wikimedia.org/wikipedia/en/a/a4/Zee_Action_2023_logo.png" group-title="Hindi Movies",ZEE ACTION
+https://raw.githubusercontent.com/prasoyt08/live/main/zeeaction.m3u8
 #EXTINF:-1 tvg-name="Sony Entertainment Television HD (1080p)" group-title="Indian",Sony Entertainment Television HD (1080p)
 http://38.96.178.205/SONYHD/index.m3u8
-#EXTINF:-1 tvg-name="Sony Wah (1080p) [Geo-blocked]" group-title="Indian",Sony Wah (1080p) [Geo-blocked]
-http://195.26.87.217/live.ts?channelId=187&uid=7435&deviceMac=00:1A:79:51:4B:3A
 #EXTINF:-1 tvg-id="aynaott-hbo" tvg-name="HBO" group-title="Bangla",HBO
 https://tvsen7.aynaott.com/hbo/index.m3u8
-#EXTINF:-1 tvg-name="AXN Black (United States) Czech Republic" group-title="Indian",AXN Black (United States) Czech Republic
-http://88.212.15.50/live/test_black/playlist.m3u8
-#EXTINF:-1 tvg-name="AXN Black (United States) Hungary (576p)" group-title="English Drama",AXN Black (United States) Hungary (576p)
-http://141.94.193.53/axn_black/index.m3u8
 #EXTINF:-1 tvg-name="Sony Movies (United States) (720p)" group-title="Indian",Sony Movies (United States) (720p)
 https://a-cdn.klowdtv.com/live1/smc_720p/playlist.m3u8
 #EXTINF:-1 tvg-id="ch-9076" tvg-name="Sony One Blacklist (1080p)" group-title="Indian",Sony One Blacklist (1080p)
@@ -147,9 +159,9 @@ https://shd-amg-fast.edgenextcdn.net/tx012/playlist.m3u8
 https://raw.githubusercontent.com/zeroflixxyz/livetv/master/cast/star_movies_hd.m3u8
 #EXTINF:-1 tvg-name="Star Movies Select HD (1080p)" group-title="Movies",Star Movies Select HD (1080p)
 https://livetv.shamon-cable.net:8443/Star-movies-select/index.m3u8
-#EXTINF:-1 tvg-name="Movies Now + (1080p)" group-title="Movies",Movies Now + (1080p)
-http://27.124.71.27/Movies_Now/index.m3u8
 #EXTINF:-1 tvg-name="Movies Now HD (1080p)" group-title="Movies",Movies Now HD (1080p)
 http://27.124.71.27/Movies_Now/index.m3u8
-#EXTINF:-1 tvg-name="Supernatural Drama" group-title="English Drama",Supernatural Drama
-https://jmp2.uk/plu-5f24662bebe0f0000767de32.m3u8
+#EXTINF:-1 tvg-id="General" tvg-name="& Flix HD" tvg-logo="https://raw.githubusercontent.com/zeroflixxyz/livetv/master/logo/wide/and_flix_hd.png" group-title="English Movies",& Flix HD
+https://raw.githubusercontent.com/zeroflixxyz/livetv/master/cast/and_flix_hd.m3u8
+#EXTINF:-1 tvg-id="iFilmEnglish.ir@SD" tvg-name="iFilm English" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/b9/IFILM.png" group-title="English Movies",iFilm English
+https://live.presstv.co.uk/hls/ifilmen.m3u8
