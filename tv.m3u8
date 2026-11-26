@@ -8,6 +8,9 @@ https://yupptvcatchupire.yuppcdn.net/preview/colorsbanglahd/800.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Jalsha Movies HD" tvg-logo="" group-title="Kolkata Movies",Jalsha Movies HD
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36
 https://box.bbaria.net:8083/Jalsha_Movie/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Jalsha Movies HD" tvg-logo="" group-title="Kolkata Movies",Jalsha Movies HD
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36
+http://bigdonkeyfanz.com:8080/live/MAGGCG2TS7X/BYE88C8Z/132121.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="B Prime Bangla" tvg-logo="" group-title="Bangladesh",B Prime Bangla
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36
 https://ranacable.duckdns.org/Bprimebangla/tracks-v1a1/mono.m3u8
@@ -153,43 +156,11 @@ http://38.96.178.205/SONYHD/index.m3u8
 https://tvsen7.aynaott.com/hbo/index.m3u8
 #EXTINF:-1 tvg-name="Sony Movies (United States) (720p)" group-title="Indian",Sony Movies (United States) (720p)
 https://a-cdn.klowdtv.com/live1/smc_720p/playlist.m3u8
-#EXTINF:-1 tvg-id="ch-9076" tvg-name="Sony One Blacklist (1080p)" group-title="Indian",Sony One Blacklist (1080p)
-https://06cb85ad6ccb4a6b97f561e62d16ad3f.mediatailor.us-west-2.amazonaws.com/v1/master/ba62fe743df0fe93366eba3a257d792884136c7f/LINEAR-822-FR-SONYONETHEBLACKLIST-LG_FR/playlist.m3u8
-#EXTINF:-1 tvg-name="Sony One Favoris (1080p)" group-title="Indian",Sony One Favoris (1080p)
-https://49d735318d6b4c30a24a7997ea594e1b.mediatailor.us-west-2.amazonaws.com/v1/master/ba62fe743df0fe93366eba3a257d792884136c7f/LINEAR-820-FR-SONYONEFAVORIS-LG_FR/playlist.m3u8
-#EXTINF:-1 tvg-name="Sony One Hits Action (1080p)" group-title="Indian",Sony One Hits Action (1080p)
-https://5098a8b860504a3690fd2e7c0a18d68f.mediatailor.us-west-2.amazonaws.com/v1/master/ba62fe743df0fe93366eba3a257d792884136c7f/LINEAR-817-FR-SONYONEHITSACTION-LG_FR/playlist.m3u8
-#EXTINF:-1 tvg-name="Sony One Hits Comedie (1080p)" group-title="Indian",Sony One Hits Comedie (1080p)
-https://7aa9671895264ec9a384dfed1b992171.mediatailor.us-west-2.amazonaws.com/v1/master/ba62fe743df0fe93366eba3a257d792884136c7f/LINEAR-818-FR-SONYONEHITSCOMDIE-LG_FR/playlist.m3u8
 #EXTINF:-1 tvg-name="Action 24 (1080p) [Not 24/7]" group-title="Movies",Action 24 (1080p) [Not 24/7]
 http://actionlive.siliconweb.com/actionabr/actiontv/playlist.m3u8
 #EXTINF:-1 tvg-name="Action Hollywood Movies" group-title="Movies",Action Hollywood Movies
 https://cdn-apse1-prod.tsv2.amagi.tv/linear/amg01076-lightningintern-actionhollywood-samsungnz/playlist.m3u8
-#EXTINF:-1 tvg-name="HBO Asia HD (1080p)" group-title="Movies",HBO Asia HD (1080p)
-https://raw.githubusercontent.com/zeroflixxyz/livetv/master/cast/hbo.m3u8
-#EXTINF:-1 tvg-id="ch-4767" tvg-name="HBO Family Asia HD (1080p)" group-title="Movies",HBO Family Asia HD (1080p)
-https://raw.githubusercontent.com/zeroflixxyz/livetv/master/cast/hbo.m3u8
-#EXTINF:-1 tvg-name="HBO Hits Asia HD (1080p)" group-title="Movies",HBO Hits Asia HD (1080p)
-https://raw.githubusercontent.com/zeroflixxyz/livetv/master/cast/hbo.m3u8
-#EXTINF:-1 tvg-id="ch-4771" tvg-name="HBO Latin America (1080p)" group-title="Movies",HBO Latin America (1080p)
-https://streaming.onnethn.com/HBO/playlist.m3u8
-#EXTINF:-1 tvg-name="HBO Signature Asia HD (1080p)" group-title="Movies",HBO Signature Asia HD (1080p)
-https://raw.githubusercontent.com/zeroflixxyz/livetv/master/cast/hbo.m3u8
-#EXTINF:-1 tvg-id="ch-4774" tvg-name="HBO Signature Latin America" group-title="Movies",HBO Signature Latin America
-https://tvsen7.aynaott.com/hbo/index.m3u8
-#EXTINF:-1 tvg-name="HBO 2" group-title="Movies",HBO 2
-https://tvsen7.aynaott.com/hbo2/index.m3u8?e=1784102613&u=ee5437a7-c16b-4700-b317-a41b77d5cba9&token=40fc8084b5fc57624decaf17689aa4e3
 #EXTINF:-1 tvg-name="Movies Action (1080p)" group-title="Movies",Movies Action (1080p)
 https://shd-amg-fast.edgenextcdn.net/tx011/playlist.m3u8
-#EXTINF:-1 tvg-name="Movies Thriller (1080p)" group-title="Movies",Movies Thriller (1080p)
-https://shd-amg-fast.edgenextcdn.net/tx012/playlist.m3u8
-#EXTINF:-1 tvg-name="Star Movies (India) HD (1080p)" group-title="Indian",Star Movies (India) HD (1080p)
-https://raw.githubusercontent.com/zeroflixxyz/livetv/master/cast/star_movies_hd.m3u8
-#EXTINF:-1 tvg-name="Star Movies Select HD (1080p)" group-title="Movies",Star Movies Select HD (1080p)
-https://livetv.shamon-cable.net:8443/Star-movies-select/index.m3u8
 #EXTINF:-1 tvg-name="Movies Now HD (1080p)" group-title="Movies",Movies Now HD (1080p)
 http://27.124.71.27/Movies_Now/index.m3u8
-#EXTINF:-1 tvg-id="General" tvg-name="& Flix HD" tvg-logo="https://raw.githubusercontent.com/zeroflixxyz/livetv/master/logo/wide/and_flix_hd.png" group-title="English Movies",& Flix HD
-https://raw.githubusercontent.com/zeroflixxyz/livetv/master/cast/and_flix_hd.m3u8
-#EXTINF:-1 tvg-id="iFilmEnglish.ir@SD" tvg-name="iFilm English" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/b9/IFILM.png" group-title="English Movies",iFilm English
-https://live.presstv.co.uk/hls/ifilmen.m3u8
